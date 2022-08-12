@@ -13,15 +13,11 @@ and install it. After that you can install the skin directly from the repository
 If you want to use special flags like HDR or Dolby Vision or special 3D formats you have to name your files with proper tags, 
 preferably before the file extension: 
 
-| 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |    HDR10 Files<sup>*</sup>     |            HDR+ Files            |       Dolby Vision<sup>*</sup>       |
+| 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |    HDR10 Files   |            HDR10+ Files            |       Dolby Vision      |
 |:-----------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:--------------------------------:|:------------------------------------:|
 |     ![](resources/flags/3d.png)     | ![](resources/flags/3dmvc.png) | ![](resources/flags/3dsbs.png) | ![](resources/flags/3dtab.png) | ![](resources/flags/hdr10.png) | ![](resources/flags/hdr10+.png) | ![](resources/flags/dolbyvision.png) | 
 |             no tagging              |             3d.mvc             |             3d.sbs             |             3d.tab             |        .hdr10.        |              .hdr10+.               |     .dv., .dovi., .dolbyvision.      |
 
-<sup>*</sup>Will be detected in Kodi Nexus and up and don't need filename tagging.
-
-
-The HDR type recognition by filename will be removed if Kodi detects the HDR type itself properly.
 
 ### Animated Artwork ###
 
