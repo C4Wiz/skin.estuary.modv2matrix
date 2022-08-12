@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1137">
+	<defaultcontrol always="true">11000</defaultcontrol>
+	<include>Animation_DialogPopupOpenClose</include>
+	<controls>
+		<control type="group">
+			<centerleft>50%</centerleft>
+			<height>570</height>
+			<centertop>50%</centertop>
+			<width>800</width>
+			<include content="DialogBackgroundCommons">
+				<param name="width" value="800" />
+				<param name="height" value="570" />
+				<param name="header_label" value="$LOCALIZE[31444]" />
+				<param name="header_id" value="1" />
+			</include>
+			<control type="group" id="11000">
+				<left>0</left>
+				<top>80</top>
+				<control type="grouplist" id="11100">
+					<width>800</width>
+					<height>490</height>
+					<itemgap>0</itemgap>
+					<onup>11100</onup>
+					<ondown>11100</ondown>
+					<onright>60</onright>
+					<onleft>60</onleft>
+					<orientation>vertical</orientation>
+					<pagecontrol>60</pagecontrol>
+					<control type="radiobutton" id="11111">
+						<label>$LOCALIZE[31445]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediasourceflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediasourceflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11112">
+						<label>$LOCALIZE[31446]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediaresolutionflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediaresolutionflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11113">
+						<label>$LOCALIZE[31447]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediavideocodecflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediavideocodecflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11114">
+						<label>$LOCALIZE[31448]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediaaspectratioflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediaaspectratioflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11124">
+						<label>$LOCALIZE[31575]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediacolordepthflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediacolordepthflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11135">
+						<label>$LOCALIZE[31812]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_videofpsflag)</selected>
+						<onclick>Skin.ToggleSetting(show_videofpsflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11115">
+						<label>$LOCALIZE[31449]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediaaudiocodecflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediaaudiocodecflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11116">
+						<label>$LOCALIZE[31450]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediaaudiochannelsflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediaaudiochannelsflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11125">
+						<label>$LOCALIZE[31586]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_dateairedflag)</selected>
+						<onclick>Skin.ToggleSetting(show_dateairedflag)</onclick>
+					</control>					
+					<control type="radiobutton" id="11117">
+						<label>$LOCALIZE[31451]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediadurationflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediadurationflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11118">
+						<label>$LOCALIZE[31452]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediaendtimeflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediaendtimeflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11122">
+						<label>$LOCALIZE[31456]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_albumsartistlag)</selected>
+						<onclick>Skin.ToggleSetting(show_albumsartistlag)</onclick>
+					</control>
+					<control type="radiobutton" id="11126">
+						<label>$LOCALIZE[31803]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_audiolangflag)</selected>
+						<onclick>Skin.ToggleSetting(show_audiolangflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11127">
+						<label>$LOCALIZE[31804]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_sublangflag)</selected>
+						<onclick>Skin.ToggleSetting(show_sublangflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11123">
+						<label>$LOCALIZE[31573]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mpaaflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mpaaflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11119">
+						<label>$LOCALIZE[31453]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediastudioflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediastudioflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11120">
+						<label>$LOCALIZE[31454]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_mediarecordlabelflag)</selected>
+						<onclick>Skin.ToggleSetting(show_mediarecordlabelflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11121">
+						<label>$LOCALIZE[31455]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_moviessetflag)</selected>
+						<onclick>Skin.ToggleSetting(show_moviessetflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11128">
+						<label>$LOCALIZE[31805]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_imdbflag)</selected>
+						<onclick>Skin.ToggleSetting(show_imdbflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11129">
+						<label>$LOCALIZE[31806]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_tmdbflag)</selected>
+						<onclick>Skin.ToggleSetting(show_tmdbflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11130">
+						<label>$LOCALIZE[31807]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_tvdbflag)</selected>
+						<onclick>Skin.ToggleSetting(show_tvdbflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11131">
+						<label>$LOCALIZE[31808]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_rottenflag)</selected>
+						<onclick>Skin.ToggleSetting(show_rottenflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11132">
+						<label>$LOCALIZE[31809]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_metacriticflag)</selected>
+						<onclick>Skin.ToggleSetting(show_metacriticflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11133">
+						<label>$LOCALIZE[31810]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_musicratingflag)</selected>
+						<onclick>Skin.ToggleSetting(show_musicratingflag)</onclick>
+					</control>
+					<control type="radiobutton" id="11134">
+						<label>$LOCALIZE[31811]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_myratingflag)</selected>
+						<onclick>Skin.ToggleSetting(show_myratingflag)</onclick>
+					</control>
+				</control>
+				<include content="SettingsScrollbar">
+					<param name="height">485</param>
+					<param name="leftright">11100</param>
+				</include>
+			</control>
+		</control>
+	</controls>
+</window>

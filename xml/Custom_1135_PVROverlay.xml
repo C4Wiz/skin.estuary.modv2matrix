@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1135">
+	<visible>Player.ShowInfo + !System.HasActiveModalDialog + VideoPlayer.Content(LiveTV) + Window.IsActive(fullscreenvideo)</visible>
+	<depth>DepthOSD</depth>
+	<controls>
+		<control type="group">
+			<include>Animation_BottomSlide</include>
+			<bottom>-140</bottom>
+			<height>380</height>
+			<control type="image">
+				<right>0</right>
+				<bottom>380</bottom>
+				<width>500</width>
+				<height>281</height>
+				<texture background="true">$VAR[PlayerInfoClearArtVar]</texture>
+				<aspectratio align="center" aligny="bottom">keep</aspectratio>
+				<visible>!Skin.HasSetting(enable_playerclearlogo) + !Skin.HasSetting(show_artistclearlogo)</visible>
+				<fadetime>100</fadetime>
+			</control>
+			<control type="image">
+				<left>0</left>
+				<width>100%</width>
+				<height>240</height>
+				<texture>dialogs/dialog-bg-nobo.png</texture>
+			</control>
+			<control type="image">
+				<left>30</left>
+				<top>20</top>
+				<width>200</width>
+				<height>200</height>
+				<aspectratio aligny="center" align="center">keep</aspectratio>
+				<texture fallback="DefaultTVShows2.png">$INFO[Player.Art(thumb)]</texture>
+			</control>
+			<control type="textbox">
+				<left>240</left>
+				<top>140</top>
+				<width>280</width>
+				<height>100</height>
+				<label>$INFO[VideoPlayer.ChannelName]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+			</control>
+			<control type="label">
+				<left>240</left>
+				<top>30</top>
+				<width>280</width>
+				<height>100</height>
+				<label>$INFO[VideoPlayer.ChannelNumberLabel]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<font>WeatherTemp</font>
+			</control>
+			<control type="label">
+				<left>530</left>
+				<top>10</top>
+				<right>30</right>
+				<height>30</height>
+				<label>[B]$INFO[VideoPlayer.Title]$VAR[SeasonEpisodePlayerLabel][/B]</label>
+				<scroll>true</scroll>
+				<font>font37</font>
+			</control>
+			<control type="label">
+				<left>530</left>
+				<top>60</top>
+				<right>30</right>
+				<height>30</height>
+				<label>$VAR[SeekTimeLabelVar]</label>
+				<font>font12</font>
+				<visible>!Player.ChannelPreviewActive</visible>
+			</control>
+			<control type="label">
+				<left>530</left>
+				<top>60</top>
+				<right>30</right>
+				<height>30</height>
+				<label>$INFO[PVR.EpgEventRemainingTime,$LOCALIZE[31134] : ]</label>
+				<font>font12</font>
+				<align>right</align>
+				<visible>VideoPlayer.HasEpg + !Player.ChannelPreviewActive</visible>
+			</control>
+			<control type="progress">
+				<animation effect="fade" end="0" time="200">WindowClose</animation>
+				<left>530</left>
+				<top>97</top>
+				<right>30</right>
+				<height>10</height>
+				<info>Player.ProgressCache</info>
+				<texturebg border="3" colordiffuse="60FFFFFF">colors/white50.png</texturebg>
+				<midtexture colordiffuse="$VAR[SkinColorVar]">colors/white.png</midtexture>
+				<visible>!VideoPlayer.Content(livetv)</visible>
+			</control>
+			<control type="progress" id="23">
+				<left>530</left>
+				<top>97</top>
+				<right>30</right>
+				<height>10</height>
+				<info>PVR.EpgEventProgress</info>
+				<texturebg border="3" colordiffuse="60FFFFFF">colors/white50.png</texturebg>
+				<midtexture colordiffuse="$VAR[SkinColorVar]">colors/white.png</midtexture>
+				<visible>VideoPlayer.HasEpg</visible>
+			</control>
+			<control type="progress">
+				<left>530</left>
+				<top>97</top>
+				<right>30</right>
+				<height>10</height>
+				<info>Player.Progress</info>
+				<texturebg border="3" colordiffuse="60FFFFFF">colors/white50.png</texturebg>
+				<midtexture colordiffuse="$VAR[SkinColorVar]">colors/white.png</midtexture>
+				<visible>!VideoPlayer.HasEpg</visible>
+			</control>
+			<control type="label">
+				<left>530</left>
+				<top>125</top>
+				<right>30</right>
+				<height>25</height>
+				<label>$LOCALIZE[19031] : [COLOR white]$INFO[VideoPlayer.NextTitle]$INFO[VideoPlayer.NextStartTime, (]$INFO[VideoPlayer.NextEndTime, - ,)][/COLOR]</label>
+				<textcolor>$VAR[SkinColorVar]</textcolor>
+				<aligny>center</aligny>
+				<visible>VideoPlayer.HasEpg</visible>
+			</control>
+			<control type="grouplist">
+				<top>170</top>
+				<right>30</right>
+				<left>530</left>
+				<height>50</height>
+				<align>right</align>
+				<orientation>horizontal</orientation>
+				<itemgap>5</itemgap>
+				<visible>!Player.ChannelPreviewActive</visible>
+				<include content="MediaFlag">
+					<param name="texture" value="$VAR[VideoPlayer3DFlagVar]" />
+					<param name="fallback" value="flags/videoresolution/fallback.png" />
+					<param name="width" value="58" />
+				</include>
+				<include content="MediaFlag">
+					<param name="texture" value="$INFO[VideoPlayer.VideoCodec,flags/videocodec/,.png]" />
+					<param name="fallback" value="flags/videocodec/fallback.png" />
+					<param name="width" value="104" />
+				</include>
+				<include content="MediaFlag">
+					<param name="texture" value="$INFO[VideoPlayer.VideoAspect,flags/aspectratio/,.png]" />
+					<param name="fallback" value="flags/aspectratio/fallback.png" />
+					<param name="width" value="86" />
+				</include>
+				<include content="MediaFlag">
+					<param name="texture" value="$INFO[VideoPlayer.AudioCodec,flags/audiocodec/,.png]" />
+					<param name="fallback" value="flags/audiocodec/fallback.png" />
+					<param name="width" value="104" />
+				</include>
+				<include content="MediaFlag">
+					<param name="texture" value="$INFO[VideoPlayer.AudioChannels,flags/audiochannel/,.png]" />
+					<param name="fallback" value="flags/audiochannel/fallback.png" />
+					<param name="width" value="104" />
+				</include>
+				<control type="group">
+					<width>104</width>
+					<visible>!String.IsEmpty(VideoPlayer.AudioLanguage)</visible>
+					<include content="MediaFlag">
+						<param name="texture" value="flags/language.png" />
+						<param name="width" value="104" />
+					</include>
+					<control type="label">
+						<width>64</width>
+						<left>40</left>
+						<height>40</height>
+						<align>center</align>
+						<label>$INFO[VideoPlayer.AudioLanguage]</label>
+						<font>Font-Flag-Small</font>
+					</control>
+				</control>
+				<control type="group">
+					<width>104</width>
+					<visible>!String.IsEmpty(VideoPlayer.SubtitlesLanguage) + VideoPlayer.SubtitlesEnabled</visible>
+					<include content="MediaFlag">
+						<param name="texture" value="flags/st_language.png" />
+						<param name="width" value="104" />
+					</include>
+					<control type="label">
+						<width>64</width>
+						<left>40</left>
+						<height>40</height>
+						<align>center</align>
+						<label>$INFO[VideoPlayer.SubtitlesLanguage]</label>
+						<font>Font-Flag-Small</font>
+					</control>
+				</control>
+				<include content="MediaFlagOSD">
+					<param name="width" value="5" />
+				</include>
+				<control type="group">
+					<width>120</width>
+					<visible>System.GetBool(pvrplayback.signalquality)</visible>
+					<include content="MediaFlag">
+						<param name="texture" value="flags/pvr.png" />
+						<param name="width" value="120"/>
+					</include>
+					<control type="label">
+						<top>5</top>
+						<width>60</width>
+						<height>40</height>
+						<align>center</align>
+						<label>SIG</label>
+						<font>Font-Flag-Small3</font>
+					</control>
+					<control type="progress">
+						<left>64</left>
+						<width>50</width>
+						<top>11</top>
+						<height>28</height>
+						<texturebg border="3" colordiffuse="60FFFFFF">colors/white50.png</texturebg>
+						<midtexture colordiffuse="$VAR[SkinColorVar]">colors/white.png</midtexture>
+						<info>PVR.ActStreamProgrSignal</info>
+					</control>
+				</control>
+				<control type="group">
+					<width>120</width>
+					<visible>System.GetBool(pvrplayback.signalquality)</visible>
+					<include content="MediaFlag">
+						<param name="texture" value="flags/pvr.png" />
+						<param name="width" value="120"/>
+					</include>
+					<control type="label">
+						<top>5</top>
+						<width>60</width>
+						<height>40</height>
+						<align>center</align>
+						<label>SNR</label>
+						<font>Font-Flag-Small3</font>
+					</control>
+					<control type="progress">
+						<left>64</left>
+						<width>50</width>
+						<top>11</top>
+						<height>28</height>
+						<texturebg border="3" colordiffuse="60FFFFFF">colors/white50.png</texturebg>
+						<midtexture colordiffuse="$VAR[SkinColorVar]">colors/white.png</midtexture>
+						<info>PVR.ActStreamProgrSNR</info>
+					</control>
+				</control>
+				<control type="group">
+					<width>60</width>
+					<visible>Pvr.ActStreamIsEncrypted</visible>
+					<include content="MediaFlag">
+						<param name="texture" value="flags/encrypt.png" />
+						<param name="width" value="60"/>
+					</include>
+				</control>
+			</control>
+		</control>
+	</controls>
+</window>

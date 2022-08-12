@@ -1,0 +1,2602 @@
+# Kodi Media Center language file
+# Addon Name: Estuary MOD v2
+# Addon id: skin.estuary.modv2
+# Addon Provider: Guilouz
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Hungarian (Hungary)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /xml/Home.xml /xml/DialogSeekBar.xml
+msgctxt "#31000"
+msgid "Now playing"
+msgstr "Most játszott"
+
+#: /xml/Home.xml
+msgctxt "#31001"
+msgid "Search..."
+msgstr "Keresés…"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31002"
+msgid "Show media fanart as background"
+msgstr "Médiaillusztrációk megjelenítése a háttérben"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31003"
+msgid "Cinema mode"
+msgstr "Mozi mód"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31004"
+msgid "Change mode"
+msgstr "Mód változtatása"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31005"
+msgid "Watch as 2D"
+msgstr "Megnézés 2D-ként"
+
+#: /xml/Home.xml
+msgctxt "#31006"
+msgid "Random movies"
+msgstr "Véletlenszerű filmek"
+
+#: /xml/Home.xml
+msgctxt "#31007"
+msgid "Unwatched movies"
+msgstr "Nem látott filmek"
+
+msgctxt "#31008"
+msgid "Enable category widgets"
+msgstr "Kategória ablakelemek engedélyezése"
+
+#: /xml/MyVideoNav.xml
+msgctxt "#31009"
+msgid "Download icons"
+msgstr "Ikonok letöltése"
+
+#: /xml/Home.xml
+msgctxt "#31010"
+msgid "In progress movies"
+msgstr "Folyamatban lévő filmek"
+
+#: /xml/Home.xml
+msgctxt "#31011"
+msgid "Most played albums"
+msgstr "Legtöbbet játszott albumok"
+
+#: /xml/Home.xml
+msgctxt "#31012"
+msgid "Random albums"
+msgstr "Véletlenszerű albumok"
+
+#: /xml/Home.xml
+msgctxt "#31013"
+msgid "Random artists"
+msgstr "Véletlenszerű előadók"
+
+#: /xml/Home.xml
+msgctxt "#31014"
+msgid "Unplayed albums"
+msgstr "Nem játszott albumok"
+
+#. home screen channel widget: recently played tv channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
+#: /xml/Home.xml
+msgctxt "#31015"
+msgid "Recent recordings"
+msgstr "Friss felvételek"
+
+#: /xml/Home.xml
+msgctxt "#31016"
+msgid "Recently played channels"
+msgstr "Mostanában játszott csatornák"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31017"
+msgid "Rated"
+msgstr "Értékelés"
+
+#. home screen channel widget: recently played radio channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
+#: /xml/Home.xml
+msgctxt "#31018"
+msgid "Recently played channels"
+msgstr "Mostanában játszott csatornák"
+
+#: /xml/Home.xml /xml/MyWeather.xml
+msgctxt "#31019"
+msgid "Forecast"
+msgstr "Előrejelzés"
+
+#: /xml/MyMusicNav.xml /xml/MyPics.xml /xml/MyVideoNav.xml
+msgctxt "#31020"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml /xml/Includes_MediaMenu.xml /xml/EventLog.xml
+msgctxt "#31021"
+msgid "Misc options"
+msgstr "Egyéb beállítások"
+
+#: /xml/Includes_MediaMenu.xml /xml/Includes.xml
+msgctxt "#31022"
+msgid "Sort by"
+msgstr "Rendezés"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31023"
+msgid "Viewtype"
+msgstr "Nézettípus"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31024"
+msgid "Choose rating to display for media items"
+msgstr "Válassz értékelés típust a médiaelemek megjelenítéséhez"
+
+#: /xml/DialogFavourites.xml
+msgctxt "#31025"
+msgid "No favourites found. You can add any item from media views to this list by using the context menu."
+msgstr "Nem találhatóak kedvencek. Bármely elemet hozzáadhat ehhez a listához a média nézetekből, a környezeti menü használatával."
+
+#: /xml/DialogSeekBar.xml
+msgctxt "#31026"
+msgid "Timeshift"
+msgstr "Csúsztatott felvétel"
+
+#: /xml/DialogAlbumInfo.xml /xml/DialogVideoInfo.xml
+msgctxt "#31028"
+msgid "Show fanart"
+msgstr "Illusztráció megjelenítése"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31029"
+msgid "Last logged in"
+msgstr "Utoljára bejelentkezve"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31030"
+msgid "System memory usage"
+msgstr "Ram-memória használat"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31031"
+msgid "Version info"
+msgstr "Verzióinformáció"
+
+#: /xml/EventLog.xml /xml/Includes_MediaMenu.xml /xml/SmartPlaylistEditor.xml
+msgctxt "#31032"
+msgid "Order"
+msgstr "Rendezés"
+
+#: /xml/DialogVideoInfo.xml /xml/DialogSongInfo.xml
+msgctxt "#31033"
+msgid "My rating"
+msgstr "Értékelés"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31034"
+msgid "Extended info"
+msgstr "Bővített információ"
+
+#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
+msgctxt "#31035"
+msgid "Pages"
+msgstr "Oldalak"
+
+#: /xml/FileBrowser.xml /xml/Variables.xml /xml/MyPVRRecordings.xml
+msgctxt "#31036"
+msgid "items"
+msgstr "elem"
+
+msgctxt "#31037"
+msgid "item"
+msgstr "elem"
+
+#: /xml/Variables.xml
+msgctxt "#31038"
+msgid "Rewind"
+msgstr "Visszatekerés"
+
+#: /xml/Variables.xml
+msgctxt "#31039"
+msgid "Fast forward"
+msgstr "Előretekerés"
+
+#: /xml/Variables.xml /xml/MyPics.xml
+msgctxt "#31041"
+msgid "Camera manufacturer"
+msgstr "Fényképezőkép gyártó"
+
+#: /xml/SmartPlaylistEditor.xml
+msgctxt "#31042"
+msgid "Playlist options"
+msgstr "Lejátszáslista lehetőségek"
+
+#: /xml/SmartPlaylistEditor.xml
+msgctxt "#31043"
+msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgstr "Adja meg a típust és a szabályokat az intelligens lejátszólista létrehozásához. Ezek a lejátszólisták dinamikusak, és minden médiaelemet figyelembe vesznek az adatbázisban, amelyekre alkalmazhatóak a választott szabályok."
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31044"
+msgid "Add group"
+msgstr "Csoport hozzáadása"
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31045"
+msgid "Rename group"
+msgstr "Csoport átnevezése"
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31046"
+msgid "Delete group"
+msgstr "Csoport törlése"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31048"
+msgid "Available"
+msgstr "Elérhető"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31049"
+msgid "Show content"
+msgstr "Tartalom mutatása"
+
+#: /xml/Variables.xml
+msgctxt "#31050"
+msgid "Show plot"
+msgstr "Info megjelenítése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31051"
+msgid "Enable Splash screen"
+msgstr "Splash kép engedélyezése"
+
+#: /xml/Includes.xml
+msgctxt "#31052"
+msgid "filtered"
+msgstr "szűrt"
+
+#: /xml/Font.xml
+msgctxt "#31053"
+msgid "Arial based"
+msgstr "Arial betűkészlet"
+
+#: /xml/Variables.xml
+msgctxt "#31054"
+msgid "Forward jumping"
+msgstr "Előretekerés"
+
+#: /xml/Variables.xml
+msgctxt "#31055"
+msgid "Backward jumping"
+msgstr "Hátratekerés"
+
+#: /xml/MyMusicNav.xml /xml/MyVideoNav.xml
+msgctxt "#31056"
+msgid "Go to playlist"
+msgstr "Lejátszólistához"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31057"
+msgid "Show login screen on startup"
+msgstr "Bejelentkezési képernyő megjelenítése indításkor"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31058"
+msgid "Automatic Login on startup"
+msgstr "Automatikus bejelentkezés indításkor"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31061"
+msgid "Main menu items"
+msgstr "Főmenü elemek"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31062"
+msgid "Weather fanarts pack"
+msgstr "Időjárás fanart csomag"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31063"
+msgid "Sections"
+msgstr "Szakaszok"
+
+#: /xml/Variables.xml
+msgctxt "#31064"
+msgid "unwatched"
+msgstr "nem látott"
+
+#: /xml/MyVideoPlaylist.xml
+msgctxt "#31065"
+msgid "Video playlist"
+msgstr "Videó lejátszólista"
+
+#: /xml/MyMusicPlaylist.xml
+msgctxt "#31066"
+msgid "Music playlist"
+msgstr "Zenei lejátszólista"
+
+#: /xml/EventLog.xml
+msgctxt "#31067"
+msgid "Event log"
+msgstr "Eseménynapló"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31068"
+msgid "Choose presets"
+msgstr "Válassz előre beállított értékeket"
+
+#: /xml/AddonBrowser.xml
+msgctxt "#31069"
+msgid "Last Updated"
+msgstr "Utoljára frissítve"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31071"
+msgid "by"
+msgstr "készítette"
+
+#: /xml/DialogButtonMenu.xml /xml/LoginScreen.xml
+msgctxt "#31072"
+msgid "Power Options"
+msgstr "Kikapcsolási lehetőségek"
+
+#: /xml/Home.xml
+msgctxt "#31075"
+msgid "Movie sets"
+msgstr "Film gyűjtemények"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31079"
+msgid "Cast not available"
+msgstr "Szereposztás nem elérhető"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31080"
+msgid "Ends at"
+msgstr "Befejezési időpont"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31082"
+msgid "Lyrics add-on"
+msgstr "Dalszöveg kiegészítő"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31083"
+msgid "Lyrics add-on settings"
+msgstr "Dalszöveg kiegészítő beállítások"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31084"
+msgid "Visualisation settings"
+msgstr "Vizualizáció beállítások"
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31089"
+msgid "Available groups"
+msgstr "Elérhető csoportok"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31090"
+msgid "Search trailer"
+msgstr "Filmajánló keresése"
+
+#: /xml/VideoOSD.xml /xml/Variables.xml
+msgctxt "#31092"
+msgid "Video menu"
+msgstr "Videó menü"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31093"
+msgid "Show weather info"
+msgstr "Időjárás információ mutatása fennt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31095"
+msgid "Use slide animations"
+msgstr "Dia animációk használata"
+
+#: /xml/DialogSubtitles.xml
+msgctxt "#31096"
+msgid "Local subtitle available"
+msgstr "Helyi felirat elérhető"
+
+#: /xml/DialogPVRChannelManager.xml
+msgctxt "#31097"
+msgid "Channel options"
+msgstr "Csatorna opciók"
+
+#: /xml/LoginScreen.xml
+msgctxt "#31098"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Válaszd ki a Kodi felhasználói profilod[CR]a belépéshez"
+
+#. viewtype name
+#: /xml/View_52_IconWall.xml
+msgctxt "#31099"
+msgid "IconWall"
+msgstr "IkonFal"
+
+#. viewtype name
+#: /xml/View_53_Shift.xml
+msgctxt "#31100"
+msgid "Shift"
+msgstr "Eltolás"
+
+#. viewtype name
+#: /xml/View_54_InfoWall.xml
+msgctxt "#31101"
+msgid "InfoWall (posters)"
+msgstr "InfóFal (poszterek)"
+
+#. viewtype name
+#: /xml/View_500_Wall.xml
+msgctxt "#31102"
+msgid "Wall (posters)"
+msgstr "Fal (poszterek)"
+
+#: /xml/SmartPlaylistRule.xml
+msgctxt "#31103"
+msgid "Enter text here..."
+msgstr "Ide írja a szöveget…"
+
+#: /xml/Home.xml
+msgctxt "#31104"
+msgid "Your video library is currently empty. In order to populate it with your personal media, add a video source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgstr "A médiatár jelenleg üres. A saját médiafájlok hozzáadásához, menjen a fájlok menüponthoz, adjon hozzá egy médiaforrást és konfigurálja azt. Miután a forrás hozzáadásra és beolvasásra került, böngészni lehet a médiatárban."
+
+#: /xml/Home.xml
+msgctxt "#31105"
+msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
+msgstr "Adjon hozzá videóforrásokat és állítsa be a megfelelő tartalomtípust a videótárak kialakításához."
+
+#: /xml/Variables.xml
+msgctxt "#31106"
+msgid "Teletext"
+msgstr "Teletext"
+
+#. viewtype name
+#: /xml/View_55_WideList.xml
+msgctxt "#31107"
+msgid "WideList"
+msgstr "SzélesLista"
+
+#. viewtype name
+#: /xml/Includes_PVR.xml
+msgctxt "#31108"
+msgid "BigList"
+msgstr "NagyLista"
+
+#: /xml/Home.xml
+msgctxt "#31110"
+msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgstr "A zenetár jelenleg üres. A saját médiafájlok hozzáadásához, menjen a \"Fájlok\" menüponthoz, adjon hozzá egy médiaforrást és konfigurálja azt. Miután a forrás hozzáadásra és indexelésre került, böngészni lehet a zenetárban."
+
+#: /xml/Home.xml
+msgctxt "#31111"
+msgid "View your personal pictures or download one of the many image add-ons from the official repository."
+msgstr "Nézd a saját fényképeidet vagy tölts le egyet a sok képkiegészítő közül a hivatalos kiegészítő tárhelyről."
+
+#: /xml/VideoOSD.xml
+msgctxt "#31112"
+msgid "Toggle audio stream"
+msgstr "Hangfolyam váltása"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31113"
+msgid "Search local library"
+msgstr "Keresés a saját könyvtárban"
+
+#: /xml/Custom_1107_SearchDialog.xml /xml/DialogMusicInfo.xml
+msgctxt "#31114"
+msgid "Search YouTube"
+msgstr "Keresés a YouTube-on"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31115"
+msgid "Search TheMovieDB"
+msgstr " Keresés a TheMovieDB-n"
+
+#: /xml/Home.xml
+msgctxt "#31116"
+msgid "Add games source"
+msgstr "Játék forrás hozzáadása"
+
+#: /xml/MyVideoNav.xml
+msgctxt "#31117"
+msgid "Edit nodes"
+msgstr "Csomópontok szerkesztése"
+
+#: /xml/Home.xml
+msgctxt "#31118"
+msgid "Enter add-on browser"
+msgstr "Belépés a kiegészítő böngészőbe"
+
+#: /xml/Home.xml
+msgctxt "#31119"
+msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
+msgstr "Még nincs telepített kiegészítő. Látogass el a kiegészítő böngészőbe és válassz a gyűjteményből a Kodi felhasználói élmény javítása érdekében."
+
+#: /xml/Home.xml
+msgctxt "#31120"
+msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
+msgstr "Még nem állítottál be időjárás szolgáltatót. Az időjárási adatok megtekintéséhez, válassz egy szolgáltatót és állítsd be a helyszínt."
+
+#: /xml/Home.xml
+msgctxt "#31121"
+msgid "Set weather provider"
+msgstr "Időjárás-szolgáltató beállítása"
+
+#: /xml/Home.xml
+msgctxt "#31122"
+msgid "Unwatched TV Shows"
+msgstr "Nem látott TV sorozatok"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31123"
+msgid "Same director"
+msgstr "Egyazon rendező"
+
+#: /xml/MyPics.xml
+msgctxt "#31124"
+msgid "Show images on map"
+msgstr "Képek megjelenítése a térképen"
+
+#: /xml/Variables.xml
+msgctxt "#31125"
+msgid "is"
+msgstr "van"
+
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31126"
+msgid "Press [B]OK[/B] to show plot"
+msgstr "Nyomjon [B]OK[/B]-t a tartalom olvasásához"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31127"
+msgid "Show icons"
+msgstr "Ikonok megjelenítése"
+
+#: /xml/Variables.xml
+msgctxt "#31128"
+msgid "Contributors"
+msgstr "Közreműködők"
+
+#: /xml/Variables.xml
+msgctxt "#31129"
+msgid "General settings applying to all areas of the skin."
+msgstr "Általános beállítások a felület minden egyes területére vonatkozóan."
+
+#: /xml/Variables.xml
+msgctxt "#31130"
+msgid "Main menu-related settings: Configure the home screen to your likings."
+msgstr "Főmenüvel kapcsolatos beállítások: állítsa be a főképernyőt az ízlésének megfelelően."
+
+#: /shortcuts/addons.DATA.xml
+msgctxt "#31131"
+msgid "Add-ons settings"
+msgstr "Kiegészítő beállításai"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31132"
+msgid "Hide 'Categories' widget"
+msgstr "Kategória widget elrejtése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31133"
+msgid "Show banners on episodes/thumbs widgets"
+msgstr "Bannerek mutatása a epizód/bélyegkép widgeteken"
+
+#: /xml/DialogSeekBar.xml
+msgctxt "#31134"
+msgid "Remaining"
+msgstr "Hátralévő"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Legfrissebb változtatások..."
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "PVR információ"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Lejátszó folyamatinfó"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Videó dekóder"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Képpont formátum"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Verzió változások"
+
+#: /xml/Variables.xml
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Lejátszási sebesség"
+
+#: /xml/Home.xml
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "Még nem állítottad be a PVR-t. Válassz egy PVR-klienst és konfiguráld. Látogass el a http://kodi.wiki/view/PVR oldalra több információért."
+
+#: /xml/Home.xml
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Belépés a kiegészítő böngészőbe"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Kiegészítők keresése"
+
+#: /xml/Home.xml
+msgctxt "#31148"
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31149"
+msgid "Video genres fanarts pack"
+msgstr "Film műfaj-fanartcsomag kiválasztása"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31150"
+msgid "Repository"
+msgstr "Tároló"
+
+#: /xml/Home.xml
+msgctxt "#31151"
+msgid "Unwatched music videos"
+msgstr "Nem látott videóklipek"
+
+#: /xml/Home.xml
+msgctxt "#31152"
+msgid "Random music videos"
+msgstr "Véletlenszerű videóklip-ek"
+
+#: /xml/Includes.xml
+msgctxt "#31153"
+msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgstr "Nincs telepítve ilyen típusú kiegészítő. Nyissa meg a kiegészítő-böngészőt a kiegészítő letöltéséhez."
+
+#: /xml/MyWeather.xml
+msgctxt "#31154"
+msgid "Press [B]OK[/B] to switch between locations"
+msgstr "Nyomja meg az [B]OK[/B]-t a helyszínek közötti váltáshoz"
+
+#: /xml/VideoOSDBookmarks.xml
+msgctxt "#31155"
+msgid "No bookmarks created yet."
+msgstr "Még nincs létrehozva könyvjelző"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31156"
+msgid "Choose background pattern"
+msgstr "Válasszon háttérmintát"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31157"
+msgid "Library info"
+msgstr "Médiatárinfó"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31158"
+msgid "Touch mode"
+msgstr "Éríntős mód"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31159"
+msgid "Artworks"
+msgstr "Illusztrációk"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31160"
+msgid "Show media flags"
+msgstr "Média ikonok megjelenítése"
+
+#: /xml/DialogNumeric.xml
+msgctxt "#31161"
+msgid "Numeric pad"
+msgstr "Szám billentyűzet"
+
+#: /xml/Home.xml
+msgctxt "#31162"
+msgid "Play your personal games or download one of the many game add-ons from the official repository."
+msgstr "Játssz a saját játékaiddal vagy töltsd le a számos játék kiegészítő egyikét a hivatalos tárolóból."
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31163"
+msgid "Show Fanart background"
+msgstr "Fanart háttér megjelenítése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31200"
+msgid "Main menu"
+msgstr "Főmenü"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#31201"
+msgid "Add media sources"
+msgstr "Média forrás hozzáadása"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#31202"
+msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
+msgstr "Parancsikonok a fájl szekcióban minden médiatípushoz. Adj hozzá forrásokat az adatbázis létrehozásához"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31203"
+msgid "Home menu"
+msgstr "Főmenü"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31204"
+msgid "Hide main menu when selecting widgets"
+msgstr "Főmenü elrejtése, widget kiválasztáskor"
+
+#: /xml/View_503_Gallery.xml
+msgctxt "#31205"
+msgid "Gallery"
+msgstr "Galéria"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31206"
+msgid "Reset main menu settings"
+msgstr "Főmenü beállítás alaphelyzetbe"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31207"
+msgid "Are you sure you want to reset display of all menu items back to default ?"
+msgstr "Biztosan visszaállítod alaphelyzetbe?"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31208"
+msgid "Changes of version"
+msgstr "Változások a verziókban"
+
+#: /xml/Variables.xml
+msgctxt "#31209"
+msgid "Update video library"
+msgstr "Film adatbázis frissítése"
+
+#: /xml/Variables.xml
+msgctxt "#31210"
+msgid "Update music library"
+msgstr "Zenei adatbázis frissítése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31211"
+msgid "Show smaller icons for 'Categories' widgets"
+msgstr "Kisebb ikonok a kategória widgetekhez"
+
+#: /xml/Home.xml
+msgctxt "#31212"
+msgid "Next episodes to watch"
+msgstr "Következő nézendő rész"
+
+#: /xml/Variables.xml
+msgctxt "#31213"
+msgid "Stop scanning video library"
+msgstr "Keresés leállítása a film médiatárban"
+
+#: /xml/Variables.xml
+msgctxt "#31214"
+msgid "Stop scanning music library"
+msgstr "Keresés leállítása a zene médiatárban"
+
+#: /xml/View_504_ThumbsWall.xml
+msgctxt "#31215"
+msgid "Wall (thumbnails)"
+msgstr "Fal (fanartok)"
+
+#: /xml/View_505_ThumbsInfoWall.xml
+msgctxt "#31216"
+msgid "InfoWall (thumbnails)"
+msgstr "Infófal (fanartok)"
+
+#: /xml/View_506_Mosaic.xml
+msgctxt "#31217"
+msgid "Mosaic (horizontal)"
+msgstr "Mozaik (vízszintes)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31218"
+msgid "Hide watched items"
+msgstr "Megnézettek elrejtése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31219"
+msgid "Colors"
+msgstr "Színek"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31220"
+msgid "Main color"
+msgstr "Alapszín"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31221"
+msgid "Border color"
+msgstr "Keretszín"
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31222"
+msgid "Color selection"
+msgstr "Színválaszás"
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31223"
+msgid "Color"
+msgstr "Szín"
+
+#: /xml/DialogContextMenu.xml
+msgctxt "#31224"
+msgid "Context menu"
+msgstr "Helyi menü"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31225"
+msgid "Next aired"
+msgstr "Következő sugárzott"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31226"
+msgid "Last aired"
+msgstr "Utoljára sugárzott"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31227"
+msgid "votes"
+msgstr "szavazat"
+
+#: /xml/Variables.xml
+msgctxt "#31228"
+msgid "hardware decoding"
+msgstr "Hardveres dekódolás"
+
+#: /xml/Variables.xml
+msgctxt "#31229"
+msgid "software decoding"
+msgstr "Szoftveres dekódolás"
+
+#: /xml/Variables.xml
+msgctxt "#31230"
+msgid "Plot masked to avoid spoilers."
+msgstr "Tartalom elrejtése spoilerveszély miatt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31231"
+msgid "Hide episodes plots to avoid spoilers"
+msgstr "Epizód tartalom elrejtése spoilerveszély miatt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31232"
+msgid "Debug info"
+msgstr "Hibakeresési információ"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31233"
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: /xml/Variables.xml
+msgctxt "#31234"
+msgid "Next chapter"
+msgstr "Következő fejezet"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31235"
+msgid "Background pattern color"
+msgstr "Háttérminta szín"
+
+#: /xml/Variables.xml
+msgctxt "#31236"
+msgid "Previous chapter"
+msgstr "Előző fejezet"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31237"
+msgid "Opacity for fanart as background"
+msgstr "Átlátszóság a fanart háttérhez"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31238"
+msgid "0%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31239"
+msgid "5%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31240"
+msgid "10%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31241"
+msgid "15%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31242"
+msgid "20%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31243"
+msgid "25%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31244"
+msgid "30%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31245"
+msgid "35%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31246"
+msgid "40%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31247"
+msgid "45%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31248"
+msgid "50%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31249"
+msgid "55%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31250"
+msgid "60%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31251"
+msgid "65%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31252"
+msgid "70%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31253"
+msgid "75%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31254"
+msgid "80%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31255"
+msgid "85%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31256"
+msgid "90%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31257"
+msgid "95%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31258"
+msgid "100%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31259"
+msgid "Show ExtraFanarts"
+msgstr "Extrafanartok mutatása"
+
+#: /xml/Variables.xml
+msgctxt "#31260"
+msgid "Pause"
+msgstr "Pillanat állj"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31261"
+msgid "Press [B]OK[/B] to read description"
+msgstr "Nyomj [B]OK-t[/B] a leírás mutatásához "
+
+#: /xml/SkinSettings.xml
+msgctxt "#31262"
+msgid "Weather icons pack"
+msgstr "Időjárás ikoncsomag"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31263"
+msgid "Kiosk Mode"
+msgstr "Kiosk mód"
+
+#: /xml/Variables.xml
+msgctxt "#31264"
+msgid "None"
+msgstr "Nincs"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31265"
+msgid "Splash screen (photo, video or music)"
+msgstr "Splash-kép (fotó, videó vagy zene)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31266"
+msgid "Extras"
+msgstr "Extrák"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31267"
+msgid "Number of items to display on widgets"
+msgstr "Megjelenő elemek száma Widgetekben"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31268"
+msgid "Show media clearlogos"
+msgstr "Clearlogo mutatása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31269"
+msgid "Backup / Restore"
+msgstr "Mentés / Visszaállítás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31270"
+msgid "Backup skin settings"
+msgstr "Skin beállítások mentése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31271"
+msgid "Restore skin settings"
+msgstr "Skin beállítások visszaállítása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31272"
+msgid "Set location of backup file"
+msgstr "Mentés helyének beállítása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31273"
+msgid "Necessary add-ons"
+msgstr "Szükséges kiegészítők"
+
+#: /xml/script-nextup-notification-PostPlayInfo.xml
+msgctxt "#31274"
+msgid "Hide Spoilers"
+msgstr "Tartalom elrejése"
+
+#: /xml/script-nextup-notification-NextUpInfo.xml
+msgctxt "#31275"
+msgid "Next episode"
+msgstr "Következő rész"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31276"
+msgid "Disable zoom effect"
+msgstr "Zoom effektus tiltása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31277"
+msgid "Hide notification popup during playback"
+msgstr "Figyelmeztető jelzés elrejtése lejátszásnál"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31278"
+msgid "Music OSD"
+msgstr "Zenei OSD"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31279"
+msgid "Video OSD"
+msgstr "Film OSD"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31280"
+msgid "Show music visualisation screen when playing song"
+msgstr "Zene vizualizáció dal lejátszásnál"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31281"
+msgid "Enable ExtraFanarts for background"
+msgstr "ExtraFanartok engedélyezáse háttérnek"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31282"
+msgid "Animate background"
+msgstr "Animált háttér"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31283"
+msgid "Show visualisation effects"
+msgstr "Vizualizációs effektus mutatása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31284"
+msgid "Show music visualisation effects on background"
+msgstr "Vizualizációs effekt mutatása a háttérként"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31285"
+msgid "Show video on background"
+msgstr "Filmlejátszás a háttérben"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31286"
+msgid "Disable Kodi screensaver"
+msgstr "Kodi Képernyővédő kikapcsolása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31287"
+msgid "Show album CDArt"
+msgstr "Album CDArtot mutat"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31288"
+msgid "Show Clearlogo on video info"
+msgstr "Clearlogo-t mutat a filminfón"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31289"
+msgid "Show artist Clearlogo"
+msgstr "Szereplő Clearlogo mutatása"
+
+#: /xml/MusicVisualisation.xml
+msgctxt "#31290"
+msgid "Next tracks"
+msgstr "Következő szám"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31291"
+msgid "Show artist banner"
+msgstr "Banner mutatása"
+
+#: /xml/script-cu-lrclyrics-main.xml
+msgctxt "#31292"
+msgid "Lyrics source"
+msgstr "Zeneszöveg forrás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31293"
+msgid "Media flags color"
+msgstr "Média ikonok színe"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31294"
+msgid "Show ClearArt on video info"
+msgstr "ClearArt-ot mutat a filminfón"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31295"
+msgid "Show CDArt on video info"
+msgstr "CDArt-ot mutat a filminfón"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31296"
+msgid "Actors list"
+msgstr "Szereplők listája"
+
+#: /xml/Custom_1123_SettingsMoviesWidgets.xml
+msgctxt "#31297"
+msgid "Hide widget"
+msgstr "Widget elrejtése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31298"
+msgid "Manage items from 'Movies' widget"
+msgstr "Elemek a 'Film' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31299"
+msgid "Manage items from 'TV shows' widget"
+msgstr "Elemek a 'Sorozatok' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31300"
+msgid "Manage items from 'Music' widget"
+msgstr "Elemek a 'Zene' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31301"
+msgid "Manage items from 'Music videos' widget"
+msgstr "Elemek a 'Zenei Videók' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31302"
+msgid "Manage items from 'TV' widget"
+msgstr "Elemek a 'TV' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31303"
+msgid "Manage items from 'Radio' widget"
+msgstr "Elemek a 'Rádió' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31304"
+msgid "Manage items from 'Add-ons' widget"
+msgstr "Elemek a 'Kiegészítők' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31305"
+msgid "Manage items from 'Videos' widget"
+msgstr "Elemek a 'Videók' widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31306"
+msgid "Customize main menu"
+msgstr "Főmenü testreszabása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31307"
+msgid "Next airing episodes"
+msgstr "Következő sugárzott részek"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31308"
+msgid "Studios icons pack"
+msgstr "Stúdió ikoncsomag"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31309"
+msgid "Records labels icons pack"
+msgstr "Lemez címkék ikoncsomag"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31310"
+msgid "Video genres icons pack"
+msgstr "Film műfaj ikoncsomag"
+
+#: /xml/Variables.xml
+msgctxt "#31311"
+msgid "Settings applying to library."
+msgstr "Beállítások alkalmazása a médiatárban"
+
+#: /xml/Variables.xml
+msgctxt "#31312"
+msgid "Display of Artworks related settings."
+msgstr "Artworkkal összefüggő beállítások"
+
+#: /xml/Variables.xml
+msgctxt "#31313"
+msgid "Visualization of the music screen related settings."
+msgstr "Zeneképernyővel összefüggő beállítások"
+
+#: /xml/Variables.xml
+msgctxt "#31314"
+msgid "Visualization of the video screen related settings."
+msgstr "Filmképernyővel összefüggő beállítások"
+
+#: /xml/Variables.xml
+msgctxt "#31315"
+msgid "Skin colors related settings."
+msgstr "Felszín színekkel összefüggő beállítások"
+
+#: /xml/Variables.xml
+msgctxt "#31316"
+msgid "Necessary addons for good performance."
+msgstr "Szükséges kiegészítők a jó megjelenítéshez"
+
+#: /xml/Variables.xml
+msgctxt "#31317"
+msgid "Backup and restore skin settings."
+msgstr "Skin beállítások mentése és visszaállítása"
+
+#: /xml/Variables.xml
+msgctxt "#31318"
+msgid "Additional settings."
+msgstr "Kiegészítő beállítások"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31319"
+msgid "Show, add and remove animated posters"
+msgstr "Animált poszterek mutatása, hozzáadása, törlése."
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31320"
+msgid "Next aired episode"
+msgstr "Következő sugárzott rész"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31321"
+msgid "Thumbs with banners"
+msgstr "Bélyegépek bannerekkel"
+
+#: /xml/Home.xml
+msgctxt "#31322"
+msgid "Hardware info"
+msgstr "Hardverinfó"
+
+#: /xml/Home.xml
+msgctxt "#31323"
+msgid "Hard disk usage:"
+msgstr "Háttértár használat"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31324"
+msgid "Opacity for top and bottom bars"
+msgstr "Felső / alsó / oldalsáv átlátszóság beállítás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31325"
+msgid "Power menu style"
+msgstr "Kikapcsolási menü stílusa"
+
+#: /xml/Custom_1124_SettingsTVShowsWidgets.xml
+msgctxt "#31326"
+msgid "Hide thumbs episodes to avoid spoilers"
+msgstr "Bélyegképek elrejtése a spoilerek elkerülése érdekében"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31327"
+msgid "Preconfigured widgets"
+msgstr "Előreprogramozott widgetek"
+
+#: /xml/Variables.xml
+msgctxt "#31328"
+msgid "Go up item"
+msgstr "Elem felfelé mozgatása"
+
+#: /xml/Variables.xml
+msgctxt "#31329"
+msgid "Go down item"
+msgstr "Elem lefelé mozgatása"
+
+#: /xml/Variables.xml
+msgctxt "#31330"
+msgid "Add item"
+msgstr "Elem hozzáadása"
+
+#: /xml/Variables.xml
+msgctxt "#31331"
+msgid "Delete item"
+msgstr "Elem törlése"
+
+#: /xml/Variables.xml
+msgctxt "#31332"
+msgid "Disable item"
+msgstr "Elem kikapcsolása"
+
+#: /xml/Variables.xml
+msgctxt "#31333"
+msgid "Enable item"
+msgstr "Elem engedélyezése"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31334"
+msgid "Not defined"
+msgstr "Nincs meghatározva"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31335"
+msgid "Skin Helper Service Widgets"
+msgstr "Skin Helper Service Widgetek"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31336"
+msgid "Set type of widgets"
+msgstr "Widget típus beállítása"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31337"
+msgid "Widget appearence"
+msgstr "Widget nézet"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31338"
+msgid "Posters"
+msgstr "Poszterek"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31339"
+msgid "Thumbs without banners"
+msgstr "Bélyegképek banner nélkül"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31340"
+msgid "Squares"
+msgstr "Négyzetes"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31341"
+msgid "Enable background of 'Power options' shortcut"
+msgstr "Háttér engedélyezése a Kikapcsolás parancsikonhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31342"
+msgid "Enable background of 'Settings' shortcut"
+msgstr "Háttér engedélyezése a Beállítás parancsikonhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31343"
+msgid "Enable background of 'Search...' shortcut"
+msgstr "Háttér engedélyezése a Keresés parancsikonhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31344"
+msgid "Background"
+msgstr "Háttér"
+
+#: /shortcuts/musicvideos.DATA.xml
+msgctxt "#31345"
+msgid "Music videos - Library"
+msgstr "Zenevideók - Könyvtár"
+
+#: /xml/View_507_Mosaic_Vertical.xml
+msgctxt "#31346"
+msgid "Mosaic (vertical)"
+msgstr "Mozaik (függőleges)"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31347"
+msgid "View"
+msgstr "Nézet"
+
+#: /xml/Variables.xml
+msgctxt "#31348"
+msgid "None"
+msgstr "Nincs"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31349"
+msgid "Enable forced views"
+msgstr "Erőltetett nézet engedélyezése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31350"
+msgid "Forced view for movies"
+msgstr "Erőltetett nézet a filmekhez"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31351"
+msgid "Forced view for movie sets"
+msgstr "Erőltetett nézet a filmgyűjteményekhez"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31352"
+msgid "Forced view for movies inside set"
+msgstr "Erőltetett nézet a filmkészletekhez "
+
+#: /xml/SkinSettings.xml
+msgctxt "#31353"
+msgid "Forced view for tv shows"
+msgstr "Erőltetett nézet a sorozatokhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31354"
+msgid "Forced view for seasons"
+msgstr "Erőltetett nézet a szezonokhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31355"
+msgid "Forced view for episodes"
+msgstr "Erőltetett nézet az epizódokhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31356"
+msgid "Forced view for artists"
+msgstr "Erőltetett nézet a színészekhez"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31357"
+msgid "Forced view for albums"
+msgstr "Erőltetett nézet az albumokhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31358"
+msgid "Forced view for music videos"
+msgstr "Erőltetett nézet a zenei videókhoz"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31359"
+msgid "Show fullscreen video info for movies and TV shows"
+msgstr "Teljeskérnyős infó mutatása a filmeknél és sorozatoknál"
+
+#: /xml/Variables.xml
+msgctxt "#31360"
+msgid "Power menu-related settings: Configure it to your likings."
+msgstr "Kikapcsolási menü stílus beállítása"
+
+#: /xml/Home.xml
+msgctxt "#31361"
+msgid "All channels"
+msgstr "Minden csatorna"
+
+#: /xml/Home.xml
+msgctxt "#31362"
+msgid "All radios"
+msgstr "Minden rádió"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31363"
+msgid "Fixed lyrics colors"
+msgstr "Fix zeneszöveg szín"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31364"
+msgid "Greyed out watched items"
+msgstr "Megnézett elemek szürkítése"
+
+#: /xml/Includes.xml
+msgctxt "#31365"
+msgid "Jump to letter"
+msgstr "Ugrás a betűre"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31366"
+msgid "Lists (up to 8 items)"
+msgstr "Lista (max 8 elem)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31367"
+msgid "Sort method of widget"
+msgstr "Widget rendezési mód"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31368"
+msgid "Sort direction of widget"
+msgstr "Widget megjelenési irány mód"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31369"
+msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
+msgstr "Nyomj[B]OK-t[/B] a tartalomhoz vagy [B]Bal-t[/B] a bélyegképekhez"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31370"
+msgid "Show CDArt on movies widgets"
+msgstr "CDArt mutatása a film widgeten"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31371"
+msgid "Show movies CDArt"
+msgstr "Film CDArt mutatása"
+
+#: /xml/Home.xml
+msgctxt "#31372"
+msgid "Game sources"
+msgstr "Játék források"
+
+#: /xml/Home.xml
+msgctxt "#31373"
+msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
+msgstr "A játék-tár jelenleg üres. A saját játékok hozzáadásához, adjon hozzá egy forrást és konfigurálja azt. Miután a forrás hozzáadásra került, és a kiegészítők is megvannak böngészhetsz a jétékok között"
+
+#: /xml/Home.xml
+msgctxt "#31374"
+msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
+msgstr "A fénykép-tár jelenleg üres. A saját képek hozzáadásához, adjon hozzá egy forrást és konfigurálja azt. Miután a forrás hozzáadásra került, böngészhetsz a képek között"
+
+#: /xml/Home.xml
+msgctxt "#31375"
+msgid "Pictures sources"
+msgstr "Kép források"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31376"
+msgid "Show colored outline"
+msgstr "Színezett körvonal"
+
+#: /xml/MyMusicPlaylistEditor.xml
+msgctxt "#31377"
+msgid "Music files"
+msgstr "Zene fájlok"
+
+#: /xml/MyMusicPlaylistEditor.xml
+msgctxt "#31378"
+msgid "Current playlist"
+msgstr "Jelenlegi lejátszási lista"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31379"
+msgid "Show animated lyrics"
+msgstr "Animált zeneszöveg mutatása"
+
+#: /xml/Custom_1132_MoviesSetsInfo.xml
+msgctxt "#31380"
+msgid "Press [B]Up[/B] for extended info"
+msgstr "Nyomj [B]Fel-t[/B] a bővített infóhoz"
+
+#: /xml/addon.xml
+msgctxt "#31381"
+msgid "Movies set information"
+msgstr "Fimgyűjtemény infó"
+
+#: /xml/addon.xml
+msgctxt "#31382"
+msgid "Extended information"
+msgstr "Bővített információ"
+
+#: /xml/Variables.xml
+msgctxt "#31383"
+msgid "Correct password ! This menu is now available for"
+msgstr "Korrekt jelszó! A menü hozzáférhető"
+
+#: /xml/Variables.xml
+msgctxt "#31384"
+msgid "minute(s)"
+msgstr "perc(ek)"
+
+#: /xml/Variables.xml
+msgctxt "#31385"
+msgid "Incorrect password ! Please Retry."
+msgstr "Rossz jelszó! Ismételd meg. "
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31386"
+msgid "Password protection"
+msgstr "Jelszavas védelem"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31387"
+msgid "Parental control"
+msgstr "Szülői kontroll"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31388"
+msgid "Set password protection for menu items"
+msgstr "Jelszavas védelem beállítása a menüelemekre"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31389"
+msgid "Password has been successfully set !"
+msgstr "Jelszó beállítása sikeres ! "
+
+#: /xml/SkinSettings.xml
+msgctxt "#31390"
+msgid "Accessibility duration for menu items"
+msgstr "Hozzáférhetőség időtartama a menüelemekhez"
+
+#: /xml/Custom_1133_ParentalControl.xml
+msgctxt "#31391"
+msgid "Password-protected content.[CR]Press [B]Enter[/B] and please enter password."
+msgstr "Jelszavas védelem a tartalomra.[CR]Nyomj [B]Enter-t[/B] a jelszó megadáshoz "
+
+#: /xml/DialogKeyboard.xml
+msgctxt "#31392"
+msgid "Please enter password"
+msgstr "Jelszó megadása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31395"
+msgid "Enable Next Up popup for Live TV"
+msgstr "A következő rész popup engedélyezése"
+
+#: /xml/Custom_1134_PVRNextUp.xml
+msgctxt "#31396"
+msgid "Next up ..."
+msgstr "Következő ..."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31397"
+msgid "Show 'Settings' shortcut widget"
+msgstr "Beállítás parancsikon widget mutatása"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31398"
+msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
+msgstr "A verzió telepítése után újra kell indítani a Kodi-t és a [B]Főmenü és kikapcsolási menü alaphelyzetbe áll[/B] az telepítés után"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31399"
+msgid "Warning!"
+msgstr "Figyelem!"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31400"
+msgid "Do not display anymore"
+msgstr "Ne mutasd többé"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31401"
+msgid "Rating text color"
+msgstr "Pontozás szövegszín"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31402"
+msgid "Show visualisation effects behind background"
+msgstr "Vizualizációs effektus mutatása a háttér mögött"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31403"
+msgid "Posters panel"
+msgstr "Poszter panel"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31404"
+msgid "Widgets to personalize"
+msgstr "Widgetek személyreszabáshoz"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31405"
+msgid "Vertical panel (1 item)"
+msgstr "Függőleges panel (1 elem)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31406"
+msgid "Thumbs without banners panel"
+msgstr "Bélyegképek banners panel nélkül"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31407"
+msgid "Thumbs with banners panel"
+msgstr "Bélyegképek banners panellel"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31408"
+msgid "Squares panel"
+msgstr "Négyzetes panel"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31409"
+msgid "Banners panel"
+msgstr "Banners panel"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31410"
+msgid "Miniatures"
+msgstr "Bélyegképek"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31411"
+msgid "Miniatures panel"
+msgstr "Bélyegkép panel"
+
+#. viewtype name
+#: /xml/View_508_DoubleLists.xml
+msgctxt "#31412"
+msgid "Double lists"
+msgstr "Dupla lista"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31413"
+msgid "Show Skin Helper Service widgets settings"
+msgstr "Skin Helper Service widgetek beállításának mutatása"
+
+#. viewtype name
+#: /xml/View_509_TripleLists.xml
+msgctxt "#31414"
+msgid "Triple lists"
+msgstr "Hármas lista"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31415"
+msgid "Show clearlogos at the top of menu"
+msgstr "Clearlogo a menün fennt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31416"
+msgid "Minimize main menu"
+msgstr "Főmenü minimalizálása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31417"
+msgid "Show item label on top"
+msgstr "Elemcímkét mutat fennt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31418"
+msgid "Required add-ons"
+msgstr "Szükséges kiegészítők"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31419"
+msgid "Optional add-ons"
+msgstr "Választható kiegészítők"
+
+#: /xml/Variables.xml
+msgctxt "#31420"
+msgid "Directed by"
+msgstr "Rendezte"
+
+#: /xml/Variables.xml
+msgctxt "#31421"
+msgid "Similar to"
+msgstr "Hasonló"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31422"
+msgid "Play trailers in full screen"
+msgstr "Filmbemutatók teljes képernyőn"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31423"
+msgid "Enable gradient colors"
+msgstr "Gradiens színek engedélyezése"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31424"
+msgid "Secondary color"
+msgstr "Másodlagos szín"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31425"
+msgid "Use small Video OSD"
+msgstr "Kisebb OSD"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31426"
+msgid "Personalize 'Categories' widget"
+msgstr "Kategória widget személyreszabása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31427"
+msgid "Classic list"
+msgstr "Klasszikus lista"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31428"
+msgid "Icons list"
+msgstr "Ikon lista"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31429"
+msgid "Configure personal API keys"
+msgstr "Saját API kulcs beállítása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31430"
+msgid "Hide video info when video is paused"
+msgstr "Filminfó elrejtése pillanat állj-nál"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31431"
+msgid "Show scrolling text"
+msgstr "Gördülő szöveg"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31432"
+msgid "Scrapers ratings"
+msgstr "Scrapper pontozás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31433"
+msgid "My ratings"
+msgstr "Saját pontozás"
+
+#: /xml/Variables.xml
+msgctxt "#31434"
+msgid "win"
+msgstr "győztes"
+
+#: /xml/Variables.xml
+msgctxt "#31435"
+msgid "wins"
+msgstr "győztesek"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31436"
+msgid "Oscars"
+msgstr "Oscar díjas"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31437"
+msgid "Hide fanart opacity in fullscreen mode"
+msgstr "Fanart átlátszóság kikapcsolása teljes képernyőn"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31438"
+msgid "Show a border for media"
+msgstr "Média elem kerettel"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31439"
+msgid "Get all Artworks"
+msgstr "Minden Artwork letöltése"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31440"
+msgid "Standard colors for genres"
+msgstr "Alapszínek a műfajoknak"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31441"
+msgid "Pause video during access to info"
+msgstr "Videó megállítása az infó megjelenítése alatt"
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31442"
+msgid "Last aired episode"
+msgstr "Utoljára játszott epizód"
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31443"
+msgid "Airs"
+msgstr "Sugárzott"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31444"
+msgid "Configure media flags"
+msgstr "Média ikonok beállítása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31445"
+msgid "Show media source"
+msgstr "Médiaforrások mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31446"
+msgid "Show media resolution"
+msgstr "Mádiafelbontás mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31447"
+msgid "Show media video codec"
+msgstr "Médiakodek infó"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31448"
+msgid "Show media aspect ratio"
+msgstr "Média oldalarány mutatása  "
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31449"
+msgid "Show media audio codec"
+msgstr "Hang kodek mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31450"
+msgid "Show media audio channels"
+msgstr "Média hangcsatornák mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31451"
+msgid "Show media duration"
+msgstr "Médiahossz mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31452"
+msgid "Show media finish time"
+msgstr "Befejezési idő mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31453"
+msgid "Show media studio logo"
+msgstr "Stúdió logók mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31454"
+msgid "Show media record label logo"
+msgstr "Stúdió címkék mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31455"
+msgid "Show movies of saga"
+msgstr "Filmtörténet mutatása"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31456"
+msgid "Show albums of artist"
+msgstr "Szerző albumainak mutatása"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31457"
+msgid "Show artist ClearArt"
+msgstr "Színész ClearArt mutatása"
+
+#: /xml/Custom_1101_SettingsList.xml
+msgctxt "#31458"
+msgid "Select Program"
+msgstr "Program kiválasztás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31459"
+msgid "Enable themes (Valentine's Day, Easter, Halloween & Christmas)"
+msgstr "Témák engedélyezése (Valentine's Day, Easter, Halloween & Christmas) "
+
+#: /xml/Home.xml
+msgctxt "#31460"
+msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
+msgstr "A könyvtárad úres.[CR]Adj hozzá saját tartalmakat, forrásokat, és szerkeszd azokat."
+
+#: /xml/Variables.xml
+msgctxt "#31461"
+msgid "Recommended Youtube videos"
+msgstr "Ajánlott Youtube videók"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31462"
+msgid "Video countries icons pack"
+msgstr "Ország ikoncsomag"
+
+#: /xml/Includes.xml
+msgctxt "#31463"
+msgid "No broadcast this day"
+msgstr "Nincs adás ezen a napon"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31464"
+msgid "Automatically show music video info at beginning and end of playing"
+msgstr "Zeneivideó infó mutatása kezdésnél, és a végén"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31465"
+msgid "Background replacement"
+msgstr "Háttér kiválasztás"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31466"
+msgid "Genres panel"
+msgstr "Műfajok panel"
+
+#: /xml/Home.xml
+msgctxt "#31467"
+msgid "Most played music videos"
+msgstr "Leggyakrabban játszott zenei videók"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31468"
+msgid "Show media names with widgets names"
+msgstr "Médiacímek mutatása a widgetcímeken"
+
+#: /xml/Variables.xml
+msgctxt "#31469"
+msgid "Christmas Theme"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31470"
+msgid "Halloween Theme"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31471"
+msgid "Easter Theme"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31472"
+msgid "Valentine's Day Theme"
+msgstr ""
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31473"
+msgid "Show channel groups"
+msgstr "Csatorna csoportok"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31474"
+msgid "Scope mode for constant image height (CIH) setup"
+msgstr "Üzemmód az állandó képmagasság (CIH) beállításához"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31475"
+msgid "2:35:1 (1920x817)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31476"
+msgid "2:40:1 (1920x800)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31477"
+msgid "1:77:1 (1920x1080)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31478"
+msgid "1:85:1 (1920x1038)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31479"
+msgid "2:37:1 (1920x810)"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31480"
+msgid "Scope mode"
+msgstr "Mód"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31481"
+msgid "My ratings and scrapers ratings"
+msgstr "Saját és scrapper pontozások"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31482"
+msgid "Scrapers ratings text color"
+msgstr "Scrapper pontozások színe"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31483"
+msgid "My ratings text color"
+msgstr "Saját pontozás színe"
+
+#: /xml/Includes.xml
+msgctxt "#31484"
+msgid "Loading..."
+msgstr "Betöltés..."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31485"
+msgid "Parental control related settings."
+msgstr "Szülői kontrollal kaocsolatos beállítások"
+
+#: /xml/Custom_1101_SettingsList.xml
+msgctxt "#31486"
+msgid "Select Resolution"
+msgstr "Felbontás kiválasztása"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31487"
+msgid "Date added"
+msgstr "Hozzáadás dátuma"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31488"
+msgid "Show extended info"
+msgstr "Bővített infó"
+
+#: /xml/Variables.xml
+msgctxt "#31489"
+msgid "By"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31490"
+msgid "Movies from movie set"
+msgstr "Filmek gyűjteményekből"
+
+#: /xml/Custom_1132_MoviesSetsInfo.xml
+msgctxt "#31491"
+msgid "Press [B]DOWN[/B] to show info from selected movie"
+msgstr "Nyomj [B]LE gombot[/B] a filminfó mutatásához"
+
+#: /xml/Variables.xml
+msgctxt "#31492"
+msgid "Lists settings"
+msgstr "Lista beállítás"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31493"
+msgid "Show Actors list"
+msgstr "Színész lista mutatása"
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31494"
+msgid "Episode count"
+msgstr "Epizód száma"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31495"
+msgid "Movies from director"
+msgstr "A rendező filmjei"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31496"
+msgid "Similar movies"
+msgstr "Hasonló filmek"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31497"
+msgid "Movies from studio"
+msgstr "Filmek a stúdiótól"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31498"
+msgid "Next Up episodes"
+msgstr "Következő részek"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31499"
+msgid "Similar TV shows"
+msgstr "Hasonló sorozatok"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31500"
+msgid "Fanarts list"
+msgstr "Fanart lista"
+
+#: /xml/Variables.xml
+msgctxt "#31501"
+msgid "Albums from library"
+msgstr "Albumok a médiatárból"
+
+#: /xml/Variables.xml
+msgctxt "#31502"
+msgid "Complete discography"
+msgstr "Teljes discográfiák "
+
+#: /xml/Variables.xml
+msgctxt "#31503"
+msgid "Songs from album"
+msgstr "Zenék az albumból"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31504"
+msgid "Press [B]OK[/B] to show back thumb"
+msgstr "Nyomj [B]OK-t[/B] a bélyegkép megjelenítéshez"
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31505"
+msgid "Episode of the season"
+msgstr "Szezon epizódok"
+
+#: /xml/Variables.xml
+msgctxt "#31506"
+msgid "Posters"
+msgstr "Poszterek"
+
+#: /xml/Variables.xml
+msgctxt "#31507"
+msgid "Fanarts"
+msgstr "Fanartok"
+
+#: /xml/Variables.xml
+msgctxt "#31508"
+msgid "Resume playback at"
+msgstr "Abbahagyott időponttól lejátszás"
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31509"
+msgid "Press [B]OK[/B] to show biography"
+msgstr "Nyomj [B]OK-t[/B] az életrajzhoz"
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31510"
+msgid "Website"
+msgstr "Weboldal"
+
+#: /xml/Variables.xml
+msgctxt "#31511"
+msgid "Role in movie"
+msgstr "Szerep a filmben"
+
+#: /xml/Variables.xml
+msgctxt "#31512"
+msgid "Crew member in movie"
+msgstr "A filmben stábtag"
+
+#: /xml/Variables.xml
+msgctxt "#31513"
+msgid "Role in TV show"
+msgstr "Szerep a Sorozatban"
+
+#: /xml/Variables.xml
+msgctxt "#31514"
+msgid "Crew member in TV show"
+msgstr "Stábtag a sorozatban"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31515"
+msgid "Palm Week"
+msgstr "Nagyhét"
+
+msgctxt "#31550"
+msgid "Channel groups"
+msgstr "Csatorna csoportok"
+
+msgctxt "#31551"
+msgid "German Telecast Offers"
+msgstr ""
+
+msgctxt "#31552"
+msgid "Also apply to radio and internet station logos"
+msgstr "Alkalmazás a rádió és internet csatorna logókra"
+
+msgctxt "#31553"
+msgid "Use poster view for music video widgets"
+msgstr "Poster nézet a zenei videó widgetekhez"
+
+msgctxt "#31554"
+msgid "Show year of publication in title"
+msgstr "Megjelenés éve mutatása a címben"
+
+msgctxt "#31555"
+msgid "Optional icons and fanart packs"
+msgstr "Kiválasztható ikon és fanart csomagok"
+
+msgctxt "#31556"
+msgid "Reboot from NAND (Android)"
+msgstr "Újraindítás NAND-ból (Andoid)"
+
+msgctxt "#31557"
+msgid "Restart Kodi"
+msgstr "Kodi újraindítása"
+
+msgctxt "#31558"
+msgid "Addon-ID"
+msgstr "Kiegészítő azonosító"
+
+msgctxt "#31559"
+msgid "Platform"
+msgstr "Platform"
+
+msgctxt "#31560"
+msgid "Forced Views"
+msgstr "Erőltetett nézet"
+
+msgctxt "#31561"
+msgid "Show PVR related Artworks"
+msgstr "PVR hez kapcsolódó artwork mutatássa"
+
+msgctxt "#31562"
+msgid "PVR Artwork Configuration"
+msgstr "PVR Artwork beállítása"
+
+msgctxt "#31563"
+msgid "Show date"
+msgstr "Dátumot mutat"
+
+msgctxt "#31564"
+msgid "Top Bar"
+msgstr "Felső sáv"
+
+msgctxt "#31565"
+msgid "Bottom Bar"
+msgstr "Alsó sáv"
+
+msgctxt "#31566"
+msgid "Media"
+msgstr "Média"
+
+msgctxt "#31567"
+msgid "Kodi/Distribution Logo"
+msgstr "Kodi/Változatok logója"
+
+msgctxt "#31568"
+msgid "LibreELEC"
+msgstr ""
+
+msgctxt "#31569"
+msgid "CoreELEC"
+msgstr ""
+
+msgctxt "#31570"
+msgid "Show extended Power Menu"
+msgstr "Bővített kikapcsolási menü"
+
+msgctxt "#31571"
+msgid "Prefer Fanart in EPG preview window if available"
+msgstr "Előnyben részesítse a Fanartot az EPG előnézeti ablakában, ha elérhető"
+
+msgctxt "#31572"
+msgid "Upcoming episodes"
+msgstr "Következő részek"
+
+msgctxt "#31573"
+msgid "Show MPAA rating"
+msgstr "MPAA pontozás"
+
+msgctxt "#31574"
+msgid "(until "
+msgstr "(addig "
+
+msgctxt "#31575"
+msgid "Show Color Depth"
+msgstr "Színmélység"
+
+msgctxt "#31576"
+msgid "Show additional Infos within the PVR widgets"
+msgstr "További információk megjelenítése a PVR widgeteken belül"
+
+msgctxt "#31577"
+msgid "Close Video OSD automatically after"
+msgstr "Ezután automatikusan zárja be a Video OSD-t"
+
+msgctxt "#31578"
+msgid "disabled"
+msgstr "letiltva"
+
+msgctxt "#31580"
+msgid "3 seconds"
+msgstr "3 másodperc"
+
+msgctxt "#31581"
+msgid "5 seconds"
+msgstr "5 másodperc"
+
+msgctxt "#31582"
+msgid "7 seconds"
+msgstr "7 másodperc"
+
+msgctxt "#31583"
+msgid "10 seconds"
+msgstr "10 másodperc"
+
+msgctxt "#31584"
+msgid "15 seconds"
+msgstr "15 másodperc"
+
+msgctxt "#31585"
+msgid "Show Channel Numbers"
+msgstr "Csatornaszámok mutatása"
+
+msgctxt "#31586"
+msgid "Show Date of First aired"
+msgstr "Bemutatás dátumának mutatása"
+
+msgctxt "#31587"
+msgid "Item Path of Picture Widgets"
+msgstr "Kép widgetek elem elérési útja"
+
+msgctxt "#31588"
+msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
+msgstr "Alapértelmezett művelet a „Film” és a „Sorozat” widgeteknél"
+
+msgctxt "#31589"
+msgid "Play Item"
+msgstr "Elem lejátszása"
+
+msgctxt "#31590"
+msgid "Show Info"
+msgstr "Infó mutatása"
+
+msgctxt "#31591"
+msgid "Sort Order"
+msgstr "Rendezési mód"
+
+msgctxt "#31592"
+msgid "Show Path Navigation (Breadcrumbs) in List Views"
+msgstr "Elérési út navigációt mutat(Breadcrumbs) a listanézetekben"
+
+msgctxt "#31593"
+msgid "Show only 'current item / item count' Information"
+msgstr "Csak a jelenlegi elem / elemszám információja"
+
+msgctxt "#31594"
+msgid "Set Animated Poster"
+msgstr "Animált poszterek"
+
+msgctxt "#31595"
+msgid "Remove Animated Poster"
+msgstr "Animált poszerek visszavonása"
+
+msgctxt "#31596"
+msgid "Animated Poster removed"
+msgstr "Animált poszerek visszavonva"
+
+msgctxt "#31597"
+msgid "Animated Poster added"
+msgstr "Animált poszerek hozzáadva"
+
+msgctxt "#31598"
+msgid "Local Path to animated Poster Folder"
+msgstr "Helyi elérési út az Animált poszerekhez"
+
+msgctxt "#31599"
+msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
+msgstr "Az animált posztergyűjtemény mappája még nincs meghatározva. Határozzon meg egy mappát a helyi fájlrendszerben, amely animált posztereket tartalmaz, a felszín beállításokhoz. "
+
+msgctxt "#31600"
+msgid "Could not assign animated Poster"
+msgstr "Nem sikerült hozzárendelni az animált posztert"
+
+msgctxt "#31601"
+msgid "Hit Probability: "
+msgstr "Találat valószínűsége: "
+
+#: SkinSettings.xml
+msgctxt "#31602"
+msgid "'Rotten Tomatoes' Rating Category"
+msgstr "'Rotten Tomatoes' Pontozási kategória"
+
+#: SkinSettings.xml
+msgctxt "#31603"
+msgid "Tomatometer all Critics"
+msgstr "Tomatometer összes vélemény"
+
+#: SkinSettings.xml
+msgctxt "#31604"
+msgid "Tomatometer average Critics"
+msgstr "Tomatometer átlagos vélemény"
+
+#: SkinSettings.xml
+msgctxt "#31605"
+msgid "Tomatometer all Audience"
+msgstr "Tomatometer összes közönség"
+
+#: SkinSettings.xml
+msgctxt "#31606"
+msgid "Tomatometer average Audience"
+msgstr "Tomatometer átlagolt közönség"
+
+#: SkinSettings.xml
+msgctxt "#31607"
+msgid "Use simplified Video OSD Navigation"
+msgstr "Egyszerűsített OSD navigáció"
+
+msgctxt "#31608"
+msgid "Previous seen Channel"
+msgstr "Előzőleg nézett csatorna"
+
+
+#: Includes_MediaMenu.xml
+msgctxt "#31609"
+msgid "Show PVR Channel Status"
+msgstr "PVR csatorna állapotának megjelenítése"
+
+#: DialogPlayerProcessInfo
+
+msgctxt "#31610"
+msgid "Display Mode"
+msgstr "Képernyőmód"
+
+msgctxt "#31611"
+msgid "Eoft & Gamut"
+msgstr ""
+
+msgctxt "#31612"
+msgid "Color Depth"
+msgstr "Színmélység"
+
+#: SkinSettings.xml
+
+msgctxt "#31613"
+msgid "Display Media Time"
+msgstr "Média hossz megjelenítése"
+
+msgctxt "#31614"
+msgid "current Time / total Time"
+msgstr "jelenlegi idő / teljes hossz"
+
+msgctxt "#31615"
+msgid "Remaining Time"
+msgstr "Hátralevő idő"
+
+#: SkinSettings.xml
+
+msgctxt "#31616"
+msgid "Use Background for PVR Channel Icons"
+msgstr "Háttér a PVR csatorna ikonoknak"
+
+#: Custom_1127_settingsTVWidgets.xml
+
+msgctxt "#31617"
+msgid "Saved Search Results"
+msgstr "Mentett keresési előzmények"
+
+#: SkinSettings.xml
+
+msgctxt "#31618"
+msgid "Use full Height for Channel and Program OSD"
+msgstr "Teljes magasságú csatorna és program OSD"
+
+#: Font.xml
+
+msgctxt "#31619"
+msgid "Economica based"
+msgstr "Economica alapú"

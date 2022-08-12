@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol>9000</defaultcontrol>
+	<backgroundcolor>background</backgroundcolor>
+	<controls>
+		<include>DefaultBackground</include>
+		<control type="group">
+			<centerleft>50%</centerleft>
+			<width>1900</width>
+			<top>0</top>
+			<bottom>0</bottom>
+			<include>OpenClose_Right</include>
+			<control type="panel" id="9000">
+				<left>0</left>
+				<width>100%</width>
+				<top>160</top>
+				<pagecontrol>60</pagecontrol>
+				<onright>60</onright>
+				<onleft>60</onleft>
+				<include>SettingsPanel</include>
+				<content>
+					<item>
+						<label>$LOCALIZE[20094]</label>
+						<onclick>ActivateWindow(1120)</onclick>
+						<icon>icons/settings/sources.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[10003]</label>
+						<onclick>ActivateWindow(filemanager)</onclick>
+						<icon>icons/settings/filemanager.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[24001]</label>
+						<onclick>ActivateWindow(addonbrowser)</onclick>
+						<icon>icons/settings/addons.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[138]</label>
+						<onclick>ActivateWindow(systeminfo)</onclick>
+						<icon>icons/settings/sysinfo.png</icon>
+					</item>
+
+					<item>
+						<label>$LOCALIZE[10035]</label>
+						<onclick>ActivateWindow(SkinSettings)</onclick>
+						<icon>icons/settings/skin.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[14206]</label>
+						<onclick>ActivateWindow(InterfaceSettings)</onclick>
+						<icon>icons/settings/interface.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[14211]</label>
+						<onclick>ActivateWindow(MediaSettings)</onclick>
+						<icon>icons/settings/media.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[14200]</label>
+						<onclick>ActivateWindow(PlayerSettings)</onclick>
+						<icon>icons/settings/player.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[14204]</label>
+						<onclick>ActivateWindow(PVRSettings)</onclick>
+						<icon>icons/settings/livetv.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[14036]</label>
+						<onclick>ActivateWindow(ServiceSettings)</onclick>
+						<icon>icons/settings/network.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[15016]</label>
+						<visible>System.GetBool(gamesgeneral.enable)</visible>
+						<onclick>ActivateWindow(GameSettings)</onclick>
+						<icon>icons/settings/games.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[13200]</label>
+						<onclick>ActivateWindow(Profiles)</onclick>
+						<icon>icons/settings/profiles.png</icon>
+					</item>
+					<item>
+						<label>$LOCALIZE[13000]</label>
+						<onclick>ActivateWindow(SystemSettings)</onclick>
+						<icon>icons/settings/system.png</icon>
+					</item>
+					<item>
+						<label>LibreELEC</label>
+						<onclick>RunAddon(service.libreelec.settings)</onclick>
+						<icon>icons/settings/libreelec.png</icon>
+						<visible>System.HasAddon(service.libreelec.settings)</visible>
+					</item>
+					<item>
+						<label>CoreELEC</label>
+						<onclick>RunAddon(service.coreelec.settings)</onclick>
+						<icon>icons/settings/coreelec.png</icon>
+						<visible>System.HasAddon(service.coreelec.settings)</visible>
+					</item>
+				</content>
+			</control>
+		</control>
+		<include content="SettingsScrollbar">
+			<param name="top">140</param>
+			<param name="height">920</param>
+			<param name="leftright">9000</param>
+		</include>
+		<include content="TopBar">
+			<param name="breadcrumbs_label" value="$LOCALIZE[5]" />
+		</include>
+		<include>BottomBar</include>
+	</controls>
+</window>

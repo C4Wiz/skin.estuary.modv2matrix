@@ -1,0 +1,2557 @@
+# Kodi Media Center language file
+# Addon Name: Estuary MOD v2
+# Addon id: skin.estuary.modv2
+# Addon Provider: Guilouz
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-12-07 11:00+0300\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/kodi-"
+"main/language/ru_RU/)\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: /xml/Home.xml /xml/DialogSeekBar.xml
+msgctxt "#31000"
+msgid "Now playing"
+msgstr "Сейчас играет:"
+
+#: /xml/Home.xml
+msgctxt "#31001"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31002"
+msgid "Show media fanart as background"
+msgstr "Показывать фанарт медиа как фон"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31003"
+msgid "Cinema mode"
+msgstr "Режим кино"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31004"
+msgid "Change mode"
+msgstr "Изменить режим"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31005"
+msgid "Watch as 2D"
+msgstr "Смотреть в 2D"
+
+#: /xml/Home.xml
+msgctxt "#31006"
+msgid "Random movies"
+msgstr "Случайные фильмы"
+
+#: /xml/Home.xml
+msgctxt "#31007"
+msgid "Unwatched movies"
+msgstr "Непросмотреные фильмы"
+
+#: /1080i/DialogAddonInfo.xml:32
+msgctxt "#31008"
+msgid "No disclaimer"
+msgstr "Нет отказа от ответственности"
+
+#: /xml/MyVideoNav.xml
+msgctxt "#31009"
+msgid "Download icons"
+msgstr "Загрузить иконки"
+
+#: /xml/Home.xml
+msgctxt "#31010"
+msgid "In progress movies"
+msgstr "Просматриваемые фильмы"
+
+#: /xml/Home.xml
+msgctxt "#31011"
+msgid "Most played albums"
+msgstr "Самые проигрываемые альбомы"
+
+#: /xml/Home.xml
+msgctxt "#31012"
+msgid "Random albums"
+msgstr "Случайные альбомы"
+
+#: /xml/Home.xml
+msgctxt "#31013"
+msgid "Random artists"
+msgstr "Случайные исполнители"
+
+#: /xml/Home.xml
+msgctxt "#31014"
+msgid "Unplayed albums"
+msgstr "Непрослушанные альбомы"
+
+#. home screen recordings widget: recent tv / radio recordings
+#: /xml/Home.xml
+msgctxt "#31015"
+msgid "Recent recordings"
+msgstr "Недавние записи"
+
+#. home screen channel widget: recently played tv channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
+#: /xml/Home.xml
+msgctxt "#31016"
+msgid "Recently played channels"
+msgstr "Недавно проигранные каналы"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31017"
+msgid "Rated"
+msgstr "С рейтингом"
+
+#. home screen channel widget: recently played radio channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
+#: /xml/Home.xml
+msgctxt "#31018"
+msgid "Recently played channels"
+msgstr "Недавно просмотренные каналы"
+
+#: /xml/Home.xml /xml/MyWeather.xml
+msgctxt "#31019"
+msgid "Forecast"
+msgstr "Прогноз"
+
+#: /xml/MyMusicNav.xml /xml/MyPics.xml /xml/MyVideoNav.xml
+msgctxt "#31020"
+msgid "Actions"
+msgstr "Действия"
+
+#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml /xml/Includes_MediaMenu.xml /xml/EventLog.xml
+msgctxt "#31021"
+msgid "Misc options"
+msgstr "Другие параметры"
+
+#: /xml/Includes_MediaMenu.xml /xml/Includes.xml
+msgctxt "#31022"
+msgid "Sort by"
+msgstr "Сорт. по"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31023"
+msgid "Viewtype"
+msgstr "Вид просмотра"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31024"
+msgid "Choose rating to display for media items"
+msgstr "Выберите рейтинг для отображения на медиаэлементах"
+
+#: /xml/DialogFavourites.xml
+msgctxt "#31025"
+msgid "No favourites found. You can add any item from media views to this list by using the context menu."
+msgstr "Список избранного пуст. Вы можете добавить сюда любой медиаконтент с помощью контекстного меню."
+
+#: /xml/DialogSeekBar.xml
+msgctxt "#31026"
+msgid "Timeshift"
+msgstr "Сдвиг по времени"
+
+#: /xml/DialogAlbumInfo.xml /xml/DialogVideoInfo.xml
+msgctxt "#31028"
+msgid "Show fanart"
+msgstr "Показывать фанарт"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31029"
+msgid "Last logged in"
+msgstr "Последний вход"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31030"
+msgid "System memory usage"
+msgstr "Использование памяти"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31031"
+msgid "Version info"
+msgstr "Информация о версии"
+
+#: /xml/EventLog.xml /xml/Includes_MediaMenu.xml /xml/SmartPlaylistEditor.xml
+msgctxt "#31032"
+msgid "Order"
+msgstr "Порядок"
+
+#: /xml/DialogVideoInfo.xml /xml/DialogSongInfo.xml
+msgctxt "#31033"
+msgid "My rating"
+msgstr "Ваш рейтинг"
+
+#: /1080i/DialogVideoInfo.xml:263
+msgctxt "#31034"
+msgid "Extended info"
+msgstr "Дополнительная информация"
+
+#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
+msgctxt "#31035"
+msgid "Pages"
+msgstr "Страницы"
+
+#: /xml/FileBrowser.xml /xml/Variables.xml /xml/MyPVRRecordings.xml
+msgctxt "#31036"
+msgid "items"
+msgstr "объектов"
+
+msgctxt "#31037"
+msgid "item"
+msgstr "объект"
+
+#: /xml/Variables.xml
+msgctxt "#31038"
+msgid "Rewind"
+msgstr "Перемотка назад"
+
+#: /xml/Variables.xml
+msgctxt "#31039"
+msgid "Fast forward"
+msgstr "Перемотка вперед"
+
+#: /xml/Variables.xml /xml/MyPics.xml
+msgctxt "#31041"
+msgid "Camera manufacturer"
+msgstr "Производитель камеры"
+
+#: /xml/SmartPlaylistEditor.xml
+msgctxt "#31042"
+msgid "Playlist options"
+msgstr "Параметры плейлиста"
+
+#: /1080i/SmartPlaylistEditor.xml:126
+msgctxt "#31043"
+msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgstr "Установите тип и добавьте правила для создания умного плейлиста. Эти плейлисты являются динамическими и включают в себя все мультимедийные элементы из вашей базы данных, которые соответствуют установленным вами правилам."
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31044"
+msgid "Add group"
+msgstr "Добавить группу"
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31045"
+msgid "Rename group"
+msgstr "Переименовать группу"
+
+#: /1080i/DialogPVRGroupManager.xml:49
+msgctxt "#31046"
+msgid "Delete group"
+msgstr "Удалить группу"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31048"
+msgid "Available"
+msgstr "Доступно"
+
+#: /xml/Variables.xml
+msgctxt "#31050"
+msgid "Show plot"
+msgstr "Показать сюжет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31051"
+msgid "Enable Splash screen"
+msgstr "Включить экран загрузки"
+
+#: /xml/Includes.xml
+msgctxt "#31052"
+msgid "filtered"
+msgstr "отфильтровано"
+
+#: /xml/Font.xml
+msgctxt "#31053"
+msgid "Arial based"
+msgstr "На основе Arial"
+
+#: /xml/Variables.xml
+msgctxt "#31054"
+msgid "Forward jumping"
+msgstr "Прыжок вперед"
+
+#: /xml/Variables.xml
+msgctxt "#31055"
+msgid "Backward jumping"
+msgstr "Прыжок назад"
+
+#: /xml/MyMusicNav.xml /xml/MyVideoNav.xml
+msgctxt "#31056"
+msgid "Go to playlist"
+msgstr "Перейти к плейлисту"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31057"
+msgid "Show login screen on startup"
+msgstr "Показывать экран входа при запуске"
+
+#: /xml/SettingsProfile.xml
+msgctxt "#31058"
+msgid "Automatic Login on startup"
+msgstr "Автоматически входить при загрузке"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31061"
+msgid "Main menu items"
+msgstr "Элементы главного меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31062"
+msgid "Weather fanarts pack"
+msgstr "Набор фанартов погоды"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31063"
+msgid "Sections"
+msgstr "Разделы"
+
+#: /xml/Variables.xml
+msgctxt "#31064"
+msgid "unwatched"
+msgstr "не просмотрено"
+
+#: /xml/MyVideoPlaylist.xml
+msgctxt "#31065"
+msgid "Video playlist"
+msgstr "Плейлист видео"
+
+#: /xml/MyMusicPlaylist.xml
+msgctxt "#31066"
+msgid "Music playlist"
+msgstr "Музыкальный плейлист"
+
+#: /xml/EventLog.xml
+msgctxt "#31067"
+msgid "Event log"
+msgstr "Журнал событий"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31068"
+msgid "Choose presets"
+msgstr "Выбор пресетов"
+
+#: /xml/AddonBrowser.xml
+msgctxt "#31069"
+msgid "Last Updated"
+msgstr "Последнее обновление"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31071"
+msgid "by"
+msgstr "от"
+
+#: /xml/DialogButtonMenu.xml /xml/LoginScreen.xml
+msgctxt "#31072"
+msgid "Power Options"
+msgstr "Настройки питания"
+
+#: /xml/Home.xml
+msgctxt "#31075"
+msgid "Movie sets"
+msgstr "Киноциклы"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31079"
+msgid "Cast not available"
+msgstr "Актерский состав не доступен"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31080"
+msgid "Ends at"
+msgstr "Закончится в"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31082"
+msgid "Lyrics add-on"
+msgstr "Дополнение текстов песен"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31083"
+msgid "Lyrics add-on settings"
+msgstr "Настройки дополнения текстов песен"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31084"
+msgid "Visualisation settings"
+msgstr "Настройки визуализации"
+
+#: /xml/DialogPVRGroupManager.xml
+msgctxt "#31089"
+msgid "Available groups"
+msgstr "Доступные группы"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31090"
+msgid "Search trailer"
+msgstr "Найти трейлер"
+
+#: /xml/VideoOSD.xml /xml/Variables.xml
+msgctxt "#31092"
+msgid "Video menu"
+msgstr "Меню видео"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31093"
+msgid "Show weather info"
+msgstr "Показывать сведения о погоде на верхней панели"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31095"
+msgid "Use slide animations"
+msgstr "Использовать скользящую анимацию"
+
+#: /xml/DialogSubtitles.xml
+msgctxt "#31096"
+msgid "Local subtitle available"
+msgstr "Доступны локальные субтитры"
+
+#: /xml/DialogPVRChannelManager.xml
+msgctxt "#31097"
+msgid "Channel options"
+msgstr "Настройки канала"
+
+#: /xml/LoginScreen.xml
+msgctxt "#31098"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Выберите ваш профиль пользователя Kodi[CR]для входа и продолжения"
+
+#. viewtype name
+#: /xml/View_52_IconWall.xml
+msgctxt "#31099"
+msgid "Icon Wall"
+msgstr "Стена иконок"
+
+#. viewtype name
+#: /xml/View_53_Shift.xml
+msgctxt "#31100"
+msgid "Shift"
+msgstr "Сдвиг"
+
+#. viewtype name
+#: /xml/View_54_InfoWall.xml
+msgctxt "#31101"
+msgid "InfoWall (posters)"
+msgstr "Стена информации (постеры)"
+
+#. viewtype name
+#: /xml/View_500_Wall.xml
+msgctxt "#31102"
+msgid "Wall (posters)"
+msgstr "Стена (постеры)"
+
+#: /xml/SmartPlaylistRule.xml
+msgctxt "#31103"
+msgid "Enter text here..."
+msgstr "Введите текст здесь..."
+
+#: /xml/Home.xml
+msgctxt "#31104"
+msgid "Your video library is currently empty. In order to populate it with your personal media, add a video source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgstr "Ваша библиотека видео сейчас пуста. Чтобы заполнить её данными, добавьте источник видео и настройте его. После того как источник будет добавлен и проиндексирован вы сможете просматривать библиотеку."
+
+#: /xml/Home.xml
+msgctxt "#31105"
+msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
+msgstr "Добавьте медиаисточник и установите правильный тип его содержимого для заполнения видеобиблиотеки."
+
+#: /xml/Variables.xml
+msgctxt "#31106"
+msgid "Teletext"
+msgstr "Телетекст"
+
+#. viewtype name
+#: /xml/View_55_WideList.xml
+msgctxt "#31107"
+msgid "WideList"
+msgstr "Широкий список"
+
+#. viewtype name
+#: /xml/Includes_PVR.xml
+msgctxt "#31108"
+msgid "Большой список"
+msgstr ""
+
+#: /xml/Home.xml
+msgctxt "#31110"
+msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgstr "Ваша музыкальная библиотека сейчас пуста. Чтобы ее наполнить добавьте источник музыки и настройте его. После того как источник будет добавлен и проиндексирован вы сможете просматривать библиотеку."
+
+#: /xml/Home.xml
+msgctxt "#31111"
+msgid "View your personal pictures or download one of the many image add-ons from the official repository."
+msgstr "Просмотр личных фотографий или загрузка одного из многих фотодополнений из официального репозитория."
+
+#: /xml/VideoOSD.xml
+msgctxt "#31112"
+msgid "Toggle audio stream"
+msgstr "Переключить аудиопоток"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31113"
+msgid "Search local library"
+msgstr "Поиск в локальной библиотеке"
+
+#: /xml/Custom_1107_SearchDialog.xml /xml/DialogMusicInfo.xml
+msgctxt "#31114"
+msgid "Search YouTube"
+msgstr "Поиск на YouTube"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31115"
+msgid "Search TheMovieDB"
+msgstr "Поиск в TheMovieDB"
+
+#: /xml/Home.xml
+msgctxt "#31116"
+msgid "Add games source"
+msgstr "Добавить источник игр"
+
+#: /xml/MyVideoNav.xml
+msgctxt "#31117"
+msgid "Edit nodes"
+msgstr "Редактирование узлов"
+
+#: /xml/Home.xml
+msgctxt "#31118"
+msgid "Enter add-on browser"
+msgstr "Доступ к браузеру дополнений"
+
+#: /xml/Home.xml
+msgctxt "#31119"
+msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
+msgstr "У вас пока что нет установленных дополнений… Посетите наш браузер дополнений, чтобы просмотреть нашу коллекцию и улучшить свой Kodi."
+
+#: /xml/Home.xml
+msgctxt "#31120"
+msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
+msgstr "Вы не настроили провайдера погоды. Необходимо выбрать провайдера и настроить местоположение"
+
+#: /xml/Home.xml
+msgctxt "#31121"
+msgid "Set weather provider"
+msgstr "Выбрать провайдера погоды"
+
+#: /xml/Home.xml
+msgctxt "#31122"
+msgid "Unwatched TV Shows"
+msgstr "Непросмотренные сериалы"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31123"
+msgid "Same director"
+msgstr "Тот же режиссёр"
+
+#: /xml/MyPics.xml
+msgctxt "#31124"
+msgid "Show images on map"
+msgstr "Показать изображения на карте"
+
+#: /xml/Variables.xml
+msgctxt "#31125"
+msgid "is"
+msgstr "это"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31126"
+msgid "Press [B]OK[/B] to show plot"
+msgstr "Нажмите [B]OK[/B] для чтения сюжета"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31127"
+msgid "Show icons"
+msgstr "Показать значки"
+
+#: /xml/Variables.xml
+msgctxt "#31128"
+msgid "Contributors"
+msgstr "Авторы"
+
+#: /xml/Variables.xml
+msgctxt "#31129"
+msgid "General settings applying to all areas of the skin."
+msgstr "Основные настройки, применяемые ко всем областям обложки."
+
+#: /xml/Variables.xml
+msgctxt "#31130"
+msgid "Main menu-related settings: Configure the home screen to your likings."
+msgstr "Настройки, относящиеся к главному меню: настройте домашний экран по своему вкусу."
+
+#: /shortcuts/addons.DATA.xml
+msgctxt "#31131"
+msgid "Add-ons settings"
+msgstr "Настройки дополнений"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31132"
+msgid "Hide 'Categories' widget"
+msgstr "Стрыть виджет 'Категории'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31133"
+msgid "Show banners on episodes/thumbs widgets"
+msgstr "Показывать баннеры на виджетах серий/изображениях серий"
+
+#: /xml/DialogSeekBar.xml
+msgctxt "#31134"
+msgid "Remaining"
+msgstr "Осталось"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Нажмите для просмотра последних изменений…"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "Информация PVR"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Сведения о проигрывателе"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Видеодекодер"
+
+#: /xml/DialogPlayerProcessInfo.xml
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Формат пикселей"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Изменения для версии"
+
+#: /xml/Variables.xml
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Скорость проигрывания"
+
+#: /xml/Home.xml
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "В системе не найдено PVR-клиентов. Если собираетесь использовать PVR, выберите дополнение PVR-клиента и настройте его. Дополнительная информация на http://kodi.wiki/view/PVR"
+
+#: /xml/Home.xml
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Войти в браузер дополнений"
+
+#: /xml/Custom_1107_SearchDialog.xml
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Поиск дополнений"
+
+#: /xml/Home.xml
+msgctxt "#31148"
+msgid "Categories"
+msgstr "Категории"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31149"
+msgid "Video genres fanarts pack"
+msgstr "Набор фанартов жанров"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31150"
+msgid "Repository"
+msgstr "Репозиторий"
+
+#: /xml/Home.xml
+msgctxt "#31151"
+msgid "Unwatched music videos"
+msgstr "Непросмотреные муз. видео"
+
+#: /xml/Home.xml
+msgctxt "#31152"
+msgid "Random music videos"
+msgstr "Случайные муз. видео"
+
+#: /xml/Includes.xml
+msgctxt "#31153"
+msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgstr "У вас нет установленных дополнений этого типа. Откройте браузер дополнений, чтобы загрузить дополнения, созданные сообществом."
+
+#: /xml/MyWeather.xml
+msgctxt "#31154"
+msgid "Press [B]OK[/B] to switch between locations"
+msgstr "Нажмите [B]OK[/B] для переключения местоположений"
+
+#: /xml/VideoOSDBookmarks.xml
+msgctxt "#31155"
+msgid "No bookmarks created yet."
+msgstr "Нет закладок"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31156"
+msgid "Choose background pattern"
+msgstr "Выберите фон"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31157"
+msgid "Library info"
+msgstr "Информация о библиотеке"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31158"
+msgid "Touch mode"
+msgstr "Сенсорный режим"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31159"
+msgid "Artworks"
+msgstr "Картинки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31160"
+msgid "Show media flags"
+msgstr "Флаги сведений"
+
+#: /xml/DialogNumeric.xml
+msgctxt "#31161"
+msgid "Numeric pad"
+msgstr "Цифровая клавиатура"
+
+#: /xml/Home.xml
+msgctxt "#31162"
+msgid "Play your personal games or download one of the many game add-ons from the official repository."
+msgstr "Играйте в ваши игры или загрузите один из многих игровых аддонов из официального репозитория."
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31163"
+msgid "Show Fanart background"
+msgstr "Отображать фанарт в качестве фона"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31200"
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#31201"
+msgid "Add media sources"
+msgstr "Добавить источники медиаданных"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#31202"
+msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
+msgstr "Ссылки к разделам «Файлы» каждого типа носителя. Перейдите туда, чтобы добавить дополнительные источники для ваших баз данных."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31203"
+msgid "Home menu"
+msgstr "Главное меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31204"
+msgid "Hide main menu when selecting widgets"
+msgstr "Скрывать главное меню при выборе виджетов"
+
+#: /xml/View_503_Gallery.xml
+msgctxt "#31205"
+msgid "Gallery"
+msgstr "Галерея"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31206"
+msgid "Reset main menu settings"
+msgstr "Сбросить настройки главного меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31207"
+msgid "Are you sure you want to reset display of all menu items back to default ?"
+msgstr "Вы действительно хотите сбросить все элементы меню на значения по-умолчанию?"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31208"
+msgid "Changes of version"
+msgstr "Изменения в версии"
+
+#: /xml/Variables.xml
+msgctxt "#31209"
+msgid "Update video library"
+msgstr "Обновить библиотеку видео"
+
+#: /xml/Variables.xml
+msgctxt "#31210"
+msgid "Update music library"
+msgstr "Обновить библиотеку музыки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31211"
+msgid "Show smaller icons for 'Categories' widgets"
+msgstr "Отображать маленькие иконки для виджета 'Категории'"
+
+#: /xml/Home.xml
+msgctxt "#31212"
+msgid "Next episodes to watch"
+msgstr "Следующие серии для просмотра"
+
+#: /xml/Variables.xml
+msgctxt "#31213"
+msgid "Stop scanning video library"
+msgstr "Остановить сканирование библиотеки видео"
+
+#: /xml/Variables.xml
+msgctxt "#31214"
+msgid "Stop scanning music library"
+msgstr "Остановить сканирование библиотеки музыки"
+
+#: /xml/View_504_ThumbsWall.xml
+msgctxt "#31215"
+msgid "Wall (thumbnails)"
+msgstr "Стена (миниатюры)"
+
+#: /xml/View_505_ThumbsInfoWall.xml
+msgctxt "#31216"
+msgid "InfoWall (thumbnails)"
+msgstr "Стена информации (миниатюры)"
+
+#: /xml/View_506_Mosaic.xml
+msgctxt "#31217"
+msgid "Mosaic (horizontal)"
+msgstr "Мозаика (горизонтальная)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31218"
+msgid "Hide watched items"
+msgstr "Скрыть просмотренные элементы"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31219"
+msgid "Colors"
+msgstr "Цвета"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31220"
+msgid "Main color"
+msgstr "Основной цвет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31221"
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31222"
+msgid "Color selection"
+msgstr "Выбор цвета"
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31223"
+msgid "Color"
+msgstr "Цвет"
+
+#: /xml/DialogContextMenu.xml
+msgctxt "#31224"
+msgid "Context menu"
+msgstr "Контекстное меню"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31225"
+msgid "Next aired"
+msgstr "Далее в эфире"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31226"
+msgid "Last aired"
+msgstr "Последнее прошедшее в эфире"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31227"
+msgid "votes"
+msgstr "голоса"
+
+#: /xml/Variables.xml
+msgctxt "#31228"
+msgid "hardware decoding"
+msgstr "аппаратное декодирование"
+
+#: /xml/Variables.xml
+msgctxt "#31229"
+msgid "software decoding"
+msgstr "програмное декодирование"
+
+#: /xml/Variables.xml
+msgctxt "#31230"
+msgid "Plot masked to avoid spoilers."
+msgstr "Скрывать сюжет для предотвращения спойлеров"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31231"
+msgid "Hide episodes plots to avoid spoilers"
+msgstr "Скрывать сюжет серий для предотвращения спойлеров"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31233"
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: /xml/Variables.xml
+msgctxt "#31234"
+msgid "Next chapter"
+msgstr "Следующий раздел"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31235"
+msgid "Background pattern color"
+msgstr "Цвет шаблона фона"
+
+#: /xml/Variables.xml
+msgctxt "#31236"
+msgid "Previous chapter"
+msgstr "Предыдущий раздел"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31237"
+msgid "Opacity for fanart as background"
+msgstr "Непрозрачность для фанарта в качестве фона"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31238"
+msgid "0%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31239"
+msgid "5%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31240"
+msgid "10%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31241"
+msgid "15%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31242"
+msgid "20%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31243"
+msgid "25%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31244"
+msgid "30%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31245"
+msgid "35%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31246"
+msgid "40%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31247"
+msgid "45%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31248"
+msgid "50%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31249"
+msgid "55%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31250"
+msgid "60%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31251"
+msgid "65%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31252"
+msgid "70%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31253"
+msgid "75%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31254"
+msgid "80%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31255"
+msgid "85%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31256"
+msgid "90%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31257"
+msgid "95%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31258"
+msgid "100%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31259"
+msgid "Show ExtraFanarts"
+msgstr "Показать дополнительный фанарт"
+
+#: /xml/Variables.xml
+msgctxt "#31260"
+msgid "Pause"
+msgstr "Пауза"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31261"
+msgid "Press [B]OK[/B] to read description"
+msgstr "Нажмите [B]OK[/ B], чтобы прочитать описание"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31262"
+msgid "Weather icons pack"
+msgstr "Набор иконок погоды"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31263"
+msgid "Kiosk Mode"
+msgstr "Режим киоска"
+
+#: /xml/Variables.xml
+msgctxt "#31264"
+msgid "None"
+msgstr "Нет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31265"
+msgid "Splash screen (photo, video or music)"
+msgstr "Начальный экран (фото, видео или музыка)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31266"
+msgid "Extras"
+msgstr "Дополнительно"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31267"
+msgid "Number of items to display on widgets"
+msgstr "Количество элементов для отображения в виджетах"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31268"
+msgid "Show media clearlogos"
+msgstr "Показывать логотипы медиа"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31269"
+msgid "Backup / Restore"
+msgstr "Резервное копирование / восстановление"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31270"
+msgid "Backup skin settings"
+msgstr "Резервное копирование настроек обложки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31271"
+msgid "Restore skin settings"
+msgstr "Восстановление настроек обложки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31272"
+msgid "Set location of backup file"
+msgstr "Укажите путь к файлу резервной копии"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31273"
+msgid "Necessary add-ons"
+msgstr "Необходимые дополнения"
+
+#: /xml/script-nextup-notification-PostPlayInfo.xml
+msgctxt "#31274"
+msgid "Hide Spoilers"
+msgstr "Скрыть спойлеры"
+
+#: /xml/script-nextup-notification-NextUpInfo.xml
+msgctxt "#31275"
+msgid "Next episode"
+msgstr "Следующая серия"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31276"
+msgid "Disable zoom effect"
+msgstr "Отключить эффект увеличения"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31277"
+msgid "Hide notification popup during playback"
+msgstr "Скрывать всплывающие сообщения во время воспроизведения"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31278"
+msgid "Music OSD"
+msgstr "Инфопанель музыки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31279"
+msgid "Video OSD"
+msgstr "Инфопанель видео"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31280"
+msgid "Show music visualisation screen when playing song"
+msgstr "Показывать экран музыкальной визуализации при проигрывании песни"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31281"
+msgid "Enable ExtraFanarts for background"
+msgstr "Включить дополнительный фанарт для фона"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31282"
+msgid "Animate background"
+msgstr "Анимированный фон"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31283"
+msgid "Show visualisation effects"
+msgstr "Показывать эффекты визуализации"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31284"
+msgid "Show music visualisation effects on background"
+msgstr "Показывать музыкальную визуализацию в фоне"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31285"
+msgid "Show video on background"
+msgstr "Показывать видео в фоне"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31286"
+msgid "Disable Kodi screensaver"
+msgstr "Отключить хранитель экрана Kodi"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31287"
+msgid "Show album CDArt"
+msgstr "Показывать CD-арт альбома"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31288"
+msgid "Show Clearlogo on video info"
+msgstr "Показывать Clearlogo в информации о видео"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31289"
+msgid "Show artist Clearlogo"
+msgstr "Показывать Clearlogo исполнителя"
+
+#: /xml/MusicVisualisation.xml
+msgctxt "#31290"
+msgid "Next tracks"
+msgstr "Следующие треки"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31291"
+msgid "Show artist banner"
+msgstr "Показывать баннер исполнителя"
+
+#: /xml/script-cu-lrclyrics-main.xml
+msgctxt "#31292"
+msgid "Lyrics source"
+msgstr "Источник текстов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31293"
+msgid "Media flags color"
+msgstr "Цвет медиафлагов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31294"
+msgid "Show ClearArt on video info"
+msgstr "Показывать ClearArt в информации о видео"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31295"
+msgid "Show CDArt on video info"
+msgstr "Показывать CD-арт в информации о видео"
+
+#: /xml/VideoOSD.xml
+msgctxt "#31296"
+msgid "Actors list"
+msgstr "Список актеров"
+
+#: /xml/Custom_1123_SettingsMoviesWidgets.xml
+msgctxt "#31297"
+msgid "Hide widget"
+msgstr "Скрыть виджет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31298"
+msgid "Manage items from 'Movies' widget"
+msgstr "Настроить элементы виджета 'Фильмы'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31299"
+msgid "Manage items from 'TV shows' widget"
+msgstr "Настроить элементы виджета 'Сериалы'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31300"
+msgid "Manage items from 'Music' widget"
+msgstr "Настроить элементы виджета 'Музыка'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31301"
+msgid "Manage items from 'Music videos' widget"
+msgstr "Настроить элементы виджета 'Видеоклипы'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31302"
+msgid "Manage items from 'TV' widget"
+msgstr "Настроить элементы виджета 'ТВ'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31303"
+msgid "Manage items from 'Radio' widget"
+msgstr "Настроить элементы виджета 'Радио'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31304"
+msgid "Manage items from 'Add-ons' widget"
+msgstr "Настроить элементы виджета 'Дополнения'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31305"
+msgid "Manage items from 'Videos' widget"
+msgstr "Настроить элементы виджета 'Видео'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31306"
+msgid "Customize main menu"
+msgstr "Настроить главное меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31307"
+msgid "Next airing episodes"
+msgstr "Серии в ближайшем эфире"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31308"
+msgid "Studios icons pack"
+msgstr "Набор иконок студий"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31309"
+msgid "Records labels icons pack"
+msgstr "Набор иконок звукозаписывающих лейблов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31310"
+msgid "Video genres icons pack"
+msgstr "Набор иконок жанров видео"
+
+#: /xml/Variables.xml
+msgctxt "#31311"
+msgid "Settings applying to library."
+msgstr "Настройки медиатеки."
+
+#: /xml/Variables.xml
+msgctxt "#31312"
+msgid "Display of Artworks related settings."
+msgstr "Настройки отображения иллюстраций."
+
+#: /xml/Variables.xml
+msgctxt "#31313"
+msgid "Visualization of the music screen related settings."
+msgstr "Настройки отображения информации на экране воспроизведения музыки."
+
+#: /xml/Variables.xml
+msgctxt "#31314"
+msgid "Visualization of the video screen related settings."
+msgstr "Настройки отображения информации на экране воспроизведения видео."
+
+#: /xml/Variables.xml
+msgctxt "#31315"
+msgid "Skin colors related settings."
+msgstr "Настройки цветов скина."
+
+#: /xml/Variables.xml
+msgctxt "#31316"
+msgid "Necessary addons for good performance."
+msgstr "Необходимые для хорошей производительности дополнения."
+
+#: /xml/Variables.xml
+msgctxt "#31317"
+msgid "Backup and restore skin settings."
+msgstr "Резервное копирование и восстановление настроек скина."
+
+#: /xml/Variables.xml
+msgctxt "#31318"
+msgid "Additional settings."
+msgstr "Дополнительные настройки."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31319"
+msgid "Show, add and remove animated posters"
+msgstr "Показывать, добавлять и удалять анимированные постеры"
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31320"
+msgid "Next aired episode"
+msgstr "Следующая серия"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31321"
+msgid "Thumbs with banners"
+msgstr "Изображения серий с баннером"
+
+#: /xml/Home.xml
+msgctxt "#31322"
+msgid "Hardware info"
+msgstr "Информация об оборудовании"
+
+#: /xml/Home.xml
+msgctxt "#31323"
+msgid "Hard disk usage:"
+msgstr "Использование жесткого диска"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31324"
+msgid "Opacity for top and bottom bars"
+msgstr "Непрозрачность верхней и нижней полос"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31325"
+msgid "Power menu style"
+msgstr "Стиль меню выключения"
+
+#: /xml/Custom_1124_SettingsTVShowsWidgets.xml
+msgctxt "#31326"
+msgid "Hide thumbs episodes to avoid spoilers"
+msgstr "Скрывать превью серий для избежания спойлеров"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31327"
+msgid "Preconfigured widgets"
+msgstr "Предустановленные виджеты"
+
+#: /xml/Variables.xml
+msgctxt "#31328"
+msgid "Go up item"
+msgstr "Поднять элемент"
+
+#: /xml/Variables.xml
+msgctxt "#31329"
+msgid "Go down item"
+msgstr "Опустить элемент"
+
+#: /xml/Variables.xml
+msgctxt "#31330"
+msgid "Add item"
+msgstr "Добавить элемент"
+
+#: /xml/Variables.xml
+msgctxt "#31331"
+msgid "Delete item"
+msgstr "Удалить элемент"
+
+#: /xml/Variables.xml
+msgctxt "#31332"
+msgid "Disable item"
+msgstr "Отключить элемент"
+
+#: /xml/Variables.xml
+msgctxt "#31333"
+msgid "Enable item"
+msgstr "Включить элемент"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31334"
+msgid "Not defined"
+msgstr "Не определено"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31335"
+msgid "Skin Helper Service Widgets"
+msgstr "Виджеты Skin Helper Service"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31336"
+msgid "Set type of widgets"
+msgstr "Выберите тип виджетов"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31337"
+msgid "Widget appearence"
+msgstr "Внешний вид виджета"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31338"
+msgid "Posters"
+msgstr "Постеры"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31339"
+msgid "Thumbs without banners"
+msgstr "Изображения серий без баннеров"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31340"
+msgid "Squares"
+msgstr "Квадраты"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31341"
+msgid "Enable background of 'Power options' shortcut"
+msgstr "Включить фон для ярлыка 'Выключение'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31342"
+msgid "Enable background of 'Settings' shortcut"
+msgstr "Включить фон для ярлыка 'Настройки'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31343"
+msgid "Enable background of 'Search...' shortcut"
+msgstr "Включить фон для ярлыка 'Поиск...'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31344"
+msgid "Background"
+msgstr "Фон"
+
+#: /shortcuts/musicvideos.DATA.xml
+msgctxt "#31345"
+msgid "Music videos - Library"
+msgstr "Видеоклипы - Библиотека"
+
+#: /xml/View_507_Mosaic_Vertical.xml
+msgctxt "#31346"
+msgid "Mosaic (vertical)"
+msgstr "Мозаика (вертикальная)"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31347"
+msgid "View"
+msgstr "Вид"
+
+#: /xml/Variables.xml
+msgctxt "#31348"
+msgid "None"
+msgstr "Нет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31349"
+msgid "Enable forced views"
+msgstr "Включить форсированные виды отображения"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31350"
+msgid "Forced view for movies"
+msgstr "Форсированный вид отображения для фильмов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31351"
+msgid "Forced view for movie sets"
+msgstr "Форсированный вид отображения для киноцикла"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31352"
+msgid "Forced view for movies inside set"
+msgstr "Форсированный вид отображения для фильмов в киноцикле"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31353"
+msgid "Forced view for tv shows"
+msgstr "Форсированный вид отображения для сериалов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31354"
+msgid "Forced view for seasons"
+msgstr "Форсированный вид отображения для сезонов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31355"
+msgid "Forced view for episodes"
+msgstr "Форсированный вид отображения для серий"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31356"
+msgid "Forced view for artists"
+msgstr "Форсированный вид отображения для исполнителей"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31357"
+msgid "Forced view for albums"
+msgstr "Форсированный вид отображения для альбомов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31358"
+msgid "Forced view for music videos"
+msgstr "Форсированный вид отображения для видеоклипов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31359"
+msgid "Show fullscreen video info for movies and TV shows"
+msgstr "Отображать полноэкранную информацию о видео для фильмов и сериалов"
+
+#: /xml/Variables.xml
+msgctxt "#31360"
+msgid "Power menu-related settings: Configure it to your likings."
+msgstr "Настройки меню выключения: настройте так, как вам нравится"
+
+#: /xml/Home.xml
+msgctxt "#31361"
+msgid "All channels"
+msgstr "Все каналы"
+
+#: /xml/Home.xml
+msgctxt "#31362"
+msgid "All radios"
+msgstr "Все радиостанции"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31363"
+msgid "Fixed lyrics colors"
+msgstr "Фиксированный цвет текстов песни"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31364"
+msgid "Greyed out watched items"
+msgstr "Отображать серым просмотренные элементы"
+
+#: /xml/Includes.xml
+msgctxt "#31365"
+msgid "Jump to letter"
+msgstr "Перейти к букве"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31366"
+msgid "Lists (up to 8 items)"
+msgstr "Списки (до 8 элементов)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31367"
+msgid "Sort method of widget"
+msgstr "Метод сортировки в виджете"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31368"
+msgid "Sort direction of widget"
+msgstr "Направление сортировки в виджете"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31369"
+msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
+msgstr "Нажмите [B]OK[/B] чтобы прочитать описание или [B]Влево[/B] чтобы снова показать изображение"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31370"
+msgid "Show CDArt on movies widgets"
+msgstr "Отображать CD-арт на виджетах фильмов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31371"
+msgid "Show movies CDArt"
+msgstr "Отображать CD-арт фильмов"
+
+#: /xml/Home.xml
+msgctxt "#31372"
+msgid "Games sources"
+msgstr "Источники игр"
+
+#: /xml/Home.xml
+msgctxt "#31373"
+msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
+msgstr "Ваша библиотека игр сейчас пуста. Чтобы заполнить её данными, добавьте источник игр и настройте его. После того как источник будет добавлен и проиндексирован вы сможете просматривать библиотеку."
+
+#: /xml/Home.xml
+msgctxt "#31374"
+msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
+msgstr "Ваша библиотека изображений сейчас пуста. Чтобы заполнить её данными, добавьте источник изображений и настройте его. После того как источник будет добавлен и проиндексирован вы сможете просматривать библиотеку."
+
+#: /xml/Home.xml
+msgctxt "#31375"
+msgid "Pictures sources"
+msgstr "Источники изображений"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31376"
+msgid "Show colored outline"
+msgstr "Отображать цветные контуры"
+
+#: /xml/MyMusicPlaylistEditor.xml
+msgctxt "#31377"
+msgid "Music files"
+msgstr "Музыкальные файлы"
+
+#: /xml/MyMusicPlaylistEditor.xml
+msgctxt "#31378"
+msgid "Current playlist"
+msgstr "Текущий плейлист"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31379"
+msgid "Show animated lyrics"
+msgstr "Показывать анимированный текст песен"
+
+#: /xml/Custom_1132_MoviesSetsInfo.xml
+msgctxt "#31380"
+msgid "Press [B]Up[/B] for extended info"
+msgstr "Нажмите [B]Вверх[/B] для получения расширенной информации"
+
+#: /xml/addon.xml
+msgctxt "#31381"
+msgid "Movies set information"
+msgstr "Информация о киноцикле"
+
+#: /xml/addon.xml
+msgctxt "#31382"
+msgid "Extended information"
+msgstr "Расширенная информация"
+
+#: /xml/Variables.xml
+msgctxt "#31383"
+msgid "Correct password ! This menu is now available for"
+msgstr "Верный пароль! Это меню доступно"
+
+#: /xml/Variables.xml
+msgctxt "#31384"
+msgid "minute(s)"
+msgstr "минут(ы)"
+
+#: /xml/Variables.xml
+msgctxt "#31385"
+msgid "Incorrect password ! Please Retry."
+msgstr "Неверный пароль! Повторите попытку."
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31386"
+msgid "Password protection"
+msgstr "Защита паролем"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31387"
+msgid "Parental control"
+msgstr "Родительский контроль"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31388"
+msgid "Set password protection for menu items"
+msgstr "Установить защиту паролем для пунктов меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31389"
+msgid "Password has been successfully set !"
+msgstr "Пароль успешно установлен!"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31390"
+msgid "Accessibility duration for menu items"
+msgstr "Продолжительность доступности элементов меню"
+
+#: /xml/Custom_1133_ParentalControl.xml
+msgctxt "#31391"
+msgid "Password-protected content.[CR]Press [B]Enter[/B] and please enter password."
+msgstr "Контент, защищенный паролем.[CR]Нажмите [B]Ввод[/B] и введите пароль."
+
+#: /xml/DialogKeyboard.xml
+msgctxt "#31392"
+msgid "Please enter password"
+msgstr "Пожалуйста введите пароль"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31395"
+msgid "Enable Next Up popup for Live TV"
+msgstr "Включить всплывающее окно 'Следующее' для ТВ"
+
+#: /xml/Custom_1134_PVRNextUp.xml
+msgctxt "#31396"
+msgid "Next up"
+msgstr "Следующее"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31397"
+msgid "Show 'Settings' shortcut widget"
+msgstr "Показывать виджет ярльков 'Настроек'"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31398"
+msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
+msgstr "Необходимо перезапустить Kodi и выбрать '[B]Сбросить настройки главного меню и меню выключения[/B]' в настройках обложки после установки этой версии"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31399"
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: /xml/Custom_1136_WarningPopUp.xml
+msgctxt "#31400"
+msgid "Do not display anymore"
+msgstr "Больше не показывать"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31401"
+msgid "Rating text color"
+msgstr "Цвет текста рейтинга"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31402"
+msgid "Show visualisation effects behind background"
+msgstr "Показать эффекты визуализации за фоном"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31403"
+msgid "Posters panel"
+msgstr "Панель постеров"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31404"
+msgid "Widgets to personalize"
+msgstr "Виджеты для персонализации"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31405"
+msgid "Vertical panel (1 item)"
+msgstr "Вертикальная панель (1 элемент)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31406"
+msgid "Thumbs without banners panel"
+msgstr "Панель изображений без баннеров"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31407"
+msgid "Thumbs with banners panel"
+msgstr "Панель изображений c баннерами"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31408"
+msgid "Squares panel"
+msgstr "Панель квадратов"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31409"
+msgid "Banners panel"
+msgstr "Панель баннеров"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31410"
+msgid "Miniatures"
+msgstr "Миниатюры"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31411"
+msgid "Miniatures panel"
+msgstr "Панель миниатюр"
+
+#. viewtype name
+#: /xml/View_508_DoubleLists.xml
+msgctxt "#31412"
+msgid "Double lists"
+msgstr "Двойной список"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31413"
+msgid "Show Skin Helper Service widgets settings"
+msgstr "Показать настройки виджетов Skin Helper Service"
+
+#. viewtype name
+#: /xml/View_509_TripleLists.xml
+msgctxt "#31414"
+msgid "Triple lists"
+msgstr "Тройной список"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31415"
+msgid "Show clearlogos at the top of menu"
+msgstr "Показывать clearlogos в верхней части меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31416"
+msgid "Minimize main menu"
+msgstr "Минимизировать главное меню"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31417"
+msgid "Show item label on top"
+msgstr "Показывать заголовок элемента вверху"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31418"
+msgid "Required add-ons"
+msgstr "Необходимые дополнения"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31419"
+msgid "Optional add-ons"
+msgstr "Не обязательные дополнения"
+
+#: /xml/Variables.xml
+msgctxt "#31420"
+msgid "Directed by"
+msgstr "Директор"
+
+#: /xml/Variables.xml
+msgctxt "#31421"
+msgid "Similar to"
+msgstr "Похоже на"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31422"
+msgid "Play trailers in full screen"
+msgstr "Воспроизводить трейлеры на полный экран"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31423"
+msgid "Enable gradient colors"
+msgstr "Включить градинетные цвета"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31424"
+msgid "Secondary color"
+msgstr "Второй цвет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31425"
+msgid "Use small OSD"
+msgstr "Использовать уменьшенную инфопанель"
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31426"
+msgid "Personalize 'Categories' widget"
+msgstr "Настроить виджет 'Категории'"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31427"
+msgid "Classic list"
+msgstr "Классический список"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31428"
+msgid "Icons list"
+msgstr "Список иконок"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31429"
+msgid "Configure personal API keys"
+msgstr "Настроить личные API-ключи"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31430"
+msgid "Hide video info when video is paused"
+msgstr "Скрывать информацию о видео когда видео на паузе"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31431"
+msgid "Show scrolling text"
+msgstr "Показать прокручиваемый текст"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31432"
+msgid "Scrapers ratings"
+msgstr "Рейтинг скрапперов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31433"
+msgid "My ratings"
+msgstr "Мой рейтинг"
+
+#: /xml/Variables.xml
+msgctxt "#31434"
+msgid "win"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31435"
+msgid "wins"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31436"
+msgid "Oscars"
+msgstr "Оскары"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31437"
+msgid "Hide fanart opacity in fullscreen mode"
+msgstr "Непрозрачность фанарта в полноэкранном режиме"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31438"
+msgid "Show a border for media"
+msgstr "Показывать границу для медиа"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31439"
+msgid "Get all Artworks"
+msgstr "Загрузить все изображения"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31440"
+msgid "Standard colors for genres"
+msgstr "Стандартные цвета для жанров"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31441"
+msgid "Pause video during access to info"
+msgstr "Останавливать воспроизведение видео во время доступа к информации о видео"
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31442"
+msgid "Last aired episode"
+msgstr "Последний показанный эпизод"
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#31443"
+msgid "Airs"
+msgstr "Эфир"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31444"
+msgid "Configure media flags"
+msgstr "Настройка медиафлагов"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31445"
+msgid "Show media source"
+msgstr "Показывать источник"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31446"
+msgid "Show media resolution"
+msgstr "Показывать разрешение"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31447"
+msgid "Show media video codec"
+msgstr "Показывать видеокодек"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31448"
+msgid "Show media aspect ratio"
+msgstr "Показывать соотношение сторон"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31449"
+msgid "Show media audio codec"
+msgstr "Показывать аудиокодек"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31450"
+msgid "Show media audio channels"
+msgstr "Показывать аудиоканалы"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31451"
+msgid "Show media duration"
+msgstr "Показывать продолжительность"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31452"
+msgid "Show media finish time"
+msgstr "Показывать время завершения"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31453"
+msgid "Show media studio logo"
+msgstr "Показывать логотип студии"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31454"
+msgid "Show media record label logo"
+msgstr "Показывать логотип звукозаписывающей компании"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31455"
+msgid "Show movies of saga"
+msgstr "Показывать фильмы саги"
+
+#: /xml/Custom_1137_SettingsFlags.xml
+msgctxt "#31456"
+msgid "Show albums of artist"
+msgstr "Показывать альбомы исполнителя"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31457"
+msgid "Show artist ClearArt"
+msgstr "Показывать ClearArt исполнителя"
+
+#: /xml/Custom_1101_SettingsList.xml
+msgctxt "#31458"
+msgid "Select Program"
+msgstr "Выбор программы"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31459"
+msgid "Enable themes (Valentine's Day, Easter, Halloween & Christmas)"
+msgstr "Включить темы (День святого Валентина, Пасха, Хеллоуин и Рождество)"
+
+#: /xml/Home.xml
+msgctxt "#31460"
+msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
+msgstr "Ваша библиотека сейчас пуста.[CR]Чтобы заполнить её данными войдите в раздел \"Файлы\", добавьте медиаисточник и настройте его. После того как источник будет добавлен и проиндексирован вы сможете просматривать библиотеку."
+
+#: /xml/Variables.xml
+msgctxt "#31461"
+msgid "Recommended Youtube videos"
+msgstr "Рекомендованые видео Youtube"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31462"
+msgid "Video countries icons pack"
+msgstr "Набор иконок стран видео"
+
+#: /xml/Includes.xml
+msgctxt "#31463"
+msgid "No broadcast this day"
+msgstr "В этот день трансляций нет"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31464"
+msgid "Automatically show music video info at beginning and end of playing"
+msgstr "Автоматически показывать информацию о видеоклипе в начале и окончании воспроизведения"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31465"
+msgid "Background replacement"
+msgstr "Замена фона"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31466"
+msgid "Genres panel"
+msgstr "Панель жанров"
+
+#: /xml/Home.xml
+msgctxt "#31467"
+msgid "Most played music videos"
+msgstr "Самые часто воспроизводимые видеоклипы"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31468"
+msgid "Show media names with widgets names"
+msgstr "Отображать названия медиа вместе с названиями виджетов"
+
+#: /xml/Variables.xml
+msgctxt "#31469"
+msgid "Christmas Theme"
+msgstr "Рождественская тема"
+
+#: /xml/Variables.xml
+msgctxt "#31470"
+msgid "Halloween Theme"
+msgstr "Тема Хеллоуин"
+
+#: /xml/Variables.xml
+msgctxt "#31471"
+msgid "Easter Theme"
+msgstr "Пасхальная тема"
+
+#: /xml/Variables.xml
+msgctxt "#31472"
+msgid "Valentine's Day Theme"
+msgstr "Тема ко дню Святого Валентина"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#31473"
+msgid "Show channel groups"
+msgstr "Показать группы каналов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31474"
+msgid "Scope mode for constant image height (CIH) setup"
+msgstr "Режим области для настройки постоянной высоты изображения (CIH)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31475"
+msgid "2:35:1 (1920x817)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31476"
+msgid "2:40:1 (1920x800)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31477"
+msgid "1:77:1 (1920x1080)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31478"
+msgid "1:85:1 (1920x1038)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31479"
+msgid "2:37:1 (1920x810)"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31480"
+msgid "Scope mode"
+msgstr "Режим области"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31481"
+msgid "My ratings and scrapers ratings"
+msgstr "Мои рейтинги и рейтинги скрапперов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31482"
+msgid "Scrapers ratings text color"
+msgstr "Цвет текста для рейтинга скрапперов"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31483"
+msgid "My ratings text color"
+msgstr "Цвет текста для моих рейтингов"
+
+#: /xml/Includes.xml
+msgctxt "#31484"
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31485"
+msgid "Parental control related settings."
+msgstr "Настройки, связанные с родительским контролем"
+
+#: /xml/Custom_1101_SettingsList.xml
+msgctxt "#31486"
+msgid "Select Resolution"
+msgstr "Выберите разрешение"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31487"
+msgid "Date added"
+msgstr "Дата добавления"
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31488"
+msgid "Show extended info"
+msgstr "Отобразить расширенную информацию"
+
+#: /xml/Variables.xml
+msgctxt "#31489"
+msgid "By"
+msgstr "От"
+
+#: /xml/Variables.xml
+msgctxt "#31490"
+msgid "Movies from movie set"
+msgstr "Фильмы из киноцикла"
+
+#: /xml/Custom_1132_MoviesSetsInfo.xml
+msgctxt "#31491"
+msgid "Press [B]DOWN[/B] to show info from selected movie"
+msgstr "Нажмите [B]ВНИЗ[/B], чтобы показать информацию о выбранном фильме"
+
+#: /xml/Variables.xml
+msgctxt "#31492"
+msgid "Lists settings"
+msgstr "Настройки списков"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31493"
+msgid "Show Actors list"
+msgstr "Показать список актеров"
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31494"
+msgid "Episode count"
+msgstr "Количество серий"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31495"
+msgid "Movies from director"
+msgstr "Фильмы директора"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31496"
+msgid "Similar movies"
+msgstr "Похожие фильмы"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31497"
+msgid "Movies from studio"
+msgstr "Фильмы студии"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31498"
+msgid "Next Up episodes"
+msgstr "Следующие серии"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31499"
+msgid "Similar TV shows"
+msgstr "Похожие сериалы"
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31500"
+msgid "Fanarts list"
+msgstr "Список фанартов"
+
+#: /xml/Variables.xml
+msgctxt "#31501"
+msgid "Albums from library"
+msgstr "Альбомы из библиотеки"
+
+#: /xml/Variables.xml
+msgctxt "#31502"
+msgid "Complete discography"
+msgstr "Полная дискография"
+
+#: /xml/Variables.xml
+msgctxt "#31503"
+msgid "Songs from album"
+msgstr "Песни из альбома"
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31504"
+msgid "Press [B]OK[/B] to show back thumb"
+msgstr "Нажмите [B]OK[/B], чтобы снова показать изображение"
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31505"
+msgid "Episode of the season"
+msgstr "Серии сезона"
+
+#: /xml/Variables.xml
+msgctxt "#31506"
+msgid "Posters"
+msgstr "Постеры"
+
+#: /xml/Variables.xml
+msgctxt "#31507"
+msgid "Fanarts"
+msgstr "Фанарты"
+
+#: /xml/Variables.xml
+msgctxt "#31508"
+msgid "Resume playback at"
+msgstr "Возобновить воспроизведение с"
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31509"
+msgid "Press [B]OK[/B] to show biography"
+msgstr "Нажмите [B]OK[/B] для показа биографии"
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31510"
+msgid "Website"
+msgstr "Вебсайт"
+
+#: /xml/Variables.xml
+msgctxt "#31511"
+msgid "Role in movie"
+msgstr "Роль в фильме"
+
+#: /xml/Variables.xml
+msgctxt "#31512"
+msgid "Crew member in movie"
+msgstr "Член съемочной группы в фильме"
+
+#: /xml/Variables.xml
+msgctxt "#31513"
+msgid "Role in TV show"
+msgstr "Роль в сериале"
+
+#: /xml/Variables.xml
+msgctxt "#31514"
+msgid "Crew member in TV show"
+msgstr "Член съемочной группы в сериале"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31515"
+msgid "Palm Week"
+msgstr "Вербная неделя"
+
+msgctxt "#31550"
+msgid "Channel groups"
+msgstr "Группы каналов"
+
+msgctxt "#31551"
+msgid "German Telecast Offers"
+msgstr "Предложения немецких телепередач"
+
+msgctxt "#31552"
+msgid "Also apply to radio and internet station logos"
+msgstr "Также применяется к логотипам радио и интернет-станций"
+
+msgctxt "#31553"
+msgid "Use poster view for music video widgets"
+msgstr "Использовать вид Постеры для виджетов видеоклипов"
+
+msgctxt "#31554"
+msgid "Show year of publication in title"
+msgstr "Отображать год публикации в заголовке"
+
+msgctxt "#31555"
+msgid "Optional icons and fanart packs"
+msgstr "Необязательные значки и наборы фан-артов"
+
+msgctxt "#31556"
+msgid "Reboot from NAND (Android)"
+msgstr "Перезагрузка из NAND (Android)"
+
+msgctxt "#31557"
+msgid "Restart Kodi"
+msgstr "Перезапустить Kodi"
+
+msgctxt "#31558"
+msgid "Addon-ID"
+msgstr "ID-аддона"
+
+msgctxt "#31559"
+msgid "Platform"
+msgstr "Платформа"
+
+msgctxt "#31560"
+msgid "Forced Views"
+msgstr "Форсированные виды отображения"
+
+msgctxt "#31561"
+msgid "Show PVR related Artworks"
+msgstr "Отображать PVR related Artworks"
+
+msgctxt "#31562"
+msgid "PVR Artwork Configuration"
+msgstr "Конфигурация PVR Artwork"
+
+msgctxt "#31563"
+msgid "Show date"
+msgstr "Отображать дату"
+
+msgctxt "#31564"
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+msgctxt "#31565"
+msgid "Bottom Bar"
+msgstr "Нижняя панель"
+
+msgctxt "#31566"
+msgid "Media"
+msgstr "Медиа"
+
+msgctxt "#31567"
+msgid "Kodi/Distribution Logo"
+msgstr ""
+
+msgctxt "#31568"
+msgid "LibreELEC"
+msgstr ""
+
+msgctxt "#31569"
+msgid "CoreELEC"
+msgstr ""
+
+msgctxt "#31570"
+msgid "Show extended Power Menu"
+msgstr "Отображать расширенное меню выключения"
+
+msgctxt "#31571"
+msgid "Prefer Fanart in EPG preview window if available"
+msgstr "Предпочитать фанарт в окне предпросмотра EPG, если доступно"
+
+msgctxt "#31572"
+msgid "Upcoming episodes"
+msgstr "Предстоящие серии"
+
+msgctxt "#31573"
+msgid "Show MPAA rating"
+msgstr "Отображать рейтинг MPAA"
+
+msgctxt "#31574"
+msgid "(until "
+msgstr "(пока "
+
+msgctxt "#31575"
+msgid "Show Color Depth"
+msgstr "Отображать глубину цвета"
+
+msgctxt "#31576"
+msgid "Show additional Infos within the PVR widgets"
+msgstr "Отображать дополнительную информацию в виджетах PVR"
+
+msgctxt "#31577"
+msgid "Close Video OSD automatically after"
+msgstr "Закрывать Инфопанель видео через"
+
+msgctxt "#31578"
+msgid "disabled"
+msgstr "отключено"
+
+msgctxt "#31580"
+msgid "3 seconds"
+msgstr "3 секунды"
+
+msgctxt "#31581"
+msgid "5 seconds"
+msgstr "5 секунд"
+
+msgctxt "#31582"
+msgid "7 seconds"
+msgstr "7 секунд"
+
+msgctxt "#31583"
+msgid "10 seconds"
+msgstr "10 секунд"
+
+msgctxt "#31584"
+msgid "15 seconds"
+msgstr "15 секунд"
+
+msgctxt "#31585"
+msgid "Show Channel Numbers"
+msgstr "Отображать номера каналов"
+
+msgctxt "#31586"
+msgid "Show Date of First aired"
+msgstr "Отображать дату первого эфира"
+
+msgctxt "#31587"
+msgid "Item Path of Picture Widgets"
+msgstr "Путь к элементам для виджета Изображения"
+
+msgctxt "#31588"
+msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
+msgstr "Действие по умолчанию для виджетов 'Фильмы' и 'Сериалы'"
+
+msgctxt "#31589"
+msgid "Play Item"
+msgstr "Воспроизвести"
+
+msgctxt "#31590"
+msgid "Show Info"
+msgstr "Показать информацию"
+
+msgctxt "#31591"
+msgid "Sort Order"
+msgstr "Порядок сортировки"
+
+msgctxt "#31592"
+msgid "Show Path Navigation (Breadcrumbs) in List Views"
+msgstr "Показывать путь (Breadcrumbs) в видах отображения Список"
+
+msgctxt "#31593"
+msgid "Show only 'current item / item count' Information"
+msgstr "Показывать только 'текущий элемент / количество элементов'"
+
+msgctxt "#31594"
+msgid "Set Animated Poster"
+msgstr "Установить анимированный постер"
+
+msgctxt "#31595"
+msgid "Remove Animated Poster"
+msgstr "Удалить анимированный постер"
+
+msgctxt "#31596"
+msgid "Animated Poster removed"
+msgstr "Анимированный постер удален"
+
+msgctxt "#31597"
+msgid "Animated Poster added"
+msgstr "Анимированный постер добавлен"
+
+msgctxt "#31598"
+msgid "Local Path to animated Poster Folder"
+msgstr "Локальный путь к папке анимированных постеров"
+
+msgctxt "#31599"
+msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
+msgstr "Папка коллекции анимированных постеров еще не определена. В настройках обложки укажите путь к папке, содержащей анимированные постеры."
+
+msgctxt "#31600"
+msgid "Could not assign animated Poster"
+msgstr "Не удалось назначить анимированный постер"
+
+msgctxt "#31601"
+msgid "Hit Probability: "
+msgstr "Вероятность стать хитом: "
+
+#: SkinSettings.xml
+msgctxt "#31602"
+msgid "'Rotten Tomatoes' Rating Category"
+msgstr "Категория рейтинга 'Rotten Tomatoes'"
+
+#: SkinSettings.xml
+msgctxt "#31603"
+msgid "Tomatometer all Critics"
+msgstr "Томатометр по всем критикам"
+
+#: SkinSettings.xml
+msgctxt "#31604"
+msgid "Tomatometer average Critics"
+msgstr "Томатометр Среднее по критикам"
+
+#: SkinSettings.xml
+msgctxt "#31605"
+msgid "Tomatometer all Audience"
+msgstr "Томатометр по всей аудитории"
+
+#: SkinSettings.xml
+msgctxt "#31606"
+msgid "Tomatometer average Audience"
+msgstr "Томатометр Среднее по аудитории"
+
+#: SkinSettings.xml
+msgctxt "#31607"
+msgid "Use simplified OSD Navigation"
+msgstr "Использовать Инфопанель упрощенной навигации"
+
+msgctxt "#31608"
+msgid "Previous seen Channel"
+msgstr "Предыдущий просмотренный канал"
+
+#: Includes_MediaMenu.xml
+msgctxt "#31609"
+msgid "Show PVR Channel Status"
+msgstr "Показать статус канала PVR"
+
+#: DialogPlayerProcessInfo
+
+msgctxt "#31610"
+msgid "Display Mode"
+msgstr "Режим отображения"
+
+msgctxt "#31611"
+msgid "Eoft & Gamut"
+msgstr "Эффект и гамма"
+
+msgctxt "#31612"
+msgid "Color Depth"
+msgstr "Глубина цвета"
