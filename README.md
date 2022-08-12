@@ -30,14 +30,6 @@ supports animated poster only.
 
 ![](resources/setup_ap.png)
 
-### 3.4.2+matrix ###
-- .1
-  * Transparency of label background of widgets (Flix view) customizable
-  * semitransparent Background for plot in video info added
-  * Overlay texture in Flix view changed
-  * fix wrong behaviour on info button if a movie is paused.
-  * reorder language ids above 40xxx to 31xxx and usages to fit within the recommended range for skins
-
 ### Mods Added to this Release ###
   * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings
   * Added Flag Visibility for Filename and Path Labeling:
@@ -53,6 +45,14 @@ supports animated poster only.
   * Removed PLOT header from clickable plot
   * Added Debug Labels and Debug grid to skinsettingsn(useful while skinning)
   * Added missing Mpeg-2 Varient of the Mpeg-2 Flag
+--------------------------------------------------------------------------------------------
+### 3.4.2+matrix ###
+- .1
+  * Transparency of label background of widgets (Flix view) customizable
+  * semitransparent Background for plot in video info added
+  * Overlay texture in Flix view changed
+  * fix wrong behaviour on info button if a movie is paused.
+  * reorder language ids above 40xxx to 31xxx and usages to fit within the recommended range for skiins
 
 
 - .0
