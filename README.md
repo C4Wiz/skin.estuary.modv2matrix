@@ -1,4 +1,4 @@
-# Skin Estuary MOD V2 for KODI 19 Matrix KN Edition (Modified)#
+# Skin Estuary MOD V2 for KODI 19 Matrix KN Edition (Modified) #
 
 ## Installation Notes ##
 
@@ -6,8 +6,6 @@ It's strongly recommended to install the skin via the "Kodinerds Repo", as this 
 required modules (e.g. the PVR Artwork Module) are also installed. Another advantage is that you get automatic updates when 
 you install an addon from a repository and not from ZIP.
 
-To install the Kodinerds repository visit the page "https://repo.kodinerds.net", download the repository zip (red button) 
-and install it. After that you can install the skin directly from the repository under "Look & Feel", "Skins".
 
 ### File name flagging ###
 If you want to use special flags like HDR or Dolby Vision or special 3D formats you have to name your files with proper tags, 
@@ -41,6 +39,7 @@ supports animated poster only.
   * reorder language ids above 40xxx to 31xxx and usages to fit within the recommended range for skins
 
 ### Mods Added to this Release ###
+  * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings
   * Added Flag Visibility for Filename and Path Labeling:
     * 2160P and 1080P will trigger the blu-ray logo 
     * Atmos and DTS-X will hide the audio channel flag as these are object based
