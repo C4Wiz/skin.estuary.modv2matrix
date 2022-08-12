@@ -1,4 +1,4 @@
-# Skin Estuary MOD V2 for KODI 19 Matrix KN Edition #
+# Skin Estuary MOD V2 for KODI 19 Matrix KN Edition (Modified)#
 
 ## Installation Notes ##
 
@@ -31,6 +31,7 @@ If you navigate in your movie library, you'll have a new entry now to (re)assign
 supports animated poster only.
 
 ![](resources/setup_ap.png)
+
 ### 3.4.2+matrix ###
 - .1
   * Transparency of label background of widgets (Flix view) customizable
@@ -38,6 +39,21 @@ supports animated poster only.
   * Overlay texture in Flix view changed
   * fix wrong behaviour on info button if a movie is paused.
   * reorder language ids above 40xxx to 31xxx and usages to fit within the recommended range for skins
+
+### Mods Added to this Release ###
+  * Added Flag Visibility for Filename and Path Labeling:
+    * 2160P and 1080P will trigger the blu-ray logo 
+    * Atmos and DTS-X will hide the audio channel flag as these are object based
+    * HDR10 and HDR10+ will trigger their respected flags  
+  * ALL Flags can be toggled
+  * Increased size of focused poster in wall view
+  * Swapped hdr and hdrplus flags to HDR10 and HDR10+
+  * ALL DialogInfo metadata can be toggled
+  * Reformatted Duration from HH:h,MM to HH:h,MM:m (1h33 to 1h33m)
+  * Reformatted chapter display from Chapter 01 : 01/16 to Chapter : 01/16
+  * Removed PLOT header from clickable plot
+  * Added Debug Labels and Debug grid to skinsettingsn(useful while skinning)
+  * Added missing Mpeg-2 Varient of the Mpeg-2 Flag
 
 
 - .0
