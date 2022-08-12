@@ -31,6 +31,7 @@ supports animated poster only.
 ![](resources/setup_ap.png)
 
 ### Mods Added to this Release ###
+-------------------------------------------------------------------------------------------
   * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings
   * Added Flag Visibility for Filename and Path Labeling:
     * 2160P and 1080P will trigger the blu-ray logo 
