@@ -8,7 +8,7 @@ you install an addon from a repository and not from ZIP.
 
 
 ### File name flagging ###
-If you want to use special flags like HDR or Dolby Vision or special 3D formats you have to name your files with proper tags, 
+If you want to use special flags like HDR10 or Dolby Vision or special 3D formats you have to name your files with proper tags, 
 preferably before the file extension: 
 
 | 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |    HDR10 Files   |            HDR10+ Files            |       Dolby Vision      |
