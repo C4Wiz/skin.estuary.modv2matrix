@@ -2600,7 +2600,13 @@ msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
-#: DialogVideoInfo.xml (40500)
+#: Variables.xml (SkinSettings.xml)
+
+msgctxt "#31621"
+msgid "Visualization of the PVR and TV screen related settings."
+msgstr ""
+
+#: DialogVideoInfo.xml (31800)
 --------------------------------------
 msgctxt "#31800"
 msgid "Released"
