@@ -11,10 +11,10 @@ you install an addon from a repository and not from ZIP.
 If you want to use special flags like HDR10 or Dolby Vision or special 3D formats you have to name your files with proper tags, 
 preferably before the file extension: 
 
-| 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |    HDR10 Files   |            HDR10+ Files            |       Dolby Vision      |
+| 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |         HDR10 Files          |            HDR10+ Files          |             Dolby Vision             |
 |:-----------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:--------------------------------:|:------------------------------------:|
-|     ![](resources/flags/3d.png)     | ![](resources/flags/3dmvc.png) | ![](resources/flags/3dsbs.png) | ![](resources/flags/3dtab.png) | ![](resources/flags/hdr10.png) | ![](resources/flags/hdr10+.png) | ![](resources/flags/dolbyvision.png) | 
-|             no tagging              |             3d.mvc             |             3d.sbs             |             3d.tab             |        .hdr10.        |              .hdr10+.               |     .dv., .dovi., .dolbyvision.      |
+|     ![](resources/flags/3d.png)     | ![](resources/flags/3dmvc.png) | ![](resources/flags/3dsbs.png) | ![](resources/flags/3dtab.png) |![](resources/flags/hdr10.png)|  ![](resources/flags/hdr10+.png) | ![](resources/flags/dolbyvision.png) | 
+|             no tagging              |             3d.mvc             |             3d.sbs             |             3d.tab             |           .hdr10.            |              .hdr10+.            |     .dv., .dovi., .dolbyvision.      |
 
 
 ### Animated Artwork ###
