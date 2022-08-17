@@ -2823,7 +2823,7 @@ msgid "Power Menu Layout Style"
 msgstr ""
 
 msgctxt "#31907"
-msgid "Adds more Options to Power Menu"
+msgid "Configure the Power Menu Items to Display"
 msgstr ""
 
 msgctxt "#31909"
