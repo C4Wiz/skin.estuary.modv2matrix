@@ -271,7 +271,7 @@
 				<ondown>300</ondown>
 				<pagecontrol>60</pagecontrol>
 				<visible>Container(9000).HasFocus(8)</visible>
-				<!--control type="label" id="30011">
+				<control type="label" id="30011">
 					<textoffsetx>45</textoffsetx>
 					<top>0</top>
 					<height>70</height>
@@ -281,8 +281,8 @@
 					<font>font28_title</font>
 					<textcolor>grey</textcolor>
 					<shadowcolor>black</shadowcolor>
-				</control-->
-				<!--control type="radiobutton" id="301">
+				</control>
+				<control type="radiobutton" id="301">
 					<label>Kodinerds Addon Repo $INFO[System.AddonVersion(repository.kodinerds),(,)]</label>
 					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
 					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
@@ -293,7 +293,7 @@
 					<selected>System.HasAddon(repository.kodinerds)</selected>
 					<include>DefaultSettingButton</include>
 				</control>
-				<control type="radiobutton" id="303">
+				<!--control type="radiobutton" id="303">
 					<label>Rector Stuff Repository $INFO[System.AddonVersion(repository.rector.stuff),(,)]</label>
 					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
 					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
