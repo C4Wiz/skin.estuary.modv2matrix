@@ -359,6 +359,17 @@
 					<selected>System.HasAddon(script.embuary.helper)</selected>
 					<include>DefaultSettingButton</include>
 				</control>
+				<control type="radiobutton" id="311">
+					<label>Skin Helper Service ColorPicker $INFO[System.AddonVersion(script.skin.helper.colorpicker),(,)]</label>
+					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
+					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
+					<textureradioofffocus colordiffuse="fff02222">buttons/status-off.png</textureradioofffocus>
+					<textureradiooffnofocus colordiffuse="fff02222">buttons/status-off.png</textureradiooffnofocus>
+					<onclick condition="!System.HasAddon(script.skin.helper.colorpicker)">InstallAddon(script.skin.helper.colorpicker)</onclick>
+					<onclick condition="System.HasAddon(script.skin.helper.colorpicker)">Addon.OpenSettings(script.skin.helper.colorpicker)</onclick>
+					<selected>System.HasAddon(script.skin.helper.colorpicker)</selected>
+					<include>DefaultSettingButton</include>
+				</control>
 				<control type="label" id="30015">
 					<textoffsetx>45</textoffsetx>
 					<top>0</top>
@@ -412,17 +423,6 @@
 					<onclick condition="!System.HasAddon(service.sleepy.watchdog)">InstallAddon(service.sleepy.watchdog)</onclick>
 					<onclick condition="System.HasAddon(service.sleepy.watchdog)">Addon.OpenSettings(service.sleepy.watchdog)</onclick>
 					<selected>System.HasAddon(service.sleepy.watchdog)</selected>
-					<include>DefaultSettingButton</include>
-				</control>
-				<control type="radiobutton" id="311">
-					<label>Skin Helper Service ColorPicker $INFO[System.AddonVersion(script.skin.helper.colorpicker),(,)]</label>
-					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
-					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
-					<textureradioofffocus colordiffuse="fff02222">buttons/status-off.png</textureradioofffocus>
-					<textureradiooffnofocus colordiffuse="fff02222">buttons/status-off.png</textureradiooffnofocus>
-					<onclick condition="!System.HasAddon(script.skin.helper.colorpicker)">InstallAddon(script.skin.helper.colorpicker)</onclick>
-					<onclick condition="System.HasAddon(script.skin.helper.colorpicker)">Addon.OpenSettings(script.skin.helper.colorpicker)</onclick>
-					<selected>System.HasAddon(script.skin.helper.colorpicker)</selected>
 					<include>DefaultSettingButton</include>
 				</control>
 				<control type="radiobutton" id="312">
@@ -616,11 +616,10 @@
 					<onclick>Skin.SelectBool(31325, 31099|powermenu_panel, 31428|powermenu_iconlist, 31427|powermenu_list)</onclick>
 					<label2>$VAR[PowerMenuAspectLabel2Var]</label2>
 				</control>
-				<control type="radiobutton" id="507">
-					<label>$LOCALIZE[31570]</label>
+				<control type="button" id="507">
+					<label>  ∟$LOCALIZE[31850]</label>
 					<include>DefaultSettingButton</include>
-					<onclick>Skin.ToggleSetting(ExtendedPowerMenu)</onclick>
-					<selected>!Skin.HasSetting(ExtendedPowerMenu)</selected>
+					<onclick>ActivateWindow(1146)</onclick>
 				</control>
 				<control type="radiobutton" id="509">
 					<label>$LOCALIZE[31051]</label>

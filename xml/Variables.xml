@@ -1627,8 +1627,8 @@
 		<value condition="Container(9000).HasFocus(3)">$LOCALIZE[31312]</value>
 		<value condition="Container(9000).HasFocus(4)">$LOCALIZE[31315]</value>
 		<value condition="Container(9000).HasFocus(5)">$LOCALIZE[31311]</value>
-		<value condition="Container(9000).HasFocus(6)">$LOCALIZE[31318]</value>
-		<value condition="Container(9000).HasFocus(7)">$LOCALIZE[31621]</value>
+		<value condition="Container(9000).HasFocus(6) + !Control.HasFocus(501) + !Control.HasFocus(503) + !Control.HasFocus(504) + !Control.HasFocus(506) + !Control.HasFocus(507) + !Control.HasFocus(509) + !Control.HasFocus(510) + !Control.HasFocus(511)">$LOCALIZE[31318]</value>
+		<value condition="Container(9000).HasFocus(7)">$LOCALIZE[31317]</value>
 		<value condition="Container(9000).HasFocus(8)">$LOCALIZE[31316]</value>
 		<value condition="Container(9000).HasFocus(9)">$LOCALIZE[31313]</value>
 		<value condition="Container(9000).HasFocus(10)">$LOCALIZE[31314]</value>
@@ -1637,6 +1637,14 @@
 		<value condition="Control.HasFocus(302)">$LOCALIZE[31331].</value>
 		<value condition="Control.HasFocus(303)">$LOCALIZE[31328].</value>
 		<value condition="Control.HasFocus(304)">$LOCALIZE[31329].</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(501)">$LOCALIZE[31318] - $LOCALIZE[31901]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(503)">$LOCALIZE[31318] - $LOCALIZE[31903]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(504)">$LOCALIZE[31318] - $LOCALIZE[31904]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(506)">$LOCALIZE[31318] - $LOCALIZE[31906]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(507)">$LOCALIZE[31318] - $LOCALIZE[31907]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(509)">$LOCALIZE[31318] - $LOCALIZE[31909]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(510)">$LOCALIZE[31318] - $LOCALIZE[31910]</value>
+		<value condition="Container(9000).HasFocus(6) + Control.HasFocus(511)">$LOCALIZE[31318] - $LOCALIZE[31911]</value>
 		<value condition="Control.HasFocus(313) + String.IsEqual(Container(211).ListItem.Property(skinshortcuts-disabled),False)">$LOCALIZE[31332].</value>
 		<value condition="Control.HasFocus(313) + String.IsEqual(Container(211).ListItem.Property(skinshortcuts-disabled),True)">$LOCALIZE[31333].</value>
 		<value condition="Control.HasFocus(211) | [Control.HasFocus(60) | ControlGroup(90001).HasFocus] + !String.IsEqual(Window.Property(groupname),powermenu)">$LOCALIZE[31130]</value>

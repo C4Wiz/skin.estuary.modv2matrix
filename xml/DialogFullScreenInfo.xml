@@ -218,7 +218,7 @@
 			<control type="group">
 				<width>130</width>
 				<height>50</height>
-				<visible>!Skin.HasSetting(show_audiolangflag) + !String.IsEmpty(VideoPlayer.AudioLanguage)</visible>
+				<visible>!String.IsEmpty(VideoPlayer.AudioLanguage)</visible>
 				<include content="MediaFlag">
 					<param name="texture" value="flags/language.png" />
 					<param name="width" value="130" />
@@ -235,7 +235,7 @@
 			<control type="group">
 				<width>130</width>
 				<height>50</height>
-				<visible>!Skin.HasSetting(show_sublangflag) + !String.IsEmpty(VideoPlayer.SubtitlesLanguage) + VideoPlayer.SubtitlesEnabled</visible>
+				<visible>!String.IsEmpty(VideoPlayer.SubtitlesLanguage) + VideoPlayer.SubtitlesEnabled</visible>
 				<include content="MediaFlag">
 					<param name="texture" value="flags/st_language.png" />
 					<param name="width" value="130" />
@@ -507,7 +507,6 @@
 				</include>
 				<include content="MediaFlag">
 					<param name="texture" value="$INFO[VideoPlayer.AudioChannels,flags/audiochannel/,.png]" />
-					<param name="visible" value="!String.Contains(Player.Filenameandpath,DTS-X) + !String.Contains(Player.Filenameandpath,Atmos)" />
 					<param name="fallback" value="flags/audiochannel/fallback.png" />
 					<param name="top" value="5" />
 				</include>

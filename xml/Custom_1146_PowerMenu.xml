@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1146">
+	<defaultcontrol always="true">13000</defaultcontrol>
+	<include>Animation_DialogPopupOpenClose</include>
+	<controls>
+		<control type="group">
+			<centerleft>50%</centerleft>
+			<height>570</height>
+			<centertop>50%</centertop>
+			<width>800</width>
+			<include content="DialogBackgroundCommons">
+				<param name="width" value="800" />
+				<param name="height" value="570" />
+				<param name="header_label" value="$LOCALIZE[31850]" />
+				<param name="header_id" value="1" />
+			</include>
+			<control type="group" id="13000">
+				<left>0</left>
+				<top>80</top>
+				<control type="grouplist" id="13100">
+					<width>800</width>
+					<height>490</height>
+					<itemgap>0</itemgap>
+					<onup>13100</onup>
+					<ondown>13100</ondown>
+					<onright>60</onright>
+					<onleft>60</onleft>
+					<orientation>vertical</orientation>
+					<pagecontrol>60</pagecontrol>
+					<control type="radiobutton" id="13111">
+						<label>$LOCALIZE[31851]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmpoweroff)</selected>
+						<onclick>Skin.ToggleSetting(show_pmpoweroff)</onclick>
+					</control>
+					<control type="radiobutton" id="13112">
+						<label>$LOCALIZE[31862]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmrpmpoweroff)</selected>
+						<onclick>Skin.ToggleSetting(show_pmrpmpoweroff)</onclick>
+					</control>
+					<control type="radiobutton" id="13113">
+						<label>$LOCALIZE[31852]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmshutdown)</selected>
+						<onclick>Skin.ToggleSetting(show_pmshutdown)</onclick>
+					</control>
+					<control type="radiobutton" id="13114">
+						<label>$LOCALIZE[31853]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmsuspend)</selected>
+						<onclick>Skin.ToggleSetting(show_pmsuspend)</onclick>
+					</control>
+					<control type="radiobutton" id="13115">
+						<label>$LOCALIZE[31854]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmhibernate)</selected>
+						<onclick>Skin.ToggleSetting(show_pmhibernate)</onclick>
+					</control>
+					<control type="radiobutton" id="13116">
+						<label>$LOCALIZE[31855]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmshutdowntimer)</selected>
+						<onclick>Skin.ToggleSetting(show_pmshutdowntimer)</onclick>
+					</control>
+					<control type="radiobutton" id="13117">
+						<label>$LOCALIZE[31856]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmrebootfromemmc)</selected>
+						<onclick>Skin.ToggleSetting(show_pmrebootfromemmc)</onclick>
+					</control>
+					<control type="radiobutton" id="13118">
+						<label>$LOCALIZE[31857]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmexit)</selected>
+						<onclick>Skin.ToggleSetting(show_pmexit)</onclick>
+					</control>
+					<control type="radiobutton" id="13119">
+						<label>$LOCALIZE[31858]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmreboot)</selected>
+						<onclick>Skin.ToggleSetting(show_pmreboot)</onclick>
+					</control>
+					<control type="radiobutton" id="13120">
+						<label>$LOCALIZE[31859]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmreloadskin)</selected>
+						<onclick>Skin.ToggleSetting(show_pmreloadskin)</onclick>
+					</control>
+					<control type="radiobutton" id="13121">
+						<label>$LOCALIZE[31860]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmrestartkodi)</selected>
+						<onclick>Skin.ToggleSetting(show_pmrestartkodi)</onclick>
+					</control>
+					<control type="radiobutton" id="13122">
+						<label>$LOCALIZE[31861]</label>
+						<include>DefaultSettingButton</include>
+						<selected>!Skin.HasSetting(show_pmlogoff)</selected>
+						<onclick>Skin.ToggleSetting(show_pmlogoff)</onclick>
+					</control>
+				</control>
+				<include content="SettingsScrollbar">
+					<param name="height">485</param>
+					<param name="leftright">13100</param>
+				</include>
+			</control>
+		</control>
+	</controls>
+</window>

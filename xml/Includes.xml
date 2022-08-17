@@ -1755,12 +1755,12 @@
 				<include content="MediaFlagsRatings">
 					<param name="infolabel_prefix"/>
 				</include>
-				<include content="MediaFlag">
+				<!--include content="MediaFlag">
 					<param name="width" value="0" />
 					<param name="top" value="5" />
 					<param name="visible" value="!String.IsEmpty($PARAM[infolabel_prefix]ListItem.mpaa)" />
 					<param name="visible2" value="!Skin.HasSetting(show_mpaaflag)" />
-				</include>
+				</include-->
 				<control type="group">
 					<width>120</width>
 					<top>5</top>

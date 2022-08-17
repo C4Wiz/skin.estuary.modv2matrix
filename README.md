@@ -44,8 +44,10 @@ supports animated poster only.
   * Reformatted Duration from HH:h,MM to HH:h,MM:m (1h33 to 1h33m)
   * Reformatted chapter display from Chapter 01 : 01/16 to Chapter : 01/16
   * Removed PLOT header from clickable plot
-  * Added Debug Labels and Debug grid to skinsettingsn(useful while skinning)
+  * Added Debug Labels and Debug grid to skinsettings (useful while skinning)
   * Added missing Mpeg-2 Varient of the Mpeg-2 Flag
+  * ALL Power Menu Options can be toggled
+  * added Descriptive labels to SkinSettings Extras tab
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 - .1
