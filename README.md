@@ -2,9 +2,10 @@
 
 ## Installation Notes ##
 
-It's strongly recommended to install the skin via the "Kodinerds Repo", as this is the only way to guarantee that additional 
-required modules (e.g. the PVR Artwork Module) are also installed. Another advantage is that you get automatic updates when 
-you install an addon from a repository and not from ZIP.
+The "Kodinerds Repo", Must be installed manually so the required PVR Artwork Module (If you use the PVR Function) can be installed, and other usefull addons.
+Additional Addon's can be used by Installing the "Rector Stuff Repo"
+
+Non Installable Addon's will be hidden in SkinSettings till the Repos are Installed.
 
 
 ### File name flagging ###
@@ -32,7 +33,7 @@ supports animated poster only.
 
 ### Mods Added to this Release ###
 -------------------------------------------------------------------------------------------
-  * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings
+  * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings (Once the Repo is Installed)
   * Added Flag Visibility for Filename and Path Labeling:
     * 2160P and 1080P will trigger the blu-ray logo 
     * Atmos and DTS-X will hide the audio channel flag as these are object based
@@ -47,7 +48,8 @@ supports animated poster only.
   * Added Debug Labels and Debug grid to skinsettings (useful while skinning)
   * Added missing Mpeg-2 Varient of the Mpeg-2 Flag
   * ALL Power Menu Options can be toggled
-  * added Descriptive labels to SkinSettings Extras tab
+  * Added Descriptive labels to SkinSettings Extras tab
+  * Extra Addons will be Hidden till the Required Repos are Installed
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 - .1
