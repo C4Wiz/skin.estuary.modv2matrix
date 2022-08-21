@@ -128,7 +128,7 @@
 						<visible>!Skin.HasSetting(show_pmrstartkodi)</visible>
 					</item>
 					<item>
-						<label>$LOCALIZE[31621]</label>
+						<label>$LOCALIZE[31863]</label>
 						<icon>special://skin/extras/icons/Power menu/reload.png</icon>
 						<onclick>ReloadSkin()</onclick>
 						<visible>!Skin.HasSetting(show_pmreloadskin)</visible>
@@ -354,7 +354,7 @@
 						<visible>!Skin.HasSetting(show_pmrstartkodi)</visible>
 					</item>
 					<item>
-						<label>$LOCALIZE[31621]</label>
+						<label>$LOCALIZE[31863]</label>
 						<icon>special://skin/extras/icons/Power menu/reload.png</icon>
 						<onclick>ReloadSkin()</onclick>
 						<visible>!Skin.HasSetting(show_pmreloadskin)</visible>
@@ -499,7 +499,7 @@
 						<visible>!Skin.HasSetting(show_pmrstartkodi)</visible>
 					</item>
 					<item>
-						<label>$LOCALIZE[31621]</label>
+						<label>$LOCALIZE[31863]</label>
 						<icon>special://skin/extras/icons/Power menu/reload.png</icon>
 						<onclick>ReloadSkin()</onclick>
 						<visible>!Skin.HasSetting(show_pmreloadskin)</visible>
