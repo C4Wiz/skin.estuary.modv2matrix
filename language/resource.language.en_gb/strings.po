@@ -2600,12 +2600,15 @@ msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
+#: Variables.xml (SkinSettings.xml)
+
 msgctxt "#31621"
-msgid "Reload Skin"
+msgid "Visualization of the PVR and TV screen related settings."
 msgstr ""
 
+#: Modified Start
+
 #: DialogVideoInfo.xml (40500)
---------------------------------------
 msgctxt "#31800"
 msgid "Released"
 msgstr ""
@@ -2802,6 +2805,10 @@ msgstr ""
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
+msgstr ""
+
+msgctxt "#31863"
+msgid "Reload Skin"
 msgstr ""
 
 #: Variables.xml-SkinSettingsHelpTextVar
