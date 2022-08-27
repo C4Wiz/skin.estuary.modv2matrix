@@ -2,13 +2,13 @@
 <addon id="skin.estuary.modv2" version="3.4.2+matrix.2_1.3-modified" name="Estuary MOD V2 Matrix" provider-name="Guilouz, K19 branch by PvD, Modified by C4Wiz">
 	<requires>
 	    <import addon="repository.kodinerds" version="7.0.1.2"/>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="xbmc.gui" version="5.15.0"/>
-		<import addon="script.skinshortcuts" version="2.0.1"/>
-        <import addon="script.image.resource.select" version="3.0.2"/>
-        <import addon="script.skin.helper.colorpicker" version="2.0.1"/>
-        <import addon="script.embuary.helper" version="2.0.8"/>
-		<import addon="script.embuary.info" version="2.0.8"/>
+	    <import addon="xbmc.python" version="3.0.0"/>
+	    <import addon="xbmc.gui" version="5.15.0"/>
+	    <import addon="script.skinshortcuts" version="2.0.1"/>
+	    <import addon="script.image.resource.select" version="3.0.2"/>
+	    <import addon="script.skin.helper.colorpicker" version="2.0.1"/>
+	    <import addon="script.embuary.helper" version="2.0.8"/>
+	    <import addon="script.embuary.info" version="2.0.8"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
