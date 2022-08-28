@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.estuary.modv2" version="3.4.2+matrix.2_1.3-modified" name="Estuary MOD V2 Matrix" provider-name="Guilouz, K19 branch by PvD, Modified by C4Wiz">
 	<requires>
-	    <import addon="repository.kodinerds" version="7.0.1.2"/>
 	    <import addon="xbmc.python" version="3.0.0"/>
 	    <import addon="xbmc.gui" version="5.15.0"/>
 	    <import addon="script.skinshortcuts" version="2.0.1"/>
@@ -9,6 +8,7 @@
 	    <import addon="script.skin.helper.colorpicker" version="2.0.1"/>
 	    <import addon="script.embuary.helper" version="2.0.8"/>
 	    <import addon="script.embuary.info" version="2.0.8"/>
+	    <import addon="repository.kodinerds" version="7.0.1.2"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 	    <res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -26,11 +26,11 @@
       	    <item library="scripts/context_menu_jumptoletter.py">
       	        <label>$LOCALIZE[31365]</label>
       	        <visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + [String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,set) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,artist) | String.IsEqual(ListItem.dbtype,album) | String.IsEqual(ListItem.dbtype,musicvideo) | Container.Content(addons)] + !Window.IsVisible(Home)</visible>
- 			</item>
-      		<item library="scripts/context_menu_moviessets.py">
- 				<label>$LOCALIZE[31381]</label>
- 				<visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + String.IsEqual(ListItem.DBType,set) + !Window.IsVisible(Home)</visible>
- 			</item>
+	    </item>
+	    <item library="scripts/context_menu_moviessets.py">
+	        <label>$LOCALIZE[31381]</label>
+		<visible>!String.IsEmpty(Window(home).Property(CurrentSkin)) + String.IsEqual(ListItem.DBType,set) + !Window.IsVisible(Home)</visible>
+	    </item>
     	</menu>
  	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -40,10 +40,10 @@
 		<platform>all</platform>
 		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
 		<source>https://github.com/C4Wiz/skin.estuary.modv2</source>
-			<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
-			</assets>
+		<assets>
+		     <icon>resources/icon.png</icon>
+		     <fanart>resources/fanart.jpg</fanart>
+		</assets>
         <news>
         For a complete view of changes visit https://github.com/C4Wiz/skin.estuary.modv2
         </news>
