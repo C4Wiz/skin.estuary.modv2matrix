@@ -3,12 +3,12 @@
 	<requires>
 	    <import addon="xbmc.python" version="3.0.0"/>
 	    <import addon="xbmc.gui" version="5.15.0"/>
+            <import addon="repository.kodinerds" version="7.0.1.2"/>
 	    <import addon="script.skinshortcuts" version="2.0.1"/>
 	    <import addon="script.image.resource.select" version="3.0.2"/>
 	    <import addon="script.skin.helper.colorpicker" version="2.0.1"/>
 	    <import addon="script.embuary.helper" version="2.0.8"/>
 	    <import addon="script.embuary.info" version="2.0.8"/>
-	    <import addon="repository.kodinerds" version="7.0.1.2"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 	    <res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
