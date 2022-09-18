@@ -816,7 +816,6 @@
 							<width>40</width>
 							<height>40</height>
 							<texture>$VAR[PVRStatusImageVar]</texture>
-							<aspectratio>keep</aspectratio>
 						</control>
 						<control type="label">
 							<left>210</left>
@@ -911,7 +910,6 @@
 							<width>40</width>
 							<height>40</height>
 							<texture>$VAR[PVRStatusImageVar]</texture>
-							<aspectratio>keep</aspectratio>
 						</control>
 						<control type="label">
 							<left>210</left>
