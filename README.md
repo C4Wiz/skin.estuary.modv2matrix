@@ -55,9 +55,20 @@ supports animated poster only.
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 
+- .3
+   * Fix wrong viewtype labels
+   * some more improvements on tvshow widgets
+
+
 - .2
   * Fix wrong *elec labels (thanks C4Wiz)
   * Add missing search button on video/audio side blade
+  * Add missing previews in view selection window
+  * Flix view improvements
+  * skin script for animated artwork removed (obsolete, use animated artwork addon instead)
+  * improved PVR status display in channel views
+  * improved tvshow widgets
+  
 
 - .1
   * Transparency of label background of widgets (Flix view) customizable
