@@ -2593,7 +2593,7 @@ msgctxt "#31619"
 msgid "Economica based"
 msgstr ""
 
-#. viewtype name
+#: viewtype name
 #: /xml/View_510_Flix.xml
 
 msgctxt "#31620"
@@ -2605,8 +2605,8 @@ msgstr ""
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr ""
-#: ----------------------
-#: Modified Start
+
+#: - Modified Start -
 
 #: DialogVideoInfo.xml
 msgctxt "#31800"
