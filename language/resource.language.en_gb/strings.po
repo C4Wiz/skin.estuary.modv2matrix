@@ -2605,7 +2605,7 @@ msgstr ""
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr ""
-----------------------
+#: ----------------------
 #: Modified Start
 
 #: DialogVideoInfo.xml
