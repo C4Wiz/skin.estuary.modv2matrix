@@ -2600,7 +2600,8 @@ msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
-#: Variables.xml (SkinSettings.xml)
+#: Variables.xml
+#: SkinSettings.xml
 
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
