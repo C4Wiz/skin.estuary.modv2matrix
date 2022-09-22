@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-22 18:49+0000\n"
+"PO-Revision-Date: 2022-09-23 12:06+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/skin-estuary-modv2/"
-"language/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2-languages/languages/cs/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -483,6 +483,9 @@ msgstr "Široký seznam"
 msgctxt "#31110"
 msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
 msgstr ""
+"Vaše hudební knihovna je momentálně prázdná. Chcete-li jej naplnit vašimi "
+"osobními médii, přidejte zdroj hudby a nakonfigurujte jej. Po přidání a "
+"indexování zdroje budete moci procházet svou knihovnu."
 
 #: /xml/Home.xml
 msgctxt "#31111"
@@ -1346,7 +1349,7 @@ msgstr "Další nastavení"
 #: /xml/SkinSettings.xml
 msgctxt "#31319"
 msgid "Show, add and remove animated posters"
-msgstr ""
+msgstr "Zobrazit, přidat a odebrat animované plakáty"
 
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#31320"
@@ -1426,7 +1429,7 @@ msgstr "Nedefinováno"
 #: /shortcuts/overrides.xml
 msgctxt "#31335"
 msgid "Skin Helper Service Widgets"
-msgstr ""
+msgstr "Skin Helper Service Widgety"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#31336"
@@ -1727,7 +1730,7 @@ msgstr "Panel plakátů"
 #: /shortcuts/overrides.xml
 msgctxt "#31404"
 msgid "Widgety pro přizpůsobení"
-msgstr ""
+msgstr "Widgety k přizpůsobení"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31405"
@@ -1773,7 +1776,7 @@ msgstr "Dvojité seznamy"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#31413"
 msgid "Show Skin Helper Service widgets settings"
-msgstr ""
+msgstr "Zobrazit nastavení widgetů Skin Helper Service"
 
 #. viewtype name
 #: /xml/View_509_TripleLists.xml
