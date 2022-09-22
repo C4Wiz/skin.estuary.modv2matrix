@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: SnnUntz\n"
-"Language-Team: Turkish (Turkey)\n"
+"PO-Revision-Date: 2022-09-22 18:49+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2/language/tr/>\n"
+"Language: tr_tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr_TR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: /xml/Home.xml /xml/DialogSeekBar.xml
 msgctxt "#31000"
@@ -57,7 +59,6 @@ msgid "Unwatched movies"
 msgstr "İzlenmemiş filmler"
 
 #: Missing string 31108
-
 #: /xml/MyVideoNav.xml
 msgctxt "#31009"
 msgid "Download icons"
@@ -144,7 +145,9 @@ msgstr "Medya öğeleri için gösterilecek derecelendirmeyi seçin"
 #: /xml/DialogFavourites.xml
 msgctxt "#31025"
 msgid "No favourites found. You can add any item from media views to this list by using the context menu."
-msgstr "Hiçbir sık kullanılan bulunamadı. İçerik menüsünü kullanarak medya görünümlerindeki herhangi bir öğeyi bu listeye ekleyebilirsiniz."
+msgstr ""
+"Hiçbir sık kullanılan bulunamadı. İçerik menüsünü kullanarak medya "
+"görünümlerindeki herhangi bir öğeyi bu listeye ekleyebilirsiniz."
 
 #: /xml/DialogSeekBar.xml
 msgctxt "#31026"
@@ -219,7 +222,10 @@ msgstr "Çalma listesi seçenekleri"
 #: /xml/SmartPlaylistEditor.xml
 msgctxt "#31043"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "Akıllı çalma listesi oluşturmak için kurallar ekleyin ve türünü ayarlayın. Bu çalma listeleri dinamiktir ve seçtiğiniz kuralları veritabanınızdaki tüm medya öğelerine uygular."
+msgstr ""
+"Akıllı çalma listesi oluşturmak için kurallar ekleyin ve türünü ayarlayın. "
+"Bu çalma listeleri dinamiktir ve seçtiğiniz kuralları veritabanınızdaki tüm "
+"medya öğelerine uygular."
 
 #: /xml/DialogPVRGroupManager.xml
 msgctxt "#31044"
@@ -443,12 +449,18 @@ msgstr "Metni buraya girin..."
 #: /xml/Home.xml
 msgctxt "#31104"
 msgid "Your video library is currently empty. In order to populate it with your personal media, add a video source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "Kitaplığınız şu anda boş. Kitaplığınızı kişisel medyalarınız ile doldurmak için \"Dosyalar\" bölümüne girdikten sonra bir medya kaynağını ekleyin ve yapılandırın. Kaynak eklendikten ve içeriği tarandıktan sonra kitaplığınıza gözatabilirsiniz."
+msgstr ""
+"Kitaplığınız şu anda boş. Kitaplığınızı kişisel medyalarınız ile doldurmak "
+"için \"Dosyalar\" bölümüne girdikten sonra bir medya kaynağını ekleyin ve "
+"yapılandırın. Kaynak eklendikten ve içeriği tarandıktan sonra kitaplığınıza "
+"gözatabilirsiniz."
 
 #: /xml/Home.xml
 msgctxt "#31105"
 msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
-msgstr "Video kitaplığınızı doldurmak için video kaynakları ekleyin ve  uygun içerik türünü ayarlayın."
+msgstr ""
+"Video kitaplığınızı doldurmak için video kaynakları ekleyin ve  uygun içerik "
+"türünü ayarlayın."
 
 #: /xml/Variables.xml
 msgctxt "#31106"
@@ -464,12 +476,17 @@ msgstr "Geniş Liste"
 #: /xml/Home.xml
 msgctxt "#31110"
 msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "Müzik kitaplığınız şu anda boş. Kişisel medyanızla doldurmak için bir müzik kaynağı ekleyin ve yapılandırın. Kaynak eklendikten ve dizine eklendikten sonra kitaplığınıza göz atabilirsiniz."
+msgstr ""
+"Müzik kitaplığınız şu anda boş. Kişisel medyanızla doldurmak için bir müzik "
+"kaynağı ekleyin ve yapılandırın. Kaynak eklendikten ve dizine eklendikten "
+"sonra kitaplığınıza göz atabilirsiniz."
 
 #: /xml/Home.xml
 msgctxt "#31111"
 msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "Kişisel resimlerinizi görüntüleyin veya resmi depodaki birçok resim eklentisinden birini indirin."
+msgstr ""
+"Kişisel resimlerinizi görüntüleyin veya resmi depodaki birçok resim "
+"eklentisinden birini indirin."
 
 #: /xml/VideoOSD.xml
 msgctxt "#31112"
@@ -509,12 +526,17 @@ msgstr "Eklenti tarayıcısına girin"
 #: /xml/Home.xml
 msgctxt "#31119"
 msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Henüz yüklü herhangi bir eklenti yok. Kodi deneyiminizi geliştirmek için eklenti tarayıcımızı ziyaret edip koleksiyonumuza gözatın."
+msgstr ""
+"Henüz yüklü herhangi bir eklenti yok. Kodi deneyiminizi geliştirmek için "
+"eklenti tarayıcımızı ziyaret edip koleksiyonumuza gözatın."
 
 #: /xml/Home.xml
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Henüz bir hava durumu bilgisi sağlayıcı ayarlamamışsınız. Hava durumu bilgilerini görüntülemek için, bir hava durumu bilgisi sağlayıcı seçin ve konumunuzu ayarlayın."
+msgstr ""
+"Henüz bir hava durumu bilgisi sağlayıcı ayarlamamışsınız. Hava durumu "
+"bilgilerini görüntülemek için, bir hava durumu bilgisi sağlayıcı seçin ve "
+"konumunuzu ayarlayın."
 
 #: /xml/Home.xml
 msgctxt "#31121"
@@ -564,7 +586,8 @@ msgstr "Genel ayarlar dış görünümün tüm alanlarına uygulanır."
 #: /xml/Variables.xml
 msgctxt "#31130"
 msgid "Main menu-related settings: Configure the home screen to your likings."
-msgstr "Ana menü ile ilgili ayarlar: Ana ekranı kendi zevkinize göre yapılandırın."
+msgstr ""
+"Ana menü ile ilgili ayarlar: Ana ekranı kendi zevkinize göre yapılandırın."
 
 #: /shortcuts/addons.DATA.xml
 msgctxt "#31131"
@@ -624,7 +647,10 @@ msgstr "Oynatma hızı"
 #: /xml/Home.xml
 msgctxt "#31143"
 msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "Henüz hiçbir PVR ayarlanmamış. PVR özelliğini kullanabilmek için bir PVR istemci eklentisi seçin ve yapılandırın. Daha fazlasını öğrenmek için lütfen http://kodi.wiki/view/PVR adresini ziyaret edin."
+msgstr ""
+"Henüz hiçbir PVR ayarlanmamış. PVR özelliğini kullanabilmek için bir PVR "
+"istemci eklentisi seçin ve yapılandırın. Daha fazlasını öğrenmek için lütfen "
+"http://kodi.wiki/view/PVR adresini ziyaret edin."
 
 #: /xml/Home.xml
 msgctxt "#31144"
@@ -664,7 +690,9 @@ msgstr "Rastgele müzik videosu"
 #: /xml/Includes.xml
 msgctxt "#31153"
 msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
-msgstr "Bu türde yüklü bir eklentiniz yok. Eklenti tarayıcısına girip topluluğumuzun ürettiği eklentileri indirebilirsiniz."
+msgstr ""
+"Bu türde yüklü bir eklentiniz yok. Eklenti tarayıcısına girip topluluğumuzun "
+"ürettiği eklentileri indirebilirsiniz."
 
 #: /xml/MyWeather.xml
 msgctxt "#31154"
@@ -709,7 +737,9 @@ msgstr "Sayısal tuş takımı"
 #: /xml/Home.xml
 msgctxt "#31162"
 msgid "Play your personal games or download one of the many game add-ons from the official repository."
-msgstr "Kişisel oyunlarınızı oynayın veya resmi depodaki birçok oyun eklentisinden birini indirin."
+msgstr ""
+"Kişisel oyunlarınızı oynayın veya resmi depodaki birçok oyun eklentisinden "
+"birini indirin."
 
 #: /xml/Custom_1105_MusicOSDSettings.xml
 msgctxt "#31163"
@@ -729,7 +759,9 @@ msgstr "Medya kaynakları ekle"
 #: /xml/Custom_1120_SourcesDialog.xml
 msgctxt "#31202"
 msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "Her medya türünden \"Dosyalar\" bölümlerine kısayollar. Veritabanlarınıza ek kaynaklar eklemek için oraya gidin."
+msgstr ""
+"Her medya türünden \"Dosyalar\" bölümlerine kısayollar. Veritabanlarınıza ek "
+"kaynaklar eklemek için oraya gidin."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31203"
@@ -754,7 +786,9 @@ msgstr "Ana menü ayarlarını sıfırlama"
 #: /xml/SkinSettings.xml
 msgctxt "#31207"
 msgid "Are you sure you want to reset display of all menu items back to default ?"
-msgstr "Tüm menü öğelerinin görüntüsünü varsayılana sıfırlamak istediğinizden emin misiniz?"
+msgstr ""
+"Tüm menü öğelerinin görüntüsünü varsayılana sıfırlamak istediğinizden emin "
+"misiniz?"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31208"
@@ -1507,7 +1541,6 @@ msgid "Forced view for music videos"
 msgstr "Müzik videoları için görünümü zorla"
 
 #: 40159 Empty String
-
 #: /xml/Variables.xml
 msgctxt "#31360"
 msgid "Power menu-related settings: Configure it to your likings."
@@ -1556,7 +1589,9 @@ msgstr "Widget sıralama yönü"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#31369"
 msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
-msgstr "Açıklamayı okumak için [B]OK[/B] tuşuna basın veya geri küçük resmi göstermek için [B]Sol[/B] tuşa basın."
+msgstr ""
+"Açıklamayı okumak için [B]OK[/B] tuşuna basın veya geri küçük resmi "
+"göstermek için [B]Sol[/B] tuşa basın."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31370"
@@ -1576,12 +1611,18 @@ msgstr "Oyun kaynakları"
 #: /xml/Home.xml
 msgctxt "#31373"
 msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
-msgstr "Oyun kitaplığınız şu an boş. Kişisel oyunlarınızla doldurmak için bir oyun kaynağı ekleyin. Kaynak eklendikten sonra, oyun listene göz atabilirsiniz. Ayrıca oyunlar için gerekli eklentileri kurmanız gerekecektir."
+msgstr ""
+"Oyun kitaplığınız şu an boş. Kişisel oyunlarınızla doldurmak için bir oyun "
+"kaynağı ekleyin. Kaynak eklendikten sonra, oyun listene göz atabilirsiniz. "
+"Ayrıca oyunlar için gerekli eklentileri kurmanız gerekecektir."
 
 #: /xml/Home.xml
 msgctxt "#31374"
 msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
-msgstr "Resimler kitaplığınız şu anda boş. Kişisel fotoğraflarınızla doldurmak için bir resim kaynağı ekleyin. Kaynak eklendikten sonra resimler listesine göz atabilirsiniz."
+msgstr ""
+"Resimler kitaplığınız şu anda boş. Kişisel fotoğraflarınızla doldurmak için "
+"bir resim kaynağı ekleyin. Kaynak eklendikten sonra resimler listesine göz "
+"atabilirsiniz."
 
 #: /xml/Home.xml
 msgctxt "#31375"
@@ -1646,7 +1687,10 @@ msgstr "'Ayarlar' kısayol widget'ini göster"
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31398"
 msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
-msgstr "Bu sürümü yükledikten sonra Kodi'yi yeniden başlatmanız ve dış görünüm ayarlarından '[B]ana menü ve güç menüsü ayarlarını sıfırlamanız gerekiyor.[/B]'"
+msgstr ""
+"Bu sürümü yükledikten sonra Kodi'yi yeniden başlatmanız ve dış görünüm "
+"ayarlarından '[B]ana menü ve güç menüsü ayarlarını sıfırlamanız "
+"gerekiyor.[/B]'"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31399"
@@ -1953,12 +1997,15 @@ msgstr "Programı seç"
 #: /xml/SkinSettings.xml
 msgctxt "#31459"
 msgid "Enable themes (Valentine's Day, Easter, Halloween & Christmas)"
-msgstr "Temaları etkinleştir (Sevgililer Günü, Paskalya, Cadılar Bayramı & Noel)"
+msgstr ""
+"Temaları etkinleştir (Sevgililer Günü, Paskalya, Cadılar Bayramı & Noel)"
 
 #: /xml/Home.xml
 msgctxt "#31460"
 msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
-msgstr "Kitaplığınız şu anda boş.[CR]Kişisel medyanızla doldurmak için kaynakları ekleyin ve yapılandırın."
+msgstr ""
+"Kitaplığınız şu anda boş.[CR]Kişisel medyanızla doldurmak için kaynakları "
+"ekleyin ve yapılandırın."
 
 #: /xml/Variables.xml
 msgctxt "#31461"
@@ -1978,7 +2025,8 @@ msgstr "Bugün yayın yok"
 #: /xml/SkinSettings.xml
 msgctxt "#31464"
 msgid "Automatically show music video info at beginning and end of playing"
-msgstr "Müzik video bilgisini oynatmanın başında ve sonunda otomatik olarak göster"
+msgstr ""
+"Müzik video bilgisini oynatmanın başında ve sonunda otomatik olarak göster"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31465"
