@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: Skin MOD - Estuary MOD V2 - KODI 18\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2017-09-12 11:39+0300\n"
-"Last-Translator: A. Dumbledore\n"
-"Language-Team: Eng2Heb\n"
+"PO-Revision-Date: 2022-09-22 18:48+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Hebrew (Israel) <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2/language/he_IL/>\n"
+"Language: he_il\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: he_IL\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
+"X-Generator: Weblate 4.14.1\n"
 
 #: /xml/Home.xml /xml/DialogSeekBar.xml
 msgctxt "#31000"
@@ -144,7 +145,9 @@ msgstr "בחר דירוג להצגה עבור פריטי מדיה"
 #: /xml/DialogFavourites.xml
 msgctxt "#31025"
 msgid "No favourites found. You can add any item from media views to this list by using the context menu."
-msgstr "לא נמצאו מועדפים. ניתן להוסיף כל פריט מתצוגות מדיה לרשימה זו, באמצעות תפריט הקישור."
+msgstr ""
+"לא נמצאו מועדפים. ניתן להוסיף כל פריט מתצוגות מדיה לרשימה זו, באמצעות תפריט "
+"הקישור."
 
 #: /xml/DialogSeekBar.xml
 msgctxt "#31026"
@@ -220,7 +223,9 @@ msgstr "אפשרויות רשימת השמעה"
 #: /xml/SmartPlaylistEditor.xml
 msgctxt "#31043"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "הגדר את הסוג והוסף כללים ליצירת רשימת השמעה חכמה. רשימות השמעה אלו דינמיות וכוללות את כל פריטי המדיה ממסד הנתונים שלך, החלים על הכללים שבחרת."
+msgstr ""
+"הגדר את הסוג והוסף כללים ליצירת רשימת השמעה חכמה. רשימות השמעה אלו דינמיות "
+"וכוללות את כל פריטי המדיה ממסד הנתונים שלך, החלים על הכללים שבחרת."
 
 #: /xml/DialogPVRGroupManager.xml
 msgctxt "#31044"
@@ -444,12 +449,15 @@ msgstr "הכנס את הטקסט כאן..."
 #: /xml/Home.xml
 msgctxt "#31104"
 msgid "Your video library is currently empty. In order to populate it with your personal media, add a video source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "ספריית הווידאו שלך ריקה כעת. כדי לאכלס אותה במדיה האישית שלך, הוסף מקור וידאו והגדר אותו. לאחר הוספת המקור והוספה לאינדקס, תוכל לגלוש בספרייה שלך."
+msgstr ""
+"ספריית הווידאו שלך ריקה כעת. כדי לאכלס אותה במדיה האישית שלך, הוסף מקור "
+"וידאו והגדר אותו. לאחר הוספת המקור והוספה לאינדקס, תוכל לגלוש בספרייה שלך."
 
 #: /xml/Home.xml
 msgctxt "#31105"
 msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
-msgstr "הוסף מקורות וידאו והגדר את סוג התוכן המתאים כדי לאכלס את ספריות הווידאו שלך."
+msgstr ""
+"הוסף מקורות וידאו והגדר את סוג התוכן המתאים כדי לאכלס את ספריות הווידאו שלך."
 
 #: /xml/Variables.xml
 msgctxt "#31106"
@@ -465,12 +473,15 @@ msgstr "רשימה רחבה"
 #: /xml/Home.xml
 msgctxt "#31110"
 msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "ספריית המוסיקה שלך ריקה כעת. כדי לאכלס אותה עם המדיה האישית שלך, הוסף מקור מוסיקה והגדר אותו. לאחר הוספת המקור והוספה לאינדקס, תוכל לגלוש בספריה שלך."
+msgstr ""
+"ספריית המוסיקה שלך ריקה כעת. כדי לאכלס אותה עם המדיה האישית שלך, הוסף מקור "
+"מוסיקה והגדר אותו. לאחר הוספת המקור והוספה לאינדקס, תוכל לגלוש בספריה שלך."
 
 #: /xml/Home.xml
 msgctxt "#31111"
 msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "הצג את התמונות האישיות שלך או הורד אחת מהרחבות התמונה הרבות מהמאגר הרשמי."
+msgstr ""
+"הצג את התמונות האישיות שלך או הורד אחת מהרחבות התמונה הרבות מהמאגר הרשמי."
 
 #: /xml/VideoOSD.xml
 msgctxt "#31112"
@@ -510,12 +521,16 @@ msgstr "כנס לדפדפן ההרחבות"
 #: /xml/Home.xml
 msgctxt "#31119"
 msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "עדיין לא מותקנות הרחבות. בקר בדפדפן ההרחבות שלנו, כדי לעיין באוסף שלנו ולשפר את חווית הקודי שלך."
+msgstr ""
+"עדיין לא מותקנות הרחבות. בקר בדפדפן ההרחבות שלנו, כדי לעיין באוסף שלנו ולשפר "
+"את חווית הקודי שלך."
 
 #: /xml/Home.xml
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "עדיין לא הגדרת ספק מזג אוויר. כדי להציג מידע על מזג האוויר, בחר ספק מזג אוויר והגדר את המיקום שלך."
+msgstr ""
+"עדיין לא הגדרת ספק מזג אוויר. כדי להציג מידע על מזג האוויר, בחר ספק מזג "
+"אוויר והגדר את המיקום שלך."
 
 #: /xml/Home.xml
 msgctxt "#31121"
@@ -625,7 +640,9 @@ msgstr "מהירות ניגון"
 #: /xml/Home.xml
 msgctxt "#31143"
 msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "אתה עדיין לא הגדרת לקוח PVR. כדי להשתמש ב-PVR, בחר בהרחבת לקוח PVR והגדר אותה. בקר בכתובת: http://kodi.wiki/view/PVR למידע נוסף."
+msgstr ""
+"אתה עדיין לא הגדרת לקוח PVR. כדי להשתמש ב-PVR, בחר בהרחבת לקוח PVR והגדר "
+"אותה. בקר בכתובת: http://kodi.wiki/view/PVR למידע נוסף."
 
 #: /xml/Home.xml
 msgctxt "#31144"
@@ -665,7 +682,9 @@ msgstr "סרטוני מוזיקה אקראיים"
 #: /xml/Includes.xml
 msgctxt "#31153"
 msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
-msgstr "לא מותקנות הרחבות מהסוג זה. אנא כנס לדפדפן ההרחבות  כדי להוריד הרחבות שנוצרו על ידי הקהילה שלנו."
+msgstr ""
+"לא מותקנות הרחבות מהסוג זה. אנא כנס לדפדפן ההרחבות  כדי להוריד הרחבות שנוצרו "
+"על ידי הקהילה שלנו."
 
 #: /xml/MyWeather.xml
 msgctxt "#31154"
@@ -730,7 +749,9 @@ msgstr "הוסף מקורות מדיה"
 #: /xml/Custom_1120_SourcesDialog.xml
 msgctxt "#31202"
 msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "קיצורי דרך למחלקת 'קבצים'  לכל סוגי המדיה. עבור לשם כדי להוסיף מקורות נוספים עבור מסדי הנתונים שלך."
+msgstr ""
+"קיצורי דרך למחלקת 'קבצים'  לכל סוגי המדיה. עבור לשם כדי להוסיף מקורות נוספים "
+"עבור מסדי הנתונים שלך."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31203"
@@ -755,7 +776,8 @@ msgstr "אפס את הגדרות התפריט הראשי"
 #: /xml/SkinSettings.xml
 msgctxt "#31207"
 msgid "Are you sure you want to reset display of all menu items back to default ?"
-msgstr "האם אתה בטוח שברצונך לאפס את התצוגה של כל פריטי התפריט בחזרה לברירת מחדל?"
+msgstr ""
+"האם אתה בטוח שברצונך לאפס את התצוגה של כל פריטי התפריט בחזרה לברירת מחדל?"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31208"
@@ -1506,7 +1528,6 @@ msgid "Forced view for music videos"
 msgstr "תצוגות כפויות לסרטיוני מוזיקה"
 
 #: 40159 Empty String
-
 #: /xml/Variables.xml
 msgctxt "#31360"
 msgid "Power menu-related settings: Configure it to your likings."
@@ -1555,7 +1576,9 @@ msgstr "כיוון המיון של היישומון"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#31369"
 msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
-msgstr "לחץ [B]אישור[/B] כדי להציג תיאור או [B]שמאל[/B] כדי להציג מחדש תמונות ממוזערות"
+msgstr ""
+"לחץ [B]אישור[/B] כדי להציג תיאור או [B]שמאל[/B] כדי להציג מחדש תמונות "
+"ממוזערות"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31370"
@@ -1575,12 +1598,17 @@ msgstr "מקורות משחקים"
 #: /xml/Home.xml
 msgctxt "#31373"
 msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
-msgstr "ספריית המשחקים שלך ריקה. כדי לאכלס אותו עם המשחקים האישיים שלך, תוסיף מקור למשחקים. לאחר הוספת המקור, תוכל לעיין ברשימת המשחקים שלך. שים לב שאתה תצטרך להתקין את התוספים הנדרשים למשחקים."
+msgstr ""
+"ספריית המשחקים שלך ריקה. כדי לאכלס אותו עם המשחקים האישיים שלך, תוסיף מקור "
+"למשחקים. לאחר הוספת המקור, תוכל לעיין ברשימת המשחקים שלך. שים לב שאתה תצטרך "
+"להתקין את התוספים הנדרשים למשחקים."
 
 #: /xml/Home.xml
 msgctxt "#31374"
 msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
-msgstr "ספריית התמונות שלך ריקה. כדי לאכלס אותו עם התמונות האישיות שלך, תוסיף מקור לתמונות. לאחר הוספת המקור, תוכל לעיין ברשימת התמונות שלך."
+msgstr ""
+"ספריית התמונות שלך ריקה. כדי לאכלס אותו עם התמונות האישיות שלך, תוסיף מקור "
+"לתמונות. לאחר הוספת המקור, תוכל לעיין ברשימת התמונות שלך."
 
 #: /xml/Home.xml
 msgctxt "#31375"
@@ -1645,7 +1673,9 @@ msgstr "הצג את יישומון קיצור דרך 'הגדרות'"
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31398"
 msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
-msgstr "יש צורך לאתחל את קודי, '[B]לאפס את התפריט הראשי ואת הגדרות הכיבוי [/B]' בהגדרות המעטפת לאחר התקנת גרסה זו."
+msgstr ""
+"יש צורך לאתחל את קודי, '[B]לאפס את התפריט הראשי ואת הגדרות הכיבוי [/B]' "
+"בהגדרות המעטפת לאחר התקנת גרסה זו."
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31399"
@@ -1955,7 +1985,9 @@ msgstr ""
 #: /xml/Home.xml
 msgctxt "#31460"
 msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
-msgstr "ספריית הווידאו שלך ריקה כעת.[CR]כדי לאכלס אותה עם המדיה האישית שלך, הוסף מקורות והגדר אותם."
+msgstr ""
+"ספריית הווידאו שלך ריקה כעת.[CR]כדי לאכלס אותה עם המדיה האישית שלך, הוסף "
+"מקורות והגדר אותם."
 
 #: /xml/Variables.xml
 msgctxt "#31461"
