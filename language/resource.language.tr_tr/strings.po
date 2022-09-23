@@ -2127,3 +2127,693 @@ msgstr "Derecelendirmelerim metin rengi"
 msgctxt "#31484"
 msgid "Loading..."
 msgstr "Yükleniyor..."
+<<<<<<< Updated upstream
+=======
+
+#: /xml/SkinSettings.xml
+msgctxt "#31485"
+msgid "Parental control related settings."
+msgstr ""
+
+#: /xml/Custom_1101_SettingsList.xml
+msgctxt "#31486"
+msgid "Select Resolution"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31487"
+msgid "Date added"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31488"
+msgid "Show extended info"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31489"
+msgid "By"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31490"
+msgid "Movies from movie set"
+msgstr ""
+
+#: /xml/Custom_1132_MoviesSetsInfo.xml
+msgctxt "#31491"
+msgid "Press [B]DOWN[/B] to show info from selected movie"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31492"
+msgid "Lists settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31493"
+msgid "Show Actors list"
+msgstr ""
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31494"
+msgid "Episode count"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31495"
+msgid "Movies from director"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31496"
+msgid "Similar movies"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31497"
+msgid "Movies from studio"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31498"
+msgid "Next Up episodes"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31499"
+msgid "Similar TV shows"
+msgstr ""
+
+#: /xml/Custom_1104_InfoDialogList.xml
+msgctxt "#31500"
+msgid "Fanarts list"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31501"
+msgid "Albums from library"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31502"
+msgid "Complete discography"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31503"
+msgid "Songs from album"
+msgstr ""
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#31504"
+msgid "Press [B]OK[/B] to show back thumb"
+msgstr ""
+
+#: /xml/script-script.extendedinfo-DialogVideoInfo.xml
+msgctxt "#31505"
+msgid "Episode of the season"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31506"
+msgid "Posters"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31507"
+msgid "Fanarts"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31508"
+msgid "Resume playback at"
+msgstr ""
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31509"
+msgid "Press [B]OK[/B] to show biography"
+msgstr ""
+
+#: /xml/script-script.extendedinfo-DialogInfo.xml
+msgctxt "#31510"
+msgid "Website"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31511"
+msgid "Role in movie"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31512"
+msgid "Crew member in movie"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31513"
+msgid "Role in TV show"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#31514"
+msgid "Crew member in TV show"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31515"
+msgid "Palm Week"
+msgstr ""
+
+msgctxt "#31550"
+msgid "Channel groups"
+msgstr ""
+
+msgctxt "#31551"
+msgid "German Telecast Offers"
+msgstr ""
+
+msgctxt "#31552"
+msgid "Also apply to radio and internet station logos"
+msgstr ""
+
+msgctxt "#31553"
+msgid "Use poster view for music video widgets"
+msgstr ""
+
+msgctxt "#31554"
+msgid "Show year of publication in title"
+msgstr ""
+
+msgctxt "#31555"
+msgid "Optional icons and fanart packs"
+msgstr ""
+
+msgctxt "#31556"
+msgid "Reboot from NAND (Android)"
+msgstr ""
+
+msgctxt "#31557"
+msgid "Restart Kodi"
+msgstr ""
+
+msgctxt "#31558"
+msgid "Addon-ID"
+msgstr ""
+
+msgctxt "#31559"
+msgid "Platform"
+msgstr ""
+
+msgctxt "#31560"
+msgid "Forced Views"
+msgstr ""
+
+msgctxt "#31561"
+msgid "Show PVR related Artworks"
+msgstr ""
+
+msgctxt "#31562"
+msgid "PVR Artwork Configuration"
+msgstr ""
+
+msgctxt "#31563"
+msgid "Show date"
+msgstr ""
+
+msgctxt "#31564"
+msgid "Top Bar"
+msgstr ""
+
+msgctxt "#31565"
+msgid "Bottom Bar"
+msgstr ""
+
+msgctxt "#31566"
+msgid "Media"
+msgstr ""
+
+msgctxt "#31567"
+msgid "Kodi/Distribution Logo"
+msgstr ""
+
+msgctxt "#31568"
+msgid "LibreELEC"
+msgstr ""
+
+msgctxt "#31569"
+msgid "CoreELEC"
+msgstr ""
+
+msgctxt "#31570"
+msgid "Show extended Power Menu"
+msgstr ""
+
+msgctxt "#31571"
+msgid "Prefer Fanart in EPG preview window if available"
+msgstr ""
+
+msgctxt "#31572"
+msgid "Upcoming episodes"
+msgstr ""
+
+msgctxt "#31573"
+msgid "Show MPAA rating"
+msgstr ""
+
+msgctxt "#31574"
+msgid "(until "
+msgstr ""
+
+msgctxt "#31575"
+msgid "Show Color Depth"
+msgstr ""
+
+msgctxt "#31576"
+msgid "Show additional Infos within the PVR widgets"
+msgstr ""
+
+msgctxt "#31577"
+msgid "Close Video OSD automatically after"
+msgstr ""
+
+msgctxt "#31578"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#31580"
+msgid "3 seconds"
+msgstr ""
+
+msgctxt "#31581"
+msgid "5 seconds"
+msgstr ""
+
+msgctxt "#31582"
+msgid "7 seconds"
+msgstr ""
+
+msgctxt "#31583"
+msgid "10 seconds"
+msgstr ""
+
+msgctxt "#31584"
+msgid "15 seconds"
+msgstr ""
+
+msgctxt "#31585"
+msgid "Show Channel Numbers"
+msgstr ""
+
+msgctxt "#31586"
+msgid "Show Date of First aired"
+msgstr ""
+
+msgctxt "#31587"
+msgid "Item Path of Picture Widgets"
+msgstr ""
+
+msgctxt "#31588"
+msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
+msgstr ""
+
+msgctxt "#31589"
+msgid "Play Item"
+msgstr ""
+
+msgctxt "#31590"
+msgid "Show Info"
+msgstr ""
+
+msgctxt "#31591"
+msgid "Sort Order"
+msgstr ""
+
+msgctxt "#31592"
+msgid "Show Path Navigation (Breadcrumbs) in List Views"
+msgstr ""
+
+msgctxt "#31593"
+msgid "Show only 'current item / item count' Information"
+msgstr ""
+
+msgctxt "#31594"
+msgid "Set Animated Poster"
+msgstr ""
+
+msgctxt "#31595"
+msgid "Remove Animated Poster"
+msgstr ""
+
+msgctxt "#31596"
+msgid "Animated Poster removed"
+msgstr ""
+
+msgctxt "#31597"
+msgid "Animated Poster added"
+msgstr ""
+
+msgctxt "#31598"
+msgid "Local Path to animated Poster Folder"
+msgstr ""
+
+msgctxt "#31599"
+msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
+msgstr ""
+
+msgctxt "#31600"
+msgid "Could not assign animated Poster"
+msgstr ""
+
+msgctxt "#31601"
+msgid "Hit Probability: "
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31602"
+msgid "'Rotten Tomatoes' Rating Category"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31603"
+msgid "Tomatometer all Critics"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31604"
+msgid "Tomatometer average Critics"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31605"
+msgid "Tomatometer all Audience"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31606"
+msgid "Tomatometer average Audience"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31607"
+msgid "Use simplified Video OSD Navigation"
+msgstr ""
+
+msgctxt "#31608"
+msgid "Previous seen Channel"
+msgstr ""
+
+#: Includes_MediaMenu.xml
+msgctxt "#31609"
+msgid "Show PVR Channel Status"
+msgstr ""
+
+#: DialogPlayerProcessInfo
+msgctxt "#31610"
+msgid "Display Mode"
+msgstr ""
+
+msgctxt "#31611"
+msgid "Eoft & Gamut"
+msgstr ""
+
+msgctxt "#31612"
+msgid "Color Depth"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31613"
+msgid "Display Media Time"
+msgstr ""
+
+msgctxt "#31614"
+msgid "current Time / total Time"
+msgstr ""
+
+msgctxt "#31615"
+msgid "Remaining Time"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31616"
+msgid "Use Background for PVR Channel Icons"
+msgstr ""
+
+#: Custom_1127_settingsTVWidgets.xml
+msgctxt "#31617"
+msgid "Saved Search Results"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31618"
+msgid "Use full Height for Channel and Program OSD"
+msgstr ""
+
+#: Font.xml
+msgctxt "#31619"
+msgid "Economica based"
+msgstr ""
+
+#. viewtype name
+#: /xml/View_510_Flix.xml
+msgctxt "#31620"
+msgid "Flix Landscape"
+msgstr ""
+
+#: Variables.xml (SkinSettings.xml)
+msgctxt "#31621"
+msgid "Visualization of the PVR and TV screen related settings."
+msgstr ""
+
+#: - Modified Start -
+#: DialogVideoInfo.xml
+msgctxt "#31800"
+msgid "Released"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31801"
+msgid "Debug Labels"
+msgstr ""
+
+msgctxt "#31802"
+msgid "Debug Grid"
+msgstr ""
+
+#: Custom_1137_SettingsFlags.xml
+msgctxt "#31803"
+msgid "Show Audio Language"
+msgstr ""
+
+msgctxt "#31804"
+msgid "Show Subtitle Language"
+msgstr ""
+
+msgctxt "#31805"
+msgid "Show IMDB Rating"
+msgstr ""
+
+msgctxt "#31806"
+msgid "Show TMDB Rating"
+msgstr ""
+
+msgctxt "#31807"
+msgid "Show TVDB Rating"
+msgstr ""
+
+msgctxt "#31808"
+msgid "Show Rotten Tomatoes Rating"
+msgstr ""
+
+msgctxt "#31809"
+msgid "Show Meta Critic Rating"
+msgstr ""
+
+msgctxt "#31810"
+msgid "Show Music Rating"
+msgstr ""
+
+msgctxt "#31811"
+msgid "Show My Rating"
+msgstr ""
+
+msgctxt "#31812"
+msgid "Show Video FPS"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31820"
+msgid "Configure InfoDialog Data"
+msgstr ""
+
+#: Custom_1145_DialogInfoMetadata.xml
+msgctxt "#31821"
+msgid "Show Original Title"
+msgstr ""
+
+msgctxt "#31822"
+msgid "Show Writer"
+msgstr ""
+
+msgctxt "#31823"
+msgid "Show Country"
+msgstr ""
+
+msgctxt "#31824"
+msgid "Show Studio"
+msgstr ""
+
+msgctxt "#31825"
+msgid "Show Date Premiered"
+msgstr ""
+
+msgctxt "#31826"
+msgid "Show Date Next Aired"
+msgstr ""
+
+msgctxt "#31827"
+msgid "Show Date Latest Aired"
+msgstr ""
+
+msgctxt "#31828"
+msgid "Show Season/Episode"
+msgstr ""
+
+msgctxt "#31829"
+msgid "Show MPAA Rating"
+msgstr ""
+
+msgctxt "#31830"
+msgid "Show IMDB Rating"
+msgstr ""
+
+msgctxt "#31831"
+msgid "Show The Movie DB Rating"
+msgstr ""
+
+msgctxt "#31832"
+msgid "Show TMDB Rating"
+msgstr ""
+
+msgctxt "#31833"
+msgid "Show TVDB Rating"
+msgstr ""
+
+msgctxt "#31834"
+msgid "Show MetaCritic Rating"
+msgstr ""
+
+msgctxt "#31835"
+msgid "Show Rotten Tomatoes Rating"
+msgstr ""
+
+msgctxt "#31836"
+msgid "Show Ratings and Votes"
+msgstr ""
+
+msgctxt "#31837"
+msgid "Show Set"
+msgstr ""
+
+msgctxt "#31838"
+msgid "Show Tagline"
+msgstr ""
+
+msgctxt "#31839"
+msgid "Show Date Added"
+msgstr ""
+
+msgctxt "#31840"
+msgid "Show Filename and Path"
+msgstr ""
+
+#: Custom_1146_PowerMenu.xml, SkinSettings.xml
+msgctxt "#31850"
+msgid "Configure Power Menu"
+msgstr ""
+
+msgctxt "#31851"
+msgid "Show Power Off"
+msgstr ""
+
+msgctxt "#31852"
+msgid "Show Shutdown"
+msgstr ""
+
+msgctxt "#31853"
+msgid "Show Suspend"
+msgstr ""
+
+msgctxt "#31854"
+msgid "Show Hibernate"
+msgstr ""
+
+msgctxt "#31855"
+msgid "Show Shutdown Timer"
+msgstr ""
+
+msgctxt "#31856"
+msgid "Show Reboot from NAND (EMMC)"
+msgstr ""
+
+msgctxt "#31857"
+msgid "Show Exit"
+msgstr ""
+
+msgctxt "#31858"
+msgid "Show Reboot"
+msgstr ""
+
+msgctxt "#31859"
+msgid "Show Reload Skin"
+msgstr ""
+
+msgctxt "#31860"
+msgid "Show Restart KODI"
+msgstr ""
+
+msgctxt "#31861"
+msgid "Show Log Off"
+msgstr ""
+
+msgctxt "#31862"
+msgid "Show RPM Power Off"
+msgstr ""
+
+msgctxt "#31863"
+msgid "Reload Skin"
+msgstr ""
+
+#: Variables.xml (SkinSettingsHelpTextVar)
+msgctxt "#31901"
+msgid "Holidays Themes"
+msgstr ""
+
+msgctxt "#31903"
+msgid "Touch Screen Friendly Controls"
+msgstr ""
+
+msgctxt "#31904"
+msgid "Kiosk Mode locks view changes"
+msgstr ""
+
+msgctxt "#31906"
+msgid "Power Menu Layout Style"
+msgstr ""
+
+msgctxt "#31907"
+msgid "Configure the Power Menu Items to Display"
+msgstr ""
+
+msgctxt "#31909"
+msgid "Estuary MODv2 Splash Screen"
+msgstr ""
+
+msgctxt "#31910"
+msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
+msgstr ""
+
+msgctxt "#31911"
+msgid "Grid Overlay (Helpful for Skinning)"
+msgstr ""
+>>>>>>> Stashed changes

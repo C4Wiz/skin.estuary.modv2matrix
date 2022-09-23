@@ -2598,6 +2598,7 @@ msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr ""
 
+#: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
@@ -2827,4 +2828,8 @@ msgstr ""
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
+<<<<<<< Updated upstream
 msgstr ""
+=======
+msgstr ""
+>>>>>>> Stashed changes

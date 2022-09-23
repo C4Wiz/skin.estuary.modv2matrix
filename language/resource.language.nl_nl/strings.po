@@ -2527,3 +2527,249 @@ msgstr "Gebruik de volledige hoogte voor kanaal- en programma-OSD"
 msgctxt "#31619"
 msgid "Economica based"
 msgstr "Gebaseerd op Economica"
+<<<<<<< Updated upstream
+=======
+
+#. viewtype name
+#: /xml/View_510_Flix.xml
+msgctxt "#31620"
+msgid "Flix Landscape"
+msgstr ""
+
+#: Variables.xml (SkinSettings.xml)
+msgctxt "#31621"
+msgid "Visualization of the PVR and TV screen related settings."
+msgstr ""
+
+#: - Modified Start -
+#: DialogVideoInfo.xml
+msgctxt "#31800"
+msgid "Released"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31801"
+msgid "Debug Labels"
+msgstr ""
+
+msgctxt "#31802"
+msgid "Debug Grid"
+msgstr ""
+
+#: Custom_1137_SettingsFlags.xml
+msgctxt "#31803"
+msgid "Show Audio Language"
+msgstr ""
+
+msgctxt "#31804"
+msgid "Show Subtitle Language"
+msgstr ""
+
+msgctxt "#31805"
+msgid "Show IMDB Rating"
+msgstr ""
+
+msgctxt "#31806"
+msgid "Show TMDB Rating"
+msgstr ""
+
+msgctxt "#31807"
+msgid "Show TVDB Rating"
+msgstr ""
+
+msgctxt "#31808"
+msgid "Show Rotten Tomatoes Rating"
+msgstr ""
+
+msgctxt "#31809"
+msgid "Show Meta Critic Rating"
+msgstr ""
+
+msgctxt "#31810"
+msgid "Show Music Rating"
+msgstr ""
+
+msgctxt "#31811"
+msgid "Show My Rating"
+msgstr ""
+
+msgctxt "#31812"
+msgid "Show Video FPS"
+msgstr ""
+
+#: SkinSettings.xml
+msgctxt "#31820"
+msgid "Configure InfoDialog Data"
+msgstr ""
+
+#: Custom_1145_DialogInfoMetadata.xml
+msgctxt "#31821"
+msgid "Show Original Title"
+msgstr ""
+
+msgctxt "#31822"
+msgid "Show Writer"
+msgstr ""
+
+msgctxt "#31823"
+msgid "Show Country"
+msgstr ""
+
+msgctxt "#31824"
+msgid "Show Studio"
+msgstr ""
+
+msgctxt "#31825"
+msgid "Show Date Premiered"
+msgstr ""
+
+msgctxt "#31826"
+msgid "Show Date Next Aired"
+msgstr ""
+
+msgctxt "#31827"
+msgid "Show Date Latest Aired"
+msgstr ""
+
+msgctxt "#31828"
+msgid "Show Season/Episode"
+msgstr ""
+
+msgctxt "#31829"
+msgid "Show MPAA Rating"
+msgstr ""
+
+msgctxt "#31830"
+msgid "Show IMDB Rating"
+msgstr ""
+
+msgctxt "#31831"
+msgid "Show The Movie DB Rating"
+msgstr ""
+
+msgctxt "#31832"
+msgid "Show TMDB Rating"
+msgstr ""
+
+msgctxt "#31833"
+msgid "Show TVDB Rating"
+msgstr ""
+
+msgctxt "#31834"
+msgid "Show MetaCritic Rating"
+msgstr ""
+
+msgctxt "#31835"
+msgid "Show Rotten Tomatoes Rating"
+msgstr ""
+
+msgctxt "#31836"
+msgid "Show Ratings and Votes"
+msgstr ""
+
+msgctxt "#31837"
+msgid "Show Set"
+msgstr ""
+
+msgctxt "#31838"
+msgid "Show Tagline"
+msgstr ""
+
+msgctxt "#31839"
+msgid "Show Date Added"
+msgstr ""
+
+msgctxt "#31840"
+msgid "Show Filename and Path"
+msgstr ""
+
+#: Custom_1146_PowerMenu.xml, SkinSettings.xml
+msgctxt "#31850"
+msgid "Configure Power Menu"
+msgstr ""
+
+msgctxt "#31851"
+msgid "Show Power Off"
+msgstr ""
+
+msgctxt "#31852"
+msgid "Show Shutdown"
+msgstr ""
+
+msgctxt "#31853"
+msgid "Show Suspend"
+msgstr ""
+
+msgctxt "#31854"
+msgid "Show Hibernate"
+msgstr ""
+
+msgctxt "#31855"
+msgid "Show Shutdown Timer"
+msgstr ""
+
+msgctxt "#31856"
+msgid "Show Reboot from NAND (EMMC)"
+msgstr ""
+
+msgctxt "#31857"
+msgid "Show Exit"
+msgstr ""
+
+msgctxt "#31858"
+msgid "Show Reboot"
+msgstr ""
+
+msgctxt "#31859"
+msgid "Show Reload Skin"
+msgstr ""
+
+msgctxt "#31860"
+msgid "Show Restart KODI"
+msgstr ""
+
+msgctxt "#31861"
+msgid "Show Log Off"
+msgstr ""
+
+msgctxt "#31862"
+msgid "Show RPM Power Off"
+msgstr ""
+
+msgctxt "#31863"
+msgid "Reload Skin"
+msgstr ""
+
+#: Variables.xml (SkinSettingsHelpTextVar)
+msgctxt "#31901"
+msgid "Holidays Themes"
+msgstr ""
+
+msgctxt "#31903"
+msgid "Touch Screen Friendly Controls"
+msgstr ""
+
+msgctxt "#31904"
+msgid "Kiosk Mode locks view changes"
+msgstr ""
+
+msgctxt "#31906"
+msgid "Power Menu Layout Style"
+msgstr ""
+
+msgctxt "#31907"
+msgid "Configure the Power Menu Items to Display"
+msgstr ""
+
+msgctxt "#31909"
+msgid "Estuary MODv2 Splash Screen"
+msgstr ""
+
+msgctxt "#31910"
+msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
+msgstr ""
+
+msgctxt "#31911"
+msgid "Grid Overlay (Helpful for Skinning)"
+msgstr ""
+>>>>>>> Stashed changes
