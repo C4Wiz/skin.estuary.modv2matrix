@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: karlheinzgraf74@gmail.com\n"
 "POT-Creation-Date: 2017-05-05 20:02+2\n"
-"PO-Revision-Date: 2022-09-22 18:49+0000\n"
+"PO-Revision-Date: 2022-09-23 19:58+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/language/de/>\n"
+"skin-estuary-modv2/languages/de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2503,101 +2503,101 @@ msgstr "Flix Landscape"
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Visualisierung der PVR- und TV-Bildschirmeinstellungen."
 
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Veröffentlicht"
 
 #: SkinSettings.xml
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Debug-Labels"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Grid debuggen"
 
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Audiosprache anzeigen"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Untertitelsprache anzeigen"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB-Rating anzeigen"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "TMDB-Bewertung anzeigen"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB-Rating anzeigen"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Rotten Tomatoes-Bewertung anzeigen"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Meta Critic Rating anzeigen"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Musikbewertung anzeigen"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Meine Bewertung anzeigen"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Video-FPS anzeigen"
 
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "InfoDialog-Daten konfigurieren"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Originaltitel anzeigen"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Schriftsteller anzeigen"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Land anzeigen"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Studio zeigen"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Datum der Premiere anzeigen"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Datum der nächsten Ausstrahlung anzeigen"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Datum der letzten Ausstrahlung zeigen"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Staffel/Episode anzeigen"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
@@ -2605,134 +2605,134 @@ msgstr ""
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB-Rating anzeigen"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Show The Movie DB-Bewertung"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "TMDB-Bewertung anzeigen"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB-Rating anzeigen"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "MetaCritic-Bewertung anzeigen"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Rotten Tomatoes-Bewertung anzeigen"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Bewertungen und Stimmen anzeigen"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Satz anzeigen"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Slogan anzeigen"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Hinzugefügtes Datum anzeigen"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Dateiname und Pfad anzeigen"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Konfigurieren Sie das Power-Menü"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Ausschalten anzeigen"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Herunterfahren anzeigen"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Anhalten anzeigen"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Ruhezustand anzeigen"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Shutdown-Timer anzeigen"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Neustart von NAND (EMMC) anzeigen"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Ausgang anzeigen"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Neustart anzeigen"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Skin neu laden anzeigen"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "KODI neu starten anzeigen"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Abmelden anzeigen"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "RPM Ausschalten anzeigen"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Haut neu laden"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Feiertage Themen"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Touchscreen-freundliche Steuerung"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Der Kioskmodus sperrt Ansichtsänderungen"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Power-Menü-Layout-Stil"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Konfigurieren Sie die anzuzeigenden Power-Menü-Elemente"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Estuary MODv2 Startbildschirm"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
-msgstr ""
+msgstr "Debug-Labels, XML und Steuerelemente anzeigen (hilfreich für Skinning)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Rasterüberlagerung (hilfreich beim Skinning)"
