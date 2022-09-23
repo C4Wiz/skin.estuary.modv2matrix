@@ -281,7 +281,7 @@ msgstr "Přeskočení vpřed"
 
 #: /xml/Variables.xml
 msgctxt "#31055"
-msgid "Přeskočení vzad"
+msgid "Jump back"
 msgstr "Přeskočení vzad"
 
 #: /xml/MyMusicNav.xml /xml/MyVideoNav.xml
