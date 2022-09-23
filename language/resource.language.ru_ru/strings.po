@@ -2604,9 +2604,6 @@ msgstr "Эффект и гамма"
 msgctxt "#31612"
 msgid "Color Depth"
 msgstr "Глубина цвета"
-msgctxt "#31612"
-msgid "Color Depth"
-msgstr ""
 
 #: SkinSettings.xml
 msgctxt "#31613"

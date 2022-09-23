@@ -2280,8 +2280,6 @@ msgstr "Grupos de canais"
 msgctxt "#31551"
 msgid "German Telecast Offers"
 msgstr "German Telecast Offers"
-<<<<<<< Updated upstream
-=======
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"

@@ -2282,8 +2282,6 @@ msgstr "Rôle dans la série TV"
 msgctxt "#31514"
 msgid "Crew member in TV show"
 msgstr "Membre d'équipe dans la série TV"
-<<<<<<< Updated upstream
-=======
 
 #: /xml/SkinSettings.xml
 msgctxt "#31515"

@@ -2527,8 +2527,6 @@ msgstr "Gebruik de volledige hoogte voor kanaal- en programma-OSD"
 msgctxt "#31619"
 msgid "Economica based"
 msgstr "Gebaseerd op Economica"
-<<<<<<< Updated upstream
-=======
 
 #. viewtype name
 #: /xml/View_510_Flix.xml

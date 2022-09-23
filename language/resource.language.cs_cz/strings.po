@@ -2281,8 +2281,6 @@ msgstr "Role v seriálu"
 msgctxt "#31514"
 msgid "Crew member in TV show"
 msgstr "Člen štábu ve filmu"
-<<<<<<< Updated upstream
-=======
 
 #: /xml/SkinSettings.xml
 msgctxt "#31515"

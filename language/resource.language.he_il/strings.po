@@ -2048,8 +2048,6 @@ msgstr ""
 msgctxt "#31472"
 msgid "Valentine's Day Theme"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 
 #: /xml/Includes_MediaMenu.xml
 msgctxt "#31473"

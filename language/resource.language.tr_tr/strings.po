@@ -2127,8 +2127,6 @@ msgstr "Derecelendirmelerim metin rengi"
 msgctxt "#31484"
 msgid "Loading..."
 msgstr "Yükleniyor..."
-<<<<<<< Updated upstream
-=======
 
 #: /xml/SkinSettings.xml
 msgctxt "#31485"
