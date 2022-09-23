@@ -1318,7 +1318,7 @@ msgstr ""
 
 #: /xml/Variables.xml
 msgctxt "#31318"
-msgid "Additional settings"
+msgid "Additional settings."
 msgstr ""
 
 #: /xml/SkinSettings.xml
@@ -2593,16 +2593,14 @@ msgctxt "#31619"
 msgid "Economica based"
 msgstr ""
 
-#: viewtype name
+#. viewtype name
 #: /xml/View_510_Flix.xml
 
 msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
-
-#: Variables.xml
-#: SkinSettings.xml
+#: Variables.xml (SkinSettings.xml)
 
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
@@ -2611,6 +2609,7 @@ msgstr ""
 #: - Modified Start -
 
 #: DialogVideoInfo.xml
+
 msgctxt "#31800"
 msgid "Released"
 msgstr ""
@@ -2625,7 +2624,7 @@ msgctxt "#31802"
 msgid "Debug Grid"
 msgstr ""
 
-#: /xml/Custom_1137_SettingsFlags.xml
+#: Custom_1137_SettingsFlags.xml
 
 msgctxt "#31803"
 msgid "Show Audio Language"
@@ -2667,13 +2666,13 @@ msgctxt "#31812"
 msgid "Show Video FPS"
 msgstr ""
 
-#: /xml/SkinSettings.xml
+#: SkinSettings.xml
 
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
 msgstr ""
 
-#: /xml/Custom_1145_DialogInfoMetadata.xml
+#: Custom_1145_DialogInfoMetadata.xml
 
 msgctxt "#31821"
 msgid "Show Original Title"
@@ -2813,7 +2812,7 @@ msgctxt "#31863"
 msgid "Reload Skin"
 msgstr ""
 
-#: Variables.xml-SkinSettingsHelpTextVar
+#: Variables.xml (SkinSettingsHelpTextVar)
 
 msgctxt "#31901"
 msgid "Holidays Themes"
