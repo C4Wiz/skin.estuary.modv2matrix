@@ -2828,8 +2828,5 @@ msgstr ""
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-<<<<<<< Updated upstream
 msgstr ""
-=======
-msgstr ""
->>>>>>> Stashed changes
+
