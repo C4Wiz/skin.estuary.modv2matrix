@@ -2542,7 +2542,6 @@ msgid "Show PVR Channel Status"
 msgstr ""
 
 #: DialogPlayerProcessInfo
-
 msgctxt "#31610"
 msgid "Display Mode"
 msgstr ""
@@ -2556,7 +2555,6 @@ msgid "Color Depth"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31613"
 msgid "Display Media Time"
 msgstr ""
@@ -2570,52 +2568,42 @@ msgid "Remaining Time"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31616"
 msgid "Use Background for PVR Channel Icons"
 msgstr ""
 
 #: Custom_1127_settingsTVWidgets.xml
-
 msgctxt "#31617"
 msgid "Saved Search Results"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31618"
 msgid "Use full Height for Channel and Program OSD"
 msgstr ""
 
 #: Font.xml
-
 msgctxt "#31619"
 msgid "Economica based"
 msgstr ""
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
-
 msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
 #: Variables.xml (SkinSettings.xml)
-
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr ""
 
-#: - Modified Start -
-
 #: DialogVideoInfo.xml
-
 msgctxt "#31800"
 msgid "Released"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31801"
 msgid "Debug Labels"
 msgstr ""
@@ -2625,7 +2613,6 @@ msgid "Debug Grid"
 msgstr ""
 
 #: Custom_1137_SettingsFlags.xml
-
 msgctxt "#31803"
 msgid "Show Audio Language"
 msgstr ""
@@ -2667,13 +2654,11 @@ msgid "Show Video FPS"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
 msgstr ""
 
 #: Custom_1145_DialogInfoMetadata.xml
-
 msgctxt "#31821"
 msgid "Show Original Title"
 msgstr ""
@@ -2755,7 +2740,6 @@ msgid "Show Filename and Path"
 msgstr ""
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
-
 msgctxt "#31850"
 msgid "Configure Power Menu"
 msgstr ""
@@ -2813,7 +2797,6 @@ msgid "Reload Skin"
 msgstr ""
 
 #: Variables.xml (SkinSettingsHelpTextVar)
-
 msgctxt "#31901"
 msgid "Holidays Themes"
 msgstr ""
