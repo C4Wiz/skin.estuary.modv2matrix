@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-23 19:58+0000\n"
+"PO-Revision-Date: 2022-09-23 20:09+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/skin-estuary-modv2/"
 "languages/cs/>\n"
@@ -22,22 +22,22 @@ msgstr ""
 #: /xml/Home.xml /xml/DialogSeekBar.xml
 msgctxt "#31000"
 msgid "Now playing"
-msgstr "Přehrává se"
+msgstr "Nyní hraje"
 
 #: /xml/Home.xml
 msgctxt "#31001"
 msgid "Search..."
-msgstr "Hledat..."
+msgstr "Vyhledávání..."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Zobrazit fanart médií jako pozadí"
+msgstr "Zobrazit mediální fanart jako pozadí"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31003"
 msgid "Cinema mode"
-msgstr "Režim kino"
+msgstr "Režim Kino"
 
 #: /xml/VideoOSD.xml
 msgctxt "#31004"
@@ -47,7 +47,7 @@ msgstr "Změnit režim"
 #: /xml/VideoOSD.xml
 msgctxt "#31005"
 msgid "Watch as 2D"
-msgstr "Sledovat jako 2D"
+msgstr "Sledujte jako 2D"
 
 #: /xml/Home.xml
 msgctxt "#31006"
@@ -57,7 +57,7 @@ msgstr "Náhodné filmy"
 #: /xml/Home.xml
 msgctxt "#31007"
 msgid "Unwatched movies"
-msgstr "Nezhlédnuté filmy"
+msgstr "Nesledované filmy"
 
 #: Missing string 31108 
 #: I'm not sure if this is the right one (Pavuucek)
@@ -69,17 +69,17 @@ msgstr "Povolit widgety kategorií"
 #: /xml/MyVideoNav.xml
 msgctxt "#31009"
 msgid "Download icons"
-msgstr "Stáhnout ikony"
+msgstr "Stáhněte si ikony"
 
 #: /xml/Home.xml
 msgctxt "#31010"
 msgid "In progress movies"
-msgstr "Nedokoukané filmy"
+msgstr "Probíhající filmy"
 
 #: /xml/Home.xml
 msgctxt "#31011"
 msgid "Most played albums"
-msgstr "Nejpřehrávanější alba"
+msgstr "Nejhranější alba"
 
 #: /xml/Home.xml
 msgctxt "#31012"
@@ -89,7 +89,7 @@ msgstr "Náhodná alba"
 #: /xml/Home.xml
 msgctxt "#31013"
 msgid "Random artists"
-msgstr "Náhodní interpreti"
+msgstr "Náhodní umělci"
 
 #: /xml/Home.xml
 msgctxt "#31014"
@@ -106,18 +106,18 @@ msgstr "Nedávné nahrávky"
 #: /xml/Home.xml
 msgctxt "#31016"
 msgid "Recently played channels"
-msgstr "Nedávno sledované kanály"
+msgstr "Nedávno přehrávané kanály"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31017"
 msgid "Rated"
-msgstr "Certifikace"
+msgstr "Hodnocené"
 
 #. home screen channel widget: recently played radio channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
 #: /xml/Home.xml
 msgctxt "#31018"
 msgid "Recently played channels"
-msgstr "Nedávno sledované programy"
+msgstr "Nedávno přehrávané kanály"
 
 #: /xml/Home.xml /xml/MyWeather.xml
 msgctxt "#31019"
