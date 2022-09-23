@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-23 12:06+0000\n"
+"PO-Revision-Date: 2022-09-23 19:58+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2-languages/languages/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/skin-estuary-modv2/"
+"languages/cs/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2285,536 +2285,540 @@ msgstr "Člen štábu ve filmu"
 #: /xml/SkinSettings.xml
 msgctxt "#31515"
 msgid "Palm Week"
-msgstr ""
+msgstr "Palmový týden"
 
 msgctxt "#31550"
 msgid "Channel groups"
-msgstr ""
+msgstr "Skupiny kanálů"
 
 msgctxt "#31551"
 msgid "German Telecast Offers"
-msgstr ""
+msgstr "Německé televizní nabídky"
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
-msgstr ""
+msgstr "Platí také pro loga rádií a internetových stanic"
 
 msgctxt "#31553"
 msgid "Use poster view for music video widgets"
-msgstr ""
+msgstr "Pro widgety hudebních videí použijte zobrazení plakátu"
 
 msgctxt "#31554"
 msgid "Show year of publication in title"
-msgstr ""
+msgstr "Zobrazit rok vydání v názvu"
 
 msgctxt "#31555"
 msgid "Optional icons and fanart packs"
-msgstr ""
+msgstr "Volitelné ikony a balíčky fanartů"
 
 msgctxt "#31556"
 msgid "Reboot from NAND (Android)"
-msgstr ""
+msgstr "Restartování z NAND (Android)"
 
 msgctxt "#31557"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Restartujte Kodi"
 
 msgctxt "#31558"
 msgid "Addon-ID"
-msgstr ""
+msgstr "Addon-ID"
 
 msgctxt "#31559"
 msgid "Platform"
-msgstr ""
+msgstr "Plošina"
 
 msgctxt "#31560"
 msgid "Forced Views"
-msgstr ""
+msgstr "Vynucené pohledy"
 
 msgctxt "#31561"
 msgid "Show PVR related Artworks"
-msgstr ""
+msgstr "Zobrazit umělecká díla související s PVR"
 
 msgctxt "#31562"
 msgid "PVR Artwork Configuration"
-msgstr ""
+msgstr "Konfigurace PVR Artwork"
 
 msgctxt "#31563"
 msgid "Show date"
-msgstr ""
+msgstr "Zobrazit datum"
 
 msgctxt "#31564"
 msgid "Top Bar"
-msgstr ""
+msgstr "Horní lišta"
 
 msgctxt "#31565"
 msgid "Bottom Bar"
-msgstr ""
+msgstr "Spodní lišta"
 
 msgctxt "#31566"
 msgid "Media"
-msgstr ""
+msgstr "Média"
 
 msgctxt "#31567"
 msgid "Kodi/Distribution Logo"
-msgstr ""
+msgstr "Logo Kodi/Distribution"
 
 msgctxt "#31568"
 msgid "LibreELEC"
-msgstr ""
+msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
-msgstr ""
+msgstr "CoreELEC"
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
-msgstr ""
+msgstr "Zobrazit rozšířenou nabídku napájení"
 
 msgctxt "#31571"
 msgid "Prefer Fanart in EPG preview window if available"
-msgstr ""
+msgstr "Preferujte Fanart v okně náhledu EPG, pokud je k dispozici"
 
 msgctxt "#31572"
 msgid "Upcoming episodes"
-msgstr ""
+msgstr "Nadcházející epizody"
 
 msgctxt "#31573"
 msgid "Show MPAA rating"
-msgstr ""
+msgstr "Zobrazit hodnocení MPAA"
 
 msgctxt "#31574"
 msgid "(until "
-msgstr ""
+msgstr "(dokud "
 
 msgctxt "#31575"
 msgid "Show Color Depth"
-msgstr ""
+msgstr "Zobrazit barevnou hloubku"
 
 msgctxt "#31576"
 msgid "Show additional Infos within the PVR widgets"
-msgstr ""
+msgstr "Zobrazit další informace v rámci widgetů PVR"
 
 msgctxt "#31577"
 msgid "Close Video OSD automatically after"
-msgstr ""
+msgstr "Poté automaticky zavřete Video OSD"
 
 msgctxt "#31578"
 msgid "disabled"
-msgstr ""
+msgstr "zakázáno"
 
 msgctxt "#31580"
 msgid "3 seconds"
-msgstr ""
+msgstr "3 sekundy"
 
 msgctxt "#31581"
 msgid "5 seconds"
-msgstr ""
+msgstr "5 sekund"
 
 msgctxt "#31582"
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sekund"
 
 msgctxt "#31583"
 msgid "10 seconds"
-msgstr ""
+msgstr "10 sekund"
 
 msgctxt "#31584"
 msgid "15 seconds"
-msgstr ""
+msgstr "15 sekund"
 
 msgctxt "#31585"
 msgid "Show Channel Numbers"
-msgstr ""
+msgstr "Zobrazit čísla kanálů"
 
 msgctxt "#31586"
 msgid "Show Date of First aired"
-msgstr ""
+msgstr "Datum prvního vysílání pořadu"
 
 msgctxt "#31587"
 msgid "Item Path of Picture Widgets"
-msgstr ""
+msgstr "Položka Cesta obrázkových widgetů"
 
 msgctxt "#31588"
 msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
-msgstr ""
+msgstr "Výchozí akce na widgetech \"Film\" a \"TV pořad"
 
 msgctxt "#31589"
 msgid "Play Item"
-msgstr ""
+msgstr "Přehrát položku"
 
 msgctxt "#31590"
 msgid "Show Info"
-msgstr ""
+msgstr "Zobrazit informace"
 
 msgctxt "#31591"
 msgid "Sort Order"
-msgstr ""
+msgstr "Pořadí řazení"
 
 msgctxt "#31592"
 msgid "Show Path Navigation (Breadcrumbs) in List Views"
-msgstr ""
+msgstr "Zobrazit navigaci po cestě (drobečková navigace) v zobrazeních seznamu"
 
 msgctxt "#31593"
 msgid "Show only 'current item / item count' Information"
-msgstr ""
+msgstr "Zobrazit pouze informace 'aktuální položka / počet položek'"
 
 msgctxt "#31594"
 msgid "Set Animated Poster"
-msgstr ""
+msgstr "Nastavte animovaný plakát"
 
 msgctxt "#31595"
 msgid "Remove Animated Poster"
-msgstr ""
+msgstr "Odebrat animovaný plakát"
 
 msgctxt "#31596"
 msgid "Animated Poster removed"
-msgstr ""
+msgstr "Animovaný plakát odstraněn"
 
 msgctxt "#31597"
 msgid "Animated Poster added"
-msgstr ""
+msgstr "Přidán animovaný plakát"
 
 msgctxt "#31598"
 msgid "Local Path to animated Poster Folder"
-msgstr ""
+msgstr "Místní cesta ke složce animovaného plakátu"
 
 msgctxt "#31599"
 msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
 msgstr ""
+"Složka animované sbírky plakátů zatím nebyla definována. Definujte složku v "
+"místním systému souborů obsahující animované plakáty v nastavení vzhledu."
 
 msgctxt "#31600"
 msgid "Could not assign animated Poster"
-msgstr ""
+msgstr "Nepodařilo se přiřadit animovaný plakát"
 
 msgctxt "#31601"
 msgid "Hit Probability: "
-msgstr ""
+msgstr "Pravděpodobnost zásahu: "
 
 #: SkinSettings.xml
 msgctxt "#31602"
 msgid "'Rotten Tomatoes' Rating Category"
-msgstr ""
+msgstr "Kategorie hodnocení 'Rotten Tomatoes'"
 
 #: SkinSettings.xml
 msgctxt "#31603"
 msgid "Tomatometer all Critics"
-msgstr ""
+msgstr "Tomatometr všech kritiků"
 
 #: SkinSettings.xml
 msgctxt "#31604"
 msgid "Tomatometer average Critics"
-msgstr ""
+msgstr "Tomatometr průměrné kritiky"
 
 #: SkinSettings.xml
 msgctxt "#31605"
 msgid "Tomatometer all Audience"
-msgstr ""
+msgstr "Tomatometr všem divákům"
 
 #: SkinSettings.xml
 msgctxt "#31606"
 msgid "Tomatometer average Audience"
-msgstr ""
+msgstr "Tomatometr průměrné publikum"
 
 #: SkinSettings.xml
 msgctxt "#31607"
 msgid "Use simplified Video OSD Navigation"
-msgstr ""
+msgstr "Použijte zjednodušenou video OSD navigaci"
 
 msgctxt "#31608"
 msgid "Previous seen Channel"
-msgstr ""
+msgstr "Dříve viděný kanál"
 
 #: Includes_MediaMenu.xml
 msgctxt "#31609"
 msgid "Show PVR Channel Status"
-msgstr ""
+msgstr "Zobrazit stav kanálu PVR"
 
 #: DialogPlayerProcessInfo
 msgctxt "#31610"
 msgid "Display Mode"
-msgstr ""
+msgstr "Zobrazovací mód"
 
 msgctxt "#31611"
 msgid "Eoft & Gamut"
-msgstr ""
+msgstr "Eoft & Gamut"
 
 msgctxt "#31612"
 msgid "Color Depth"
-msgstr ""
+msgstr "Barevná hloubka"
 
 #: SkinSettings.xml
 msgctxt "#31613"
 msgid "Display Media Time"
-msgstr ""
+msgstr "Zobrazení času médií"
 
 msgctxt "#31614"
 msgid "current Time / total Time"
-msgstr ""
+msgstr "aktuální čas / celkový čas"
 
 msgctxt "#31615"
 msgid "Remaining Time"
-msgstr ""
+msgstr "Zbývající čas"
 
 #: SkinSettings.xml
 msgctxt "#31616"
 msgid "Use Background for PVR Channel Icons"
-msgstr ""
+msgstr "Použít pozadí pro ikony kanálů PVR"
 
 #: Custom_1127_settingsTVWidgets.xml
 msgctxt "#31617"
 msgid "Saved Search Results"
-msgstr ""
+msgstr "Uložené výsledky hledání"
 
 #: SkinSettings.xml
 msgctxt "#31618"
 msgid "Use full Height for Channel and Program OSD"
-msgstr ""
+msgstr "Použijte plnou výšku pro Channel a Program OSD"
 
 #: Font.xml
 msgctxt "#31619"
 msgid "Economica based"
-msgstr ""
+msgstr "Ekonomický základ"
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Krajina Flix"
 
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Vizualizace nastavení souvisejících s PVR a TV obrazovkou."
 
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Vydáno"
 
 #: SkinSettings.xml
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Ladit štítky"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Ladit mřížku"
 
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Zobrazit jazyk zvuku"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Zobrazit jazyk titulků"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení IMDB"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení TMDB"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení TVDB"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení Rotten Tomatoes"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení meta kritiky"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení hudby"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Zobrazit mé hodnocení"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Zobrazit video FPS"
 
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Nakonfigurujte data InfoDialog"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Zobrazit původní název"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Zobrazit Spisovatel"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Zobrazit zemi"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Zobrazit Studio"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Datum premiéry pořadu"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Zobrazit datum další vysílání"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Zobrazit datum Nejnovější vysílání"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Zobrazit sezónu/epizodu"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení MPAA"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení IMDB"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Zobrazit filmové hodnocení DB"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení TMDB"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení TVDB"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "Zobrazit metakritické hodnocení"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Zobrazit hodnocení Rotten Tomatoes"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Zobrazit hodnocení a hlasy"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Zobrazit sadu"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Zobrazit slogan"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Zobrazit datum přidání"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Zobrazit název souboru a cestu"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Konfigurace nabídky napájení"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Zobrazit Vypnout"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Zobrazit vypnutí"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Zobrazit pozastavení"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Zobrazit režim spánku"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Zobrazit časovač vypnutí"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Zobrazit restart z NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Zobrazit Konec"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Zobrazit restart"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Zobrazit Znovu načíst vzhled"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "Zobrazit Restartovat KODI"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Zobrazit odhlášení"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "Zobrazit RPM Power Off"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Znovu načíst vzhled"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Témata svátků"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Příjemné ovládání s dotykovou obrazovkou"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Kiosk Mode uzamkne změny zobrazení"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Styl rozložení nabídky napájení"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Nakonfigurujte položky nabídky napájení, které se mají zobrazovat"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Úvodní obrazovka ústí MODv2"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
 msgstr ""
+"Ladění štítků, zobrazení xml a ovládacích prvků (užitečné pro stahování z "
+"kůže)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Překryvná mřížka (užitečné při stahování z kůže)"
