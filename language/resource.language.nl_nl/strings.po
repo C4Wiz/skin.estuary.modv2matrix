@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-23 20:03+0000\n"
+"PO-Revision-Date: 2022-09-24 12:24+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/skin-estuary-modv2/"
-"languages/nl/>\n"
+"glossary/nl/>\n"
 "Language: nl_nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1323,7 +1323,7 @@ msgstr "Extra instellingen"
 #: /xml/SkinSettings.xml
 msgctxt "#31319"
 msgid "Show, add and remove animated posters"
-msgstr ""
+msgstr "Geanimeerde posters weergeven, toevoegen en verwijderen"
 
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#31320"
@@ -2052,27 +2052,27 @@ msgstr "Scope-modus voor instelling van constante beeldhoogte (CIH)"
 #: /xml/SkinSettings.xml
 msgctxt "#31475"
 msgid "2:35:1 (1920x817)"
-msgstr ""
+msgstr "2:35:1 (1920x817)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31476"
 msgid "2:40:1 (1920x800)"
-msgstr ""
+msgstr "2:40:1 (1920x800)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31477"
 msgid "1:77:1 (1920x1080)"
-msgstr ""
+msgstr "1:77:1 (1920x1080)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31478"
 msgid "1:85:1 (1920x1038)"
-msgstr ""
+msgstr "1:85:1 (1920x1038)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31479"
 msgid "2:37:1 (1920x810)"
-msgstr ""
+msgstr "2:37:1 (1920x810)"
 
 #: /xml/Variables.xml
 msgctxt "#31480"
@@ -2534,7 +2534,7 @@ msgstr "Gebaseerd op Economica"
 #: /xml/View_510_Flix.xml
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Flix Landschap"
 
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
@@ -2545,16 +2545,16 @@ msgstr ""
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Uitgegeven"
 
 #: SkinSettings.xml
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Foutopsporingslabels"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Foutopsporingsraster"
 
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
@@ -2567,7 +2567,7 @@ msgstr ""
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB-beoordeling weergeven"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
@@ -2579,19 +2579,19 @@ msgstr ""
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Rotten Tomatoes-beoordeling weergeven"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Meta Critic-beoordeling weergeven"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Muziekbeoordeling weergeven"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Toon mijn beoordeling"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
@@ -2600,12 +2600,12 @@ msgstr ""
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "InfoDialog-gegevens configureren"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Originele titel weergeven"
 
 msgctxt "#31822"
 msgid "Show Writer"
@@ -2621,27 +2621,27 @@ msgstr ""
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Datum première weergeven"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Datum weergeven Volgende uitzending"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Datum laatste uitzending weergeven"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Seizoen/aflevering weergeven"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "MPAA-beoordeling weergeven"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB-beoordeling weergeven"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
@@ -2657,19 +2657,19 @@ msgstr ""
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "MetaCritic-beoordeling weergeven"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Rotten Tomatoes-beoordeling weergeven"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Toon beoordelingen en stemmen"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Toon set"
 
 msgctxt "#31838"
 msgid "Show Tagline"
@@ -2681,16 +2681,16 @@ msgstr ""
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Bestandsnaam en pad weergeven"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Voedingsmenu configureren"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Uitschakelen weergeven"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
@@ -2702,7 +2702,7 @@ msgstr ""
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Slaapstand weergeven"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
@@ -2710,40 +2710,40 @@ msgstr ""
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Weergeven Opnieuw opstarten vanuit NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Toon Afsluiten"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Opnieuw opstarten weergeven"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Huid opnieuw laden weergeven"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "Toon Herstart KODI"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Afmelden weergeven"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "Toon RPM Uitgeschakeld"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Huid opnieuw laden"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Feestdagen Thema's"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
@@ -2751,7 +2751,7 @@ msgstr ""
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Kioskmodus vergrendelt weergavewijzigingen"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
@@ -2759,16 +2759,17 @@ msgstr ""
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Configureer de Power Menu-items om weer te geven"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Estuary MODv2 Opstartscherm"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
 msgstr ""
+"Debug-labels, xml en besturingselementen weergeven (handig voor skinning)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Rasteroverlay (handig voor villen)"
