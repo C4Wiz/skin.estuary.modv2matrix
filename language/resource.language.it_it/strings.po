@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-24 12:24+0000\n"
+"PO-Revision-Date: 2022-09-24 12:29+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/languages/it/>\n"
+"skin-estuary-modv2/glossary/it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2716,7 +2716,7 @@ msgstr "Mostra Studio"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Mostra la data di anteprima"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
@@ -2776,16 +2776,16 @@ msgstr "Mostra data aggiunta"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Mostra nome file e percorso"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Configura il menu di alimentazione"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Mostra Spegnimento"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
@@ -2797,7 +2797,7 @@ msgstr ""
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Mostra Ibernazione"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
@@ -2805,15 +2805,15 @@ msgstr ""
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Mostra Riavvio da NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Mostra Esci"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Mostra Riavvio"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
@@ -2825,7 +2825,7 @@ msgstr ""
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Mostra Disconnessione"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
@@ -2833,12 +2833,12 @@ msgstr ""
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Ricarica la pelle"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Temi delle feste"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
@@ -2846,15 +2846,15 @@ msgstr ""
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "La modalità Kiosk blocca le modifiche alla visualizzazione"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Stile di layout del menu di alimentazione"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Configura le voci del menu di alimentazione da visualizzare"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
@@ -2866,4 +2866,4 @@ msgstr ""
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Sovrapposizione griglia (utile per lo skinning)"
