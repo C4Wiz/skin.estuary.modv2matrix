@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-22 18:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-09-24 15:16+0000\n"
+"Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/language/pl/>\n"
+"skin-estuary-modv2/glossary/pl/>\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1343,7 +1343,7 @@ msgstr "Ustawienia dodatkowe."
 #: /xml/SkinSettings.xml
 msgctxt "#31319"
 msgid "Show, add and remove animated posters"
-msgstr ""
+msgstr "Pokazuj, dodawaj i usuwaj animowane plakaty"
 
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#31320"
@@ -2225,7 +2225,7 @@ msgstr "Utwory z albumu"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#31504"
 msgid "Press [B]OK[/B] to show back thumb"
-msgstr ""
+msgstr "Naciśnij [B]OK[/B], aby wyświetlić wsteczny kciuk"
 
 #: /xml/script-script.extendedinfo-DialogVideoInfo.xml
 msgctxt "#31505"
@@ -2280,552 +2280,539 @@ msgstr "Członek zespołu w serialu"
 #: /xml/SkinSettings.xml
 msgctxt "#31515"
 msgid "Palm Week"
-msgstr ""
+msgstr "Tydzień Palmowy"
 
 msgctxt "#31550"
 msgid "Channel groups"
-msgstr ""
+msgstr "Grupy kanałów"
 
 msgctxt "#31551"
 msgid "German Telecast Offers"
-msgstr ""
+msgstr "Niemieckie oferty telewizyjne"
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
-msgstr ""
+msgstr "Zastosuj również do logo stacji radiowych i internetowych"
 
 msgctxt "#31553"
 msgid "Use poster view for music video widgets"
-msgstr ""
+msgstr "Użyj widoku plakatu dla widżetów teledysków"
 
 msgctxt "#31554"
 msgid "Show year of publication in title"
-msgstr ""
+msgstr "Pokaż rok publikacji w tytule"
 
 msgctxt "#31555"
 msgid "Optional icons and fanart packs"
-msgstr ""
+msgstr "Opcjonalne ikony i pakiety fanartów"
 
 msgctxt "#31556"
 msgid "Reboot from NAND (Android)"
-msgstr ""
+msgstr "Uruchom ponownie z NAND (Android)"
 
 msgctxt "#31557"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Uruchom ponownie Kodi"
 
 msgctxt "#31558"
 msgid "Addon-ID"
-msgstr ""
+msgstr "Identyfikator dodatku"
 
 msgctxt "#31559"
 msgid "Platform"
-msgstr ""
+msgstr "Platforma"
 
 msgctxt "#31560"
 msgid "Forced Views"
-msgstr ""
+msgstr "Wymuszone widoki"
 
 msgctxt "#31561"
 msgid "Show PVR related Artworks"
-msgstr ""
+msgstr "Pokaż dzieła związane z PVR"
 
 msgctxt "#31562"
 msgid "PVR Artwork Configuration"
-msgstr ""
+msgstr "Konfiguracja grafiki PVR"
 
 msgctxt "#31563"
 msgid "Show date"
-msgstr ""
+msgstr "Pokaż datę"
 
 msgctxt "#31564"
 msgid "Top Bar"
-msgstr ""
+msgstr "Górny pasek"
 
 msgctxt "#31565"
 msgid "Bottom Bar"
-msgstr ""
+msgstr "Dolny pasek"
 
 msgctxt "#31566"
 msgid "Media"
-msgstr ""
+msgstr "Głoska bezdźwięczna"
 
 msgctxt "#31567"
 msgid "Kodi/Distribution Logo"
-msgstr ""
+msgstr "Logo Kodi/dystrybucji"
 
 msgctxt "#31568"
 msgid "LibreELEC"
-msgstr ""
+msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
-msgstr ""
+msgstr "CoreELEC"
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
-msgstr ""
+msgstr "Pokaż rozszerzone menu zasilania"
 
 msgctxt "#31571"
 msgid "Prefer Fanart in EPG preview window if available"
-msgstr ""
+msgstr "Preferuj Fanart w oknie podglądu EPG, jeśli jest dostępny"
 
 msgctxt "#31572"
 msgid "Upcoming episodes"
-msgstr ""
+msgstr "Nadchodzące odcinki"
 
 msgctxt "#31573"
 msgid "Show MPAA rating"
-msgstr ""
+msgstr "Pokaż ocenę MPAA"
 
 msgctxt "#31574"
 msgid "(until "
-msgstr ""
+msgstr "(aż do "
 
 msgctxt "#31575"
 msgid "Show Color Depth"
-msgstr ""
+msgstr "Pokaż głębię kolorów"
 
 msgctxt "#31576"
 msgid "Show additional Infos within the PVR widgets"
-msgstr ""
+msgstr "Pokaż dodatkowe informacje w widżetach PVR"
 
 msgctxt "#31577"
 msgid "Close Video OSD automatically after"
-msgstr ""
+msgstr "Zamknij wideo OSD automatycznie po"
 
 msgctxt "#31578"
 msgid "disabled"
-msgstr ""
+msgstr "wyłączone"
 
 msgctxt "#31580"
 msgid "3 seconds"
-msgstr ""
+msgstr "3 sekundy"
 
 msgctxt "#31581"
 msgid "5 seconds"
-msgstr ""
+msgstr "5 sekund"
 
 msgctxt "#31582"
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sekund"
 
 msgctxt "#31583"
 msgid "10 seconds"
-msgstr ""
+msgstr "10 sekund"
 
 msgctxt "#31584"
 msgid "15 seconds"
-msgstr ""
+msgstr "15 sekund"
 
 msgctxt "#31585"
 msgid "Show Channel Numbers"
-msgstr ""
+msgstr "Pokaż numery kanałów"
 
 msgctxt "#31586"
 msgid "Show Date of First aired"
-msgstr ""
+msgstr "Pokaż datę pierwszego wyemitowania"
 
 msgctxt "#31587"
 msgid "Item Path of Picture Widgets"
-msgstr ""
+msgstr "Ścieżka pozycji widżetów obrazkowych"
 
 msgctxt "#31588"
 msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
-msgstr ""
+msgstr "Domyślna akcja na widżetach „Film” i „Program telewizyjny”"
 
 msgctxt "#31589"
 msgid "Play Item"
-msgstr ""
+msgstr "Odtwórz przedmiot"
 
 msgctxt "#31590"
 msgid "Show Info"
-msgstr ""
+msgstr "Pokaż informacje"
 
 msgctxt "#31591"
 msgid "Sort Order"
-msgstr ""
+msgstr "Porządek sortowania"
 
 msgctxt "#31592"
 msgid "Show Path Navigation (Breadcrumbs) in List Views"
-msgstr ""
+msgstr "Pokaż nawigację po ścieżce (okruszki chleba) w widokach list"
 
 msgctxt "#31593"
 msgid "Show only 'current item / item count' Information"
-msgstr ""
+msgstr "Pokaż tylko informacje o 'bieżącej pozycji / liczbie pozycji'"
 
 msgctxt "#31594"
 msgid "Set Animated Poster"
-msgstr ""
+msgstr "Ustaw animowany plakat"
 
 msgctxt "#31595"
 msgid "Remove Animated Poster"
-msgstr ""
+msgstr "Usuń animowany plakat"
 
 msgctxt "#31596"
 msgid "Animated Poster removed"
-msgstr ""
+msgstr "Usunięto animowany plakat"
 
 msgctxt "#31597"
 msgid "Animated Poster added"
-msgstr ""
+msgstr "Dodano animowany plakat"
 
 msgctxt "#31598"
 msgid "Local Path to animated Poster Folder"
-msgstr ""
+msgstr "Lokalna ścieżka do animowanego folderu z plakatami"
 
 msgctxt "#31599"
 msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
 msgstr ""
+"Folder animowanej kolekcji plakatów nie został jeszcze zdefiniowany. "
+"Zdefiniuj folder w lokalnym systemie plików zawierający animowane plakaty w "
+"ustawieniach skóry."
 
 msgctxt "#31600"
 msgid "Could not assign animated Poster"
-msgstr ""
+msgstr "Nie można przypisać animowanego plakatu"
 
 msgctxt "#31601"
 msgid "Hit Probability: "
-msgstr ""
+msgstr "Prawdopodobieństwo trafienia: "
 
 #: SkinSettings.xml
 msgctxt "#31602"
 msgid "'Rotten Tomatoes' Rating Category"
-msgstr ""
+msgstr "Kategoria oceny „Zgniłe pomidory”"
 
 #: SkinSettings.xml
 msgctxt "#31603"
 msgid "Tomatometer all Critics"
-msgstr ""
+msgstr "Tomometr wszyscy krytycy"
 
 #: SkinSettings.xml
 msgctxt "#31604"
 msgid "Tomatometer average Critics"
-msgstr ""
+msgstr "Średnia z tomometru Krytycy"
 
 #: SkinSettings.xml
 msgctxt "#31605"
 msgid "Tomatometer all Audience"
-msgstr ""
+msgstr "Tomometr dla wszystkich odbiorców"
 
 #: SkinSettings.xml
 msgctxt "#31606"
 msgid "Tomatometer average Audience"
-msgstr ""
+msgstr "Średnia publiczność Tomometru"
 
 #: SkinSettings.xml
 msgctxt "#31607"
 msgid "Use simplified Video OSD Navigation"
-msgstr ""
+msgstr "Użyj uproszczonej nawigacji wideo OSD"
 
 msgctxt "#31608"
 msgid "Previous seen Channel"
-msgstr ""
+msgstr "Poprzednio widziany kanał"
 
 #: Includes_MediaMenu.xml
 msgctxt "#31609"
 msgid "Show PVR Channel Status"
-msgstr ""
+msgstr "Pokaż status kanału PVR"
 
 #: DialogPlayerProcessInfo
-
 msgctxt "#31610"
 msgid "Display Mode"
-msgstr ""
+msgstr "Tryb wyświetlania"
 
 msgctxt "#31611"
 msgid "Eoft & Gamut"
-msgstr ""
+msgstr "Eoft i gamut"
 
 msgctxt "#31612"
 msgid "Color Depth"
-msgstr ""
+msgstr "Głębia koloru"
 
 #: SkinSettings.xml
-
 msgctxt "#31613"
 msgid "Display Media Time"
-msgstr ""
+msgstr "Wyświetl czas mediów"
 
 msgctxt "#31614"
 msgid "current Time / total Time"
-msgstr ""
+msgstr "aktualny czas/całkowity czas"
 
 msgctxt "#31615"
 msgid "Remaining Time"
-msgstr ""
+msgstr "Pozostały czas"
 
 #: SkinSettings.xml
-
 msgctxt "#31616"
 msgid "Use Background for PVR Channel Icons"
-msgstr ""
+msgstr "Użyj tła dla ikon kanałów PVR"
 
 #: Custom_1127_settingsTVWidgets.xml
-
 msgctxt "#31617"
 msgid "Saved Search Results"
-msgstr ""
+msgstr "Zapisane wyniki wyszukiwania"
 
 #: SkinSettings.xml
-
 msgctxt "#31618"
 msgid "Use full Height for Channel and Program OSD"
-msgstr ""
+msgstr "Użyj pełnej wysokości dla menu ekranowego kanału i programu"
 
 #: Font.xml
-
 msgctxt "#31619"
 msgid "Economica based"
-msgstr ""
+msgstr "Oparte na ekonomii"
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
-
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Flix Krajobraz"
 
 #: Variables.xml (SkinSettings.xml)
-
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Wizualizacja ustawień związanych z PVR i TV."
 
 #: - Modified Start -
-
 #: DialogVideoInfo.xml
-
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Wydany"
 
 #: SkinSettings.xml
-
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Etykiety debugowania"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Siatka debugowania"
 
 #: Custom_1137_SettingsFlags.xml
-
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Pokaż język dźwięku"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Pokaż język napisów"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę IMDB"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę TMDB"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę TVDB"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Pokaż ocenę zgniłych pomidorów"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Pokaż ocenę metakrytyków"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Pokaż ocenę muzyki"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Pokaż moją ocenę"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Pokaż wideo FPS"
 
 #: SkinSettings.xml
-
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Skonfiguruj dane okna informacyjnego"
 
 #: Custom_1145_DialogInfoMetadata.xml
-
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Pokaż oryginalny tytuł"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Pokaż pisarza"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Pokaż kraj"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Pokaż studio"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Pokaż datę premiery"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Pokaż datę następnego wyemitowania"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Pokaż datę ostatniej emisji"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Pokaż sezon/odcinek"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "Pokaż ocenę MPAA"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę IMDB"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Pokaż ocenę DB filmu"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę TMDB"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Pokaż ocenę TVDB"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "Pokaż ocenę MetaCritic"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Pokaż ocenę zgniłych pomidorów"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Pokaż oceny i głosy"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Pokaż zestaw"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Pokaż slogan"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Pokaż datę dodania"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Pokaż nazwę pliku i ścieżkę"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
-
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Konfiguruj menu zasilania"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Pokaż wyłączenie zasilania"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Pokaż zamknięcie"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Pokaż Zawieś"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Pokaż hibernację"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Pokaż wyłącznik czasowy"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Pokaż ponowne uruchomienie z NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Pokaż wyjście"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Pokaż restart"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Pokaż skórkę przeładowania"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "Pokaż Uruchom ponownie KODI"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Pokaż wylogowanie"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "Pokaż wyłączenie zasilania na obrotach"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Przeładuj skórkę"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
-
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Motywy świąteczne"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Sterowanie przyjazne dla ekranu dotykowego"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Tryb kiosku blokuje zmiany widoku"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Styl układu menu zasilania"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Skonfiguruj elementy menu zasilania do wyświetlenia"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Ekran powitalny MODv2 Estuarium"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
-msgstr ""
+msgstr "Debuguj etykiety, pokaż xml i kontrolki (pomocne przy skórowaniu)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Nakładka siatki (pomocna przy skórowaniu)"
