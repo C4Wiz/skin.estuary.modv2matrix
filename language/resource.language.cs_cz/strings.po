@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-23 20:09+0000\n"
+"PO-Revision-Date: 2022-09-24 13:42+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/skin-estuary-modv2/"
 "languages/cs/>\n"
@@ -471,7 +471,7 @@ msgstr ""
 #: /xml/Variables.xml
 msgctxt "#31106"
 msgid "Teletext"
-msgstr "Teletext"
+msgstr "teletext"
 
 #. viewtype name
 #: /xml/View_55_WideList.xml
@@ -708,7 +708,7 @@ msgstr "Stiskněte [B]OK[/B] pro přepnutí mezi umístěními"
 #: /xml/VideoOSDBookmarks.xml
 msgctxt "#31155"
 msgid "No bookmarks created yet."
-msgstr "Zatím nebyly vytvořeny žádné záložky"
+msgstr "Dosud nebyly vytvořeny žádné záložky."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31156"
@@ -1314,27 +1314,27 @@ msgstr "Nastavení související s knihovnou."
 #: /xml/Variables.xml
 msgctxt "#31312"
 msgid "Display of Artworks related settings."
-msgstr "Nastavení související se zobrazováním uměleckého díla"
+msgstr "Zobrazení nastavení souvisejících s uměleckými díly."
 
 #: /xml/Variables.xml
 msgctxt "#31313"
 msgid "Visualization of the music screen related settings."
-msgstr "Nastavení související s vizualizací hudby"
+msgstr "Vizualizace nastavení souvisejících s hudební obrazovkou."
 
 #: /xml/Variables.xml
 msgctxt "#31314"
 msgid "Visualization of the video screen related settings."
-msgstr "Nastavení související s vizualizací videa"
+msgstr "Vizualizace nastavení souvisejících s obrazovkou videa."
 
 #: /xml/Variables.xml
 msgctxt "#31315"
 msgid "Skin colors related settings."
-msgstr "Nastavení související s barvami vzhledu"
+msgstr "Nastavení související s barvami pleti."
 
 #: /xml/Variables.xml
 msgctxt "#31316"
 msgid "Necessary addons for good performance."
-msgstr "Doplňky nezbytné pro správné fungování"
+msgstr "Nezbytné doplňky pro dobrý výkon."
 
 #: /xml/Variables.xml
 msgctxt "#31317"
@@ -1344,7 +1344,7 @@ msgstr "Zálohování a obnovení nastavení vzhledu."
 #: /xml/Variables.xml
 msgctxt "#31318"
 msgid "Additional settings."
-msgstr "Další nastavení"
+msgstr "Další nastavení."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31319"
@@ -1369,7 +1369,7 @@ msgstr "Informace o hardwaru"
 #: /xml/Home.xml
 msgctxt "#31323"
 msgid "Hard disk usage:"
-msgstr "Využití disku"
+msgstr "Využití pevného disku:"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31324"
@@ -1555,8 +1555,8 @@ msgstr "Zobrazit informace na plné obrazovce pro filmy a seriály"
 msgctxt "#31360"
 msgid "Power menu-related settings: Configure it to your likings."
 msgstr ""
-"Nastavení související s nabídkou napájení: Nastavte si je podle svých "
-"představ"
+"Nastavení související s nabídkou napájení: Nakonfigurujte si ji podle svých "
+"představ."
 
 #: /xml/Home.xml
 msgctxt "#31361"
@@ -1699,13 +1699,13 @@ msgstr "Zobrazit widget 'Nastavení'"
 msgctxt "#31398"
 msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
 msgstr ""
-"Je nezbytně nutné restartovat Kodi a '[B]Obnovit nastavení hlavní nabídky a "
-"nabídky napájení[/B]'"
+"Po instalaci této verze je nutné restartovat Kodi a '[B]Resetovat hlavní "
+"nabídku a nastavení nabídky napájení[/B]' v nastavení vzhledu."
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31399"
 msgid "Warning!"
-msgstr "Varování"
+msgstr "Varování!"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31400"
