@@ -497,8 +497,8 @@ msgstr "Широкий список"
 #. viewtype name
 #: /xml/Includes_PVR.xml
 msgctxt "#31108"
-msgid "Большой список"
-msgstr ""
+msgid "BigList"
+msgstr "Большой список"
 
 #: /xml/Home.xml
 msgctxt "#31110"
