@@ -5,10 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-22 18:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-09-25 12:42+0000\n"
+"Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/language/pt_BR/>\n"
+"skin-estuary-modv2/glossary/pt_BR/>\n"
 "Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -363,7 +363,7 @@ msgstr "Termina em"
 #: /xml/Custom_1105_MusicOSDSettings.xml
 msgctxt "#31082"
 msgid "add-on de letras"
-msgstr ""
+msgstr "add-on de letras"
 
 #: /xml/Custom_1105_MusicOSDSettings.xml
 msgctxt "#31083"
@@ -2283,7 +2283,7 @@ msgstr "German Telecast Offers"
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
-msgstr ""
+msgstr "Também se aplica a logotipos de estações de rádio e internet"
 
 msgctxt "#31553"
 msgid "Use poster view for music video widgets"
@@ -2307,7 +2307,7 @@ msgstr ""
 
 msgctxt "#31558"
 msgid "Addon-ID"
-msgstr ""
+msgstr "ID do complemento"
 
 msgctxt "#31559"
 msgid "Platform"
@@ -2335,7 +2335,7 @@ msgstr ""
 
 msgctxt "#31565"
 msgid "Bottom Bar"
-msgstr ""
+msgstr "Barra inferior"
 
 msgctxt "#31566"
 msgid "Media"
@@ -2383,7 +2383,7 @@ msgstr ""
 
 msgctxt "#31577"
 msgid "Close Video OSD automatically after"
-msgstr ""
+msgstr "Feche o OSD de vídeo automaticamente após"
 
 msgctxt "#31578"
 msgid "disabled"
@@ -2391,23 +2391,23 @@ msgstr ""
 
 msgctxt "#31580"
 msgid "3 seconds"
-msgstr ""
+msgstr "3 segundos"
 
 msgctxt "#31581"
 msgid "5 seconds"
-msgstr ""
+msgstr "5 segundos"
 
 msgctxt "#31582"
 msgid "7 seconds"
-msgstr ""
+msgstr "7 segundos"
 
 msgctxt "#31583"
 msgid "10 seconds"
-msgstr ""
+msgstr "10 segundos"
 
 msgctxt "#31584"
 msgid "15 seconds"
-msgstr ""
+msgstr "15 segundos"
 
 msgctxt "#31585"
 msgid "Show Channel Numbers"
@@ -2455,11 +2455,11 @@ msgstr ""
 
 msgctxt "#31596"
 msgid "Animated Poster removed"
-msgstr ""
+msgstr "Pôster animado removido"
 
 msgctxt "#31597"
 msgid "Animated Poster added"
-msgstr ""
+msgstr "Pôster animado adicionado"
 
 msgctxt "#31598"
 msgid "Local Path to animated Poster Folder"
@@ -2527,7 +2527,7 @@ msgstr ""
 
 msgctxt "#31612"
 msgid "Color Depth"
-msgstr ""
+msgstr "Profundidade de cor"
 
 #: SkinSettings.xml
 msgctxt "#31613"
@@ -2564,7 +2564,6 @@ msgstr ""
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
-
 msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
@@ -2633,7 +2632,7 @@ msgstr ""
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Configurar dados do InfoDialog"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
@@ -2719,7 +2718,7 @@ msgstr ""
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Configurar menu de energia"
 
 msgctxt "#31851"
 msgid "Show Power Off"
@@ -2792,7 +2791,7 @@ msgstr ""
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Configurar os itens do menu de energia a serem exibidos"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
