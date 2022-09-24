@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-23 12:06+0000\n"
+"PO-Revision-Date: 2022-09-24 13:25+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2-languages/languages/hu/>\n"
+"skin-estuary-modv2/glossary/hu/>\n"
 "Language: hu_hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -957,107 +957,107 @@ msgstr "Átlátszóság a fanart háttérhez"
 #: /xml/SkinSettings.xml
 msgctxt "#31238"
 msgid "0%"
-msgstr ""
+msgstr "0%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31239"
 msgid "5%"
-msgstr ""
+msgstr "5%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31240"
 msgid "10%"
-msgstr ""
+msgstr "10%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31241"
 msgid "15%"
-msgstr ""
+msgstr "15%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31242"
 msgid "20%"
-msgstr ""
+msgstr "20%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31243"
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31244"
 msgid "30%"
-msgstr ""
+msgstr "30%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31245"
 msgid "35%"
-msgstr ""
+msgstr "35%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31246"
 msgid "40%"
-msgstr ""
+msgstr "40%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31247"
 msgid "45%"
-msgstr ""
+msgstr "45%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31248"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31249"
 msgid "55%"
-msgstr ""
+msgstr "55%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31250"
 msgid "60%"
-msgstr ""
+msgstr "60%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31251"
 msgid "65%"
-msgstr ""
+msgstr "65%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31252"
 msgid "70%"
-msgstr ""
+msgstr "70%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31253"
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31254"
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31255"
 msgid "85%"
-msgstr ""
+msgstr "85%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31256"
 msgid "90%"
-msgstr ""
+msgstr "90%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31257"
 msgid "95%"
-msgstr ""
+msgstr "95%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31258"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31259"
@@ -2115,22 +2115,22 @@ msgstr "Médiacímek mutatása a widgetcímeken"
 #: /xml/Variables.xml
 msgctxt "#31469"
 msgid "Christmas Theme"
-msgstr ""
+msgstr "Karácsonyi téma"
 
 #: /xml/Variables.xml
 msgctxt "#31470"
 msgid "Halloween Theme"
-msgstr ""
+msgstr "Halloween téma"
 
 #: /xml/Variables.xml
 msgctxt "#31471"
 msgid "Easter Theme"
-msgstr ""
+msgstr "Húsvéti téma"
 
 #: /xml/Variables.xml
 msgctxt "#31472"
 msgid "Valentine's Day Theme"
-msgstr ""
+msgstr "Valentin-napi téma"
 
 #: /xml/Includes_MediaMenu.xml
 msgctxt "#31473"
@@ -2145,27 +2145,27 @@ msgstr "Üzemmód az állandó képmagasság (CIH) beállításához"
 #: /xml/SkinSettings.xml
 msgctxt "#31475"
 msgid "2:35:1 (1920x817)"
-msgstr ""
+msgstr "2:35:1 (1920x817)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31476"
 msgid "2:40:1 (1920x800)"
-msgstr ""
+msgstr "2:40:1 (1920x800)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31477"
 msgid "1:77:1 (1920x1080)"
-msgstr ""
+msgstr "1:77:1 (1920x1080)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31478"
 msgid "1:85:1 (1920x1038)"
-msgstr ""
+msgstr "1:85:1 (1920x1038)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31479"
 msgid "2:37:1 (1920x810)"
-msgstr ""
+msgstr "2:37:1 (1920x810)"
 
 #: /xml/Variables.xml
 msgctxt "#31480"
@@ -2215,7 +2215,7 @@ msgstr "Bővített infó"
 #: /xml/Variables.xml
 msgctxt "#31489"
 msgid "By"
-msgstr ""
+msgstr "Által"
 
 #: /xml/Variables.xml
 msgctxt "#31490"
@@ -2353,7 +2353,7 @@ msgstr "Csatorna csoportok"
 
 msgctxt "#31551"
 msgid "German Telecast Offers"
-msgstr ""
+msgstr "Német Telecast ajánlatok"
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
@@ -2421,11 +2421,11 @@ msgstr "Kodi/Változatok logója"
 
 msgctxt "#31568"
 msgid "LibreELEC"
-msgstr ""
+msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
-msgstr ""
+msgstr "CoreELEC"
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
@@ -2600,7 +2600,7 @@ msgstr "Képernyőmód"
 
 msgctxt "#31611"
 msgid "Eoft & Gamut"
-msgstr ""
+msgstr "Eoft & Gamut"
 
 msgctxt "#31612"
 msgid "Color Depth"
@@ -2643,241 +2643,242 @@ msgstr "Economica alapú"
 #: /xml/View_510_Flix.xml
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Flix táj"
 
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "A PVR és a TV képernyővel kapcsolatos beállítások megjelenítése."
 
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Megjelent"
 
 #: SkinSettings.xml
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Hibakeresési címkék"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Hibakeresési rács"
 
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Hang nyelvének megjelenítése"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Feliratnyelv megjelenítése"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB értékelés megjelenítése"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "TMDB értékelés megjelenítése"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB értékelés megjelenítése"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "A Rotten Tomatoes értékelésének megjelenítése"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Mutasd a metakritikusok értékelését"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Zene értékelésének megjelenítése"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Értékelésem megjelenítése"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Videó FPS megjelenítése"
 
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Az InfoDialog adatok konfigurálása"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Eredeti cím megjelenítése"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Show Writer"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Ország megjelenítése"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Show Studio"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "A műsor bemutatójának dátuma"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "A következő adás dátuma"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "A legutóbbi adás dátuma"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Évad/epizód műsora"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "MPAA-besorolás megjelenítése"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "IMDB értékelés megjelenítése"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Mutasd a The Movie DB értékelését"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "TMDB értékelés megjelenítése"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB értékelés megjelenítése"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "Mutasd a MetaCritic értékelést"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "A Rotten Tomatoes értékelésének megjelenítése"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Értékelések és szavazatok megjelenítése"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Show Set"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Címsor megjelenítése"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Hozzáadás dátumának megjelenítése"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Fájlnév és elérési út megjelenítése"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Konfigurálja a tápellátás menüt"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Kikapcsolás megjelenítése"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Leállítás megjelenítése"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Felfüggesztés megjelenítése"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Hibernált állapot megjelenítése"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Kikapcsolási időzítő megjelenítése"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Újraindítás megjelenítése NAND-ról (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Kilépés megjelenítése"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Újraindítás megjelenítése"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Show Reload Skin"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "A KODI újraindítása megjelenítése"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Kijelentkezés megjelenítése"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "RPM kikapcsolás megjelenítése"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Reload Skin"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Ünnepek témák"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Érintőképernyőbarát kezelőszervek"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "A Kioszk mód zárolja a nézetmódosításokat"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Bekapcsoló menü elrendezési stílusa"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Konfigurálja a Power menü megjelenítendő elemeit"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Estuary MODv2 Splash Screen"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
 msgstr ""
+"Címkék hibakeresése, xml és vezérlők megjelenítése (Skinning esetén hasznos)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Rácsfedvény (hasznos a nyúzáshoz)"
