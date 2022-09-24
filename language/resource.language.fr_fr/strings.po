@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-24 12:56+0000\n"
+"PO-Revision-Date: 2022-09-24 13:07+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/skin-estuary-"
-"modv2/glossary/fr/>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2/glossary/fr/>\n"
 "Language: fr_fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2407,7 +2407,7 @@ msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
-msgstr ""
+msgstr "CoreELEC"
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
@@ -2439,7 +2439,7 @@ msgstr ""
 
 msgctxt "#31577"
 msgid "Close Video OSD automatically after"
-msgstr ""
+msgstr "Fermer l'OSD vidéo automatiquement après"
 
 msgctxt "#31578"
 msgid "disabled"
@@ -2447,11 +2447,11 @@ msgstr "désactivé"
 
 msgctxt "#31580"
 msgid "3 seconds"
-msgstr ""
+msgstr "3 secondes"
 
 msgctxt "#31581"
 msgid "5 seconds"
-msgstr ""
+msgstr "5 secondes"
 
 msgctxt "#31582"
 msgid "7 seconds"
@@ -2536,7 +2536,7 @@ msgstr ""
 
 msgctxt "#31600"
 msgid "Could not assign animated Poster"
-msgstr ""
+msgstr "Impossible d'attribuer une affiche animée"
 
 msgctxt "#31601"
 msgid "Hit Probability: "
@@ -2592,7 +2592,7 @@ msgstr "Eoft & Gamut"
 
 msgctxt "#31612"
 msgid "Color Depth"
-msgstr ""
+msgstr "La profondeur de la couleur"
 
 #: SkinSettings.xml
 msgctxt "#31613"
@@ -2696,7 +2696,7 @@ msgstr "Afficher le FPS vidéo"
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Configurer les données InfoDialog"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
@@ -2782,7 +2782,7 @@ msgstr ""
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Configurer le menu d'alimentation"
 
 msgctxt "#31851"
 msgid "Show Power Off"
@@ -2855,7 +2855,7 @@ msgstr "Style de mise en page du menu d'alimentation"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Configurer les éléments du menu d'alimentation à afficher"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
