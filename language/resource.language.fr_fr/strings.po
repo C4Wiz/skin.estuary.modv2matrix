@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-24 13:07+0000\n"
+"PO-Revision-Date: 2022-09-24 13:10+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/skin-estuary-"
-"modv2/glossary/fr/>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2/glossary/fr/>\n"
 "Language: fr_fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1375,7 +1375,7 @@ msgstr "Paramètres supplémentaires."
 #: /xml/SkinSettings.xml
 msgctxt "#31319"
 msgid "Show, add and remove animated posters"
-msgstr ""
+msgstr "Afficher, ajouter et supprimer des affiches animées"
 
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#31320"
@@ -2335,7 +2335,7 @@ msgstr "Groupes de canaux"
 
 msgctxt "#31551"
 msgid "German Telecast Offers"
-msgstr ""
+msgstr "Offres télévisées allemandes"
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
@@ -2371,7 +2371,7 @@ msgstr "Plateforme"
 
 msgctxt "#31560"
 msgid "Forced Views"
-msgstr ""
+msgstr "Vues forcées"
 
 msgctxt "#31561"
 msgid "Show PVR related Artworks"
@@ -2383,7 +2383,7 @@ msgstr "Configuration de l'illustration PVR"
 
 msgctxt "#31563"
 msgid "Show date"
-msgstr ""
+msgstr "Afficher la date"
 
 msgctxt "#31564"
 msgid "Top Bar"
@@ -2431,11 +2431,11 @@ msgstr "(jusqu'à "
 
 msgctxt "#31575"
 msgid "Show Color Depth"
-msgstr ""
+msgstr "Afficher la profondeur des couleurs"
 
 msgctxt "#31576"
 msgid "Show additional Infos within the PVR widgets"
-msgstr ""
+msgstr "Afficher des informations supplémentaires dans les widgets PVR"
 
 msgctxt "#31577"
 msgid "Close Video OSD automatically after"
@@ -2467,7 +2467,7 @@ msgstr "15 secondes"
 
 msgctxt "#31585"
 msgid "Show Channel Numbers"
-msgstr ""
+msgstr "Afficher les numéros de chaîne"
 
 msgctxt "#31586"
 msgid "Show Date of First aired"
@@ -2475,7 +2475,7 @@ msgstr "Afficher la date de première diffusion"
 
 msgctxt "#31587"
 msgid "Item Path of Picture Widgets"
-msgstr ""
+msgstr "Chemin de l'élément des widgets d'image"
 
 msgctxt "#31588"
 msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
@@ -2506,7 +2506,7 @@ msgstr ""
 
 msgctxt "#31594"
 msgid "Set Animated Poster"
-msgstr ""
+msgstr "Définir une affiche animée"
 
 msgctxt "#31595"
 msgid "Remove Animated Poster"
@@ -2540,7 +2540,7 @@ msgstr "Impossible d'attribuer une affiche animée"
 
 msgctxt "#31601"
 msgid "Hit Probability: "
-msgstr ""
+msgstr "Probabilité de toucher : "
 
 #: SkinSettings.xml
 msgctxt "#31602"
@@ -2631,7 +2631,7 @@ msgstr "Basé sur Economica"
 #: /xml/View_510_Flix.xml
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Flix Paysage"
 
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
@@ -2655,7 +2655,7 @@ msgstr "Grille de débogage"
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Afficher la langue audio"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
@@ -2709,7 +2709,7 @@ msgstr "Afficher l'écrivain"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Afficher le pays"
 
 msgctxt "#31824"
 msgid "Show Studio"
@@ -2773,11 +2773,11 @@ msgstr "Afficher le slogan"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Afficher la date d'ajout"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Afficher le nom de fichier et le chemin"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
@@ -2839,7 +2839,7 @@ msgstr "Recharger la peau"
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Thèmes de vacances"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
@@ -2847,7 +2847,7 @@ msgstr "Commandes conviviales de l'écran tactile"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Le mode kiosque verrouille les changements d'affichage"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
@@ -2869,4 +2869,4 @@ msgstr ""
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Superposition de grille (utile pour le skinning)"
