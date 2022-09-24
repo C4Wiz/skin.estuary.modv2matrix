@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-22 18:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-09-24 12:56+0000\n"
+"Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/language/fr/>\n"
+"skin-estuary-modv2/glossary/fr/>\n"
 "Language: fr_fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2286,11 +2286,11 @@ msgstr "Membre d'équipe dans la série TV"
 #: /xml/SkinSettings.xml
 msgctxt "#31515"
 msgid "Palm Week"
-msgstr ""
+msgstr "Semaine des Rameaux"
 
 msgctxt "#31550"
 msgid "Channel groups"
-msgstr ""
+msgstr "Groupes de canaux"
 
 msgctxt "#31551"
 msgid "German Telecast Offers"
@@ -2298,35 +2298,35 @@ msgstr ""
 
 msgctxt "#31552"
 msgid "Also apply to radio and internet station logos"
-msgstr ""
+msgstr "S'applique également aux logos de stations radio et Internet"
 
 msgctxt "#31553"
 msgid "Use poster view for music video widgets"
-msgstr ""
+msgstr "Utiliser la vue d'affiche pour les widgets de vidéo musicale"
 
 msgctxt "#31554"
 msgid "Show year of publication in title"
-msgstr ""
+msgstr "Afficher l'année de publication dans le titre"
 
 msgctxt "#31555"
 msgid "Optional icons and fanart packs"
-msgstr ""
+msgstr "Icônes facultatives et packs de fanart"
 
 msgctxt "#31556"
 msgid "Reboot from NAND (Android)"
-msgstr ""
+msgstr "Redémarrer à partir de NAND (Android)"
 
 msgctxt "#31557"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Redémarrez Kodi"
 
 msgctxt "#31558"
 msgid "Addon-ID"
-msgstr ""
+msgstr "Addon-ID"
 
 msgctxt "#31559"
 msgid "Platform"
-msgstr ""
+msgstr "Plateforme"
 
 msgctxt "#31560"
 msgid "Forced Views"
@@ -2334,11 +2334,11 @@ msgstr ""
 
 msgctxt "#31561"
 msgid "Show PVR related Artworks"
-msgstr ""
+msgstr "Afficher les œuvres liées au PVR"
 
 msgctxt "#31562"
 msgid "PVR Artwork Configuration"
-msgstr ""
+msgstr "Configuration de l'illustration PVR"
 
 msgctxt "#31563"
 msgid "Show date"
@@ -2346,23 +2346,23 @@ msgstr ""
 
 msgctxt "#31564"
 msgid "Top Bar"
-msgstr ""
+msgstr "Barre du haut"
 
 msgctxt "#31565"
 msgid "Bottom Bar"
-msgstr ""
+msgstr "Barre inférieure"
 
 msgctxt "#31566"
 msgid "Media"
-msgstr ""
+msgstr "Médias"
 
 msgctxt "#31567"
 msgid "Kodi/Distribution Logo"
-msgstr ""
+msgstr "Kodi/Logo de distribution"
 
 msgctxt "#31568"
 msgid "LibreELEC"
-msgstr ""
+msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
@@ -2370,23 +2370,23 @@ msgstr ""
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
-msgstr ""
+msgstr "Afficher le menu d'alimentation étendu"
 
 msgctxt "#31571"
 msgid "Prefer Fanart in EPG preview window if available"
-msgstr ""
+msgstr "Préférez Fanart dans la fenêtre d'aperçu EPG si disponible"
 
 msgctxt "#31572"
 msgid "Upcoming episodes"
-msgstr ""
+msgstr "Épisodes à venir"
 
 msgctxt "#31573"
 msgid "Show MPAA rating"
-msgstr ""
+msgstr "Afficher le classement MPAA"
 
 msgctxt "#31574"
 msgid "(until "
-msgstr ""
+msgstr "(jusqu'à "
 
 msgctxt "#31575"
 msgid "Show Color Depth"
@@ -2402,7 +2402,7 @@ msgstr ""
 
 msgctxt "#31578"
 msgid "disabled"
-msgstr ""
+msgstr "désactivé"
 
 msgctxt "#31580"
 msgid "3 seconds"
@@ -2414,15 +2414,15 @@ msgstr ""
 
 msgctxt "#31582"
 msgid "7 seconds"
-msgstr ""
+msgstr "7 secondes"
 
 msgctxt "#31583"
 msgid "10 seconds"
-msgstr ""
+msgstr "10 secondes"
 
 msgctxt "#31584"
 msgid "15 seconds"
-msgstr ""
+msgstr "15 secondes"
 
 msgctxt "#31585"
 msgid "Show Channel Numbers"
@@ -2430,7 +2430,7 @@ msgstr ""
 
 msgctxt "#31586"
 msgid "Show Date of First aired"
-msgstr ""
+msgstr "Afficher la date de première diffusion"
 
 msgctxt "#31587"
 msgid "Item Path of Picture Widgets"
@@ -2438,27 +2438,29 @@ msgstr ""
 
 msgctxt "#31588"
 msgid "Default Action on 'Movie' and 'TV-Show' Widgets"
-msgstr ""
+msgstr "Action par défaut sur les widgets 'Film' et 'TV-Show'"
 
 msgctxt "#31589"
 msgid "Play Item"
-msgstr ""
+msgstr "Lire l'élément"
 
 msgctxt "#31590"
 msgid "Show Info"
-msgstr ""
+msgstr "Afficher les informations"
 
 msgctxt "#31591"
 msgid "Sort Order"
-msgstr ""
+msgstr "Ordre de tri"
 
 msgctxt "#31592"
 msgid "Show Path Navigation (Breadcrumbs) in List Views"
-msgstr ""
+msgstr "Afficher la navigation par chemin (fil d'Ariane) dans les vues de liste"
 
 msgctxt "#31593"
 msgid "Show only 'current item / item count' Information"
 msgstr ""
+"Afficher uniquement les informations sur \"l'article actuel / le nombre d'"
+"articles\""
 
 msgctxt "#31594"
 msgid "Set Animated Poster"
@@ -2466,23 +2468,26 @@ msgstr ""
 
 msgctxt "#31595"
 msgid "Remove Animated Poster"
-msgstr ""
+msgstr "Supprimer l'affiche animée"
 
 msgctxt "#31596"
 msgid "Animated Poster removed"
-msgstr ""
+msgstr "Affiche animée supprimée"
 
 msgctxt "#31597"
 msgid "Animated Poster added"
-msgstr ""
+msgstr "Affiche animée ajoutée"
 
 msgctxt "#31598"
 msgid "Local Path to animated Poster Folder"
-msgstr ""
+msgstr "Chemin d'accès local au dossier d'affiches animées"
 
 msgctxt "#31599"
 msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
 msgstr ""
+"Le dossier de la collection d'affiches animées n'a pas encore été défini. "
+"Définissez un dossier sur le système de fichiers local contenant des "
+"affiches animées dans les paramètres de skin."
 
 msgctxt "#31600"
 msgid "Could not assign animated Poster"
@@ -2495,182 +2500,168 @@ msgstr ""
 #: SkinSettings.xml
 msgctxt "#31602"
 msgid "'Rotten Tomatoes' Rating Category"
-msgstr ""
+msgstr "Catégorie de notation \"Tomates pourries\""
 
 #: SkinSettings.xml
 msgctxt "#31603"
 msgid "Tomatometer all Critics"
-msgstr ""
+msgstr "Tomatomètre tous les critiques"
 
 #: SkinSettings.xml
 msgctxt "#31604"
 msgid "Tomatometer average Critics"
-msgstr ""
+msgstr "Moyenne du tomatomètre Critiques"
 
 #: SkinSettings.xml
 msgctxt "#31605"
 msgid "Tomatometer all Audience"
-msgstr ""
+msgstr "Tomatomètre tout public"
 
 #: SkinSettings.xml
 msgctxt "#31606"
 msgid "Tomatometer average Audience"
-msgstr ""
+msgstr "Audience moyenne du tomatomètre"
 
 #: SkinSettings.xml
 msgctxt "#31607"
 msgid "Use simplified Video OSD Navigation"
-msgstr ""
+msgstr "Utiliser la navigation OSD vidéo simplifiée"
 
 msgctxt "#31608"
 msgid "Previous seen Channel"
-msgstr ""
+msgstr "Canal vu précédemment"
 
 #: Includes_MediaMenu.xml
 msgctxt "#31609"
 msgid "Show PVR Channel Status"
-msgstr ""
+msgstr "Afficher l'état du canal PVR"
 
 #: DialogPlayerProcessInfo
-
 msgctxt "#31610"
 msgid "Display Mode"
-msgstr ""
+msgstr "Mode d'affichage"
 
 msgctxt "#31611"
 msgid "Eoft & Gamut"
-msgstr ""
+msgstr "Eoft & Gamut"
 
 msgctxt "#31612"
 msgid "Color Depth"
 msgstr ""
 
 #: SkinSettings.xml
-
 msgctxt "#31613"
 msgid "Display Media Time"
-msgstr ""
+msgstr "Afficher l'heure du média"
 
 msgctxt "#31614"
 msgid "current Time / total Time"
-msgstr ""
+msgstr "Temps actuel / Temps total"
 
 msgctxt "#31615"
 msgid "Remaining Time"
-msgstr ""
+msgstr "Temps restant"
 
 #: SkinSettings.xml
-
 msgctxt "#31616"
 msgid "Use Background for PVR Channel Icons"
-msgstr ""
+msgstr "Utiliser l'arrière-plan pour les icônes des chaînes PVR"
 
 #: Custom_1127_settingsTVWidgets.xml
-
 msgctxt "#31617"
 msgid "Saved Search Results"
-msgstr ""
+msgstr "Résultats de recherche enregistrés"
 
 #: SkinSettings.xml
-
 msgctxt "#31618"
 msgid "Use full Height for Channel and Program OSD"
-msgstr ""
+msgstr "Utiliser la pleine hauteur pour l'OSD des canaux et des programmes"
 
 #: Font.xml
-
 msgctxt "#31619"
 msgid "Economica based"
-msgstr ""
+msgstr "Basé sur Economica"
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
-
 msgctxt "#31620"
 msgid "Flix Landscape"
 msgstr ""
 
 #: Variables.xml (SkinSettings.xml)
-
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Visualisation des paramètres liés à l'écran PVR et TV."
 
 #: - Modified Start -
-
 #: DialogVideoInfo.xml
-
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Publié"
 
 #: SkinSettings.xml
-
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Étiquettes de débogage"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Grille de débogage"
 
 #: Custom_1137_SettingsFlags.xml
-
 msgctxt "#31803"
 msgid "Show Audio Language"
 msgstr ""
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Afficher la langue des sous-titres"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Afficher la note IMDB"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Afficher la notation TMDB"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Afficher le classement TVDB"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Afficher la cote des tomates pourries"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Afficher l'évaluation des méta-critiques"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Afficher le classement de la musique"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Afficher ma note"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Afficher le FPS vidéo"
 
 #: SkinSettings.xml
-
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
 msgstr ""
 
 #: Custom_1145_DialogInfoMetadata.xml
-
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Afficher le titre d'origine"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Afficher l'écrivain"
 
 msgctxt "#31823"
 msgid "Show Country"
@@ -2678,63 +2669,63 @@ msgstr ""
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Afficher l'atelier"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Afficher la date de création"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Afficher la date de la prochaine diffusion"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Afficher la date de la dernière diffusion"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Afficher la saison/l'épisode"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "Afficher la classification MPAA"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Afficher la note IMDB"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Afficher le classement DB du film"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Afficher la notation TMDB"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Afficher le classement TVDB"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "Afficher la note MetaCritic"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Afficher la cote des tomates pourries"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Afficher les évaluations et les votes"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Afficher l'ensemble"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Afficher le slogan"
 
 msgctxt "#31839"
 msgid "Show Date Added"
@@ -2745,72 +2736,70 @@ msgid "Show Filename and Path"
 msgstr ""
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
-
 msgctxt "#31850"
 msgid "Configure Power Menu"
 msgstr ""
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Afficher la mise hors tension"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Afficher l'arrêt"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Afficher la suspension"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Afficher l'hibernation"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Afficher la minuterie d'arrêt"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Afficher le redémarrage à partir de NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Afficher Quitter"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Afficher le redémarrage"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Afficher le skin de rechargement"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "Afficher Redémarrer KODI"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Afficher la déconnexion"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "Afficher la mise hors tension RPM"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Recharger la peau"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
-
 msgctxt "#31901"
 msgid "Holidays Themes"
 msgstr ""
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Commandes conviviales de l'écran tactile"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
@@ -2818,7 +2807,7 @@ msgstr ""
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Style de mise en page du menu d'alimentation"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
@@ -2826,11 +2815,13 @@ msgstr ""
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Écran de démarrage de l'estuaire MODv2"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
 msgstr ""
+"Déboguer les étiquettes, afficher le xml et les contrôles (utile pour le "
+"skinning)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
