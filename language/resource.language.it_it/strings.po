@@ -2886,7 +2886,7 @@ msgstr "Temi delle feste"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Comandi compatibili con il touch screen"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
