@@ -9,8 +9,8 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2022-09-24 13:25+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/glossary/hu/>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/skin-estuary-"
+"modv2/glossary/hu/>\n"
 "Language: hu_hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -124,7 +124,8 @@ msgctxt "#31020"
 msgid "Actions"
 msgstr "Műveletek"
 
-#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml /xml/Includes_MediaMenu.xml /xml/EventLog.xml
+#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml
+#: /xml/Includes_MediaMenu.xml /xml/EventLog.xml
 msgctxt "#31021"
 msgid "Misc options"
 msgstr "Egyéb beállítások"
@@ -146,7 +147,9 @@ msgstr "Válassz értékelés típust a médiaelemek megjelenítéséhez"
 
 #: /xml/DialogFavourites.xml
 msgctxt "#31025"
-msgid "No favourites found. You can add any item from media views to this list by using the context menu."
+msgid ""
+"No favourites found. You can add any item from media views to this list by "
+"using the context menu."
 msgstr ""
 "Nem találhatóak kedvencek. Bármely elemet hozzáadhat ehhez a listához a "
 "média nézetekből, a környezeti menü használatával."
@@ -191,7 +194,8 @@ msgctxt "#31034"
 msgid "Extended info"
 msgstr "Bővített információ"
 
-#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
+#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml
+#: /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
 msgctxt "#31035"
 msgid "Pages"
 msgstr "Oldalak"
@@ -227,7 +231,10 @@ msgstr "Lejátszáslista lehetőségek"
 
 #: /xml/SmartPlaylistEditor.xml
 msgctxt "#31043"
-msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgid ""
+"Set the type and add rules to create a smart playlist. These playlists are "
+"dynamic and include all media items from your database which apply to your "
+"chosen rules."
 msgstr ""
 "Adja meg a típust és a szabályokat az intelligens lejátszólista "
 "létrehozásához. Ezek a lejátszólisták dinamikusak, és minden médiaelemet "
@@ -460,7 +467,10 @@ msgstr "Ide írja a szöveget…"
 
 #: /xml/Home.xml
 msgctxt "#31104"
-msgid "Your video library is currently empty. In order to populate it with your personal media, add a video source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgid ""
+"Your video library is currently empty. In order to populate it with your "
+"personal media, add a video source and configure it. After the source has "
+"been added and indexed you will be able to browse your library."
 msgstr ""
 "A médiatár jelenleg üres. A saját médiafájlok hozzáadásához, menjen a fájlok "
 "menüponthoz, adjon hozzá egy médiaforrást és konfigurálja azt. Miután a "
@@ -468,7 +478,9 @@ msgstr ""
 
 #: /xml/Home.xml
 msgctxt "#31105"
-msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
+msgid ""
+"Add video sources and set the appropriate content type in order to populate "
+"your video libraries."
 msgstr ""
 "Adjon hozzá videóforrásokat és állítsa be a megfelelő tartalomtípust a "
 "videótárak kialakításához."
@@ -492,7 +504,10 @@ msgstr "NagyLista"
 
 #: /xml/Home.xml
 msgctxt "#31110"
-msgid "Your music library is currently empty. In order to populate it with your personal media, add a music source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgid ""
+"Your music library is currently empty. In order to populate it with your "
+"personal media, add a music source and configure it. After the source has "
+"been added and indexed you will be able to browse your library."
 msgstr ""
 "A zenetár jelenleg üres. A saját médiafájlok hozzáadásához, menjen a \"Fájlok"
 "\" menüponthoz, adjon hozzá egy médiaforrást és konfigurálja azt. Miután a "
@@ -500,7 +515,9 @@ msgstr ""
 
 #: /xml/Home.xml
 msgctxt "#31111"
-msgid "View your personal pictures or download one of the many image add-ons from the official repository."
+msgid ""
+"View your personal pictures or download one of the many image add-ons from "
+"the official repository."
 msgstr ""
 "Nézd a saját fényképeidet vagy tölts le egyet a sok képkiegészítő közül a "
 "hivatalos kiegészítő tárhelyről."
@@ -542,14 +559,18 @@ msgstr "Belépés a kiegészítő böngészőbe"
 
 #: /xml/Home.xml
 msgctxt "#31119"
-msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
+msgid ""
+"You do not have any add-ons installed yet. Visit our add-on browser to "
+"browse through our collection and improve your Kodi experience."
 msgstr ""
 "Még nincs telepített kiegészítő. Látogass el a kiegészítő böngészőbe és "
 "válassz a gyűjteményből a Kodi felhasználói élmény javítása érdekében."
 
 #: /xml/Home.xml
 msgctxt "#31120"
-msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
+msgid ""
+"You did not set up a weather provider yet. In order to view weather "
+"information, choose a weather provider and set up your location."
 msgstr ""
 "Még nem állítottál be időjárás szolgáltatót. Az időjárási adatok "
 "megtekintéséhez, válassz egy szolgáltatót és állítsd be a helyszínt."
@@ -663,7 +684,9 @@ msgstr "Lejátszási sebesség"
 
 #: /xml/Home.xml
 msgctxt "#31143"
-msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgid ""
+"You did not set up PVR yet. In order to use PVR, choose a PVR client addon "
+"and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
 msgstr ""
 "Még nem állítottad be a PVR-t. Válassz egy PVR-klienst és konfiguráld. "
 "Látogass el a http://kodi.wiki/view/PVR oldalra több információért."
@@ -705,7 +728,9 @@ msgstr "Véletlenszerű videóklip-ek"
 
 #: /xml/Includes.xml
 msgctxt "#31153"
-msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgid ""
+"You do not have any add-ons of this type installed. Enter the add-on browser "
+"to download add-ons created by our community."
 msgstr ""
 "Nincs telepítve ilyen típusú kiegészítő. Nyissa meg a kiegészítő-böngészőt a "
 "kiegészítő letöltéséhez."
@@ -752,7 +777,9 @@ msgstr "Szám billentyűzet"
 
 #: /xml/Home.xml
 msgctxt "#31162"
-msgid "Play your personal games or download one of the many game add-ons from the official repository."
+msgid ""
+"Play your personal games or download one of the many game add-ons from the "
+"official repository."
 msgstr ""
 "Játssz a saját játékaiddal vagy töltsd le a számos játék kiegészítő egyikét "
 "a hivatalos tárolóból."
@@ -774,7 +801,9 @@ msgstr "Média forrás hozzáadása"
 
 #: /xml/Custom_1120_SourcesDialog.xml
 msgctxt "#31202"
-msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
+msgid ""
+"Shortcuts to the \"Files\" sections of each media type. Go there to add "
+"additional sources for your databases."
 msgstr ""
 "Parancsikonok a fájl szekcióban minden médiatípushoz. Adj hozzá forrásokat "
 "az adatbázis létrehozásához"
@@ -801,7 +830,8 @@ msgstr "Főmenü beállítás alaphelyzetbe"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31207"
-msgid "Are you sure you want to reset display of all menu items back to default ?"
+msgid ""
+"Are you sure you want to reset display of all menu items back to default ?"
 msgstr "Biztosan visszaállítod alaphelyzetbe?"
 
 #: /xml/SkinSettings.xml
@@ -1631,7 +1661,11 @@ msgstr "Játék források"
 
 #: /xml/Home.xml
 msgctxt "#31373"
-msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
+msgid ""
+"Your games library is currently empty. In order to populate it with your "
+"personal games, add a games source. After the source has been added you will "
+"be able to browse your games list. You will also need to install necessary "
+"add-ons for games."
 msgstr ""
 "A játék-tár jelenleg üres. A saját játékok hozzáadásához, adjon hozzá egy "
 "forrást és konfigurálja azt. Miután a forrás hozzáadásra került, és a "
@@ -1639,7 +1673,10 @@ msgstr ""
 
 #: /xml/Home.xml
 msgctxt "#31374"
-msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
+msgid ""
+"Your pictures library is currently empty. In order to populate it with your "
+"personal pictures, add a pictures source. After the source has been added "
+"you will be able to browse your pictures list."
 msgstr ""
 "A fénykép-tár jelenleg üres. A saját képek hozzáadásához, adjon hozzá egy "
 "forrást és konfigurálja azt. Miután a forrás hozzáadásra került, "
@@ -1727,7 +1764,8 @@ msgstr "Hozzáférhetőség időtartama a menüelemekhez"
 
 #: /xml/Custom_1133_ParentalControl.xml
 msgctxt "#31391"
-msgid "Password-protected content.[CR]Press [B]Enter[/B] and please enter password."
+msgid ""
+"Password-protected content.[CR]Press [B]Enter[/B] and please enter password."
 msgstr ""
 "Jelszavas védelem a tartalomra.[CR]Nyomj [B]Enter-t[/B] a jelszó megadáshoz "
 
@@ -1753,7 +1791,9 @@ msgstr "Beállítás parancsikon widget mutatása"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31398"
-msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
+msgid ""
+"It's necessary to reboot Kodi and '[B]Reset main menu and power menu "
+"settings[/B]' in skin settings after installation of this version."
 msgstr ""
 "A verzió telepítése után újra kell indítani a Kodi-t és a [B]Főmenü és "
 "kikapcsolási menü alaphelyzetbe áll[/B] az telepítés után"
@@ -2067,7 +2107,9 @@ msgstr "Témák engedélyezése (Valentine's Day, Easter, Halloween & Christmas)
 
 #: /xml/Home.xml
 msgctxt "#31460"
-msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
+msgid ""
+"Your library is currently empty.[CR]In order to populate it with your "
+"personal media, add  sources and configure them."
 msgstr ""
 "A könyvtárad úres.[CR]Adj hozzá saját tartalmakat, forrásokat, és szerkeszd "
 "azokat."
@@ -2540,7 +2582,10 @@ msgid "Local Path to animated Poster Folder"
 msgstr "Helyi elérési út az Animált poszerekhez"
 
 msgctxt "#31599"
-msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
+msgid ""
+"The folder of the animated Poster Collection was not defined yet. Define a "
+"Folder on the local File System containing animated Posters within the Skin "
+"Settings."
 msgstr ""
 "Az animált posztergyűjtemény mappája még nincs meghatározva. Határozzon meg "
 "egy mappát a helyi fájlrendszerben, amely animált posztereket tartalmaz, a "
@@ -2650,8 +2695,7 @@ msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr "A PVR és a TV képernyővel kapcsolatos beállítások megjelenítése."
 
-#: - Modified Start -
-#: DialogVideoInfo.xml
+#: - Modified Start DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
 msgstr "Megjelent"
