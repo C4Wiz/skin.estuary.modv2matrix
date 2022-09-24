@@ -125,7 +125,8 @@ msgctxt "#31020"
 msgid "Actions"
 msgstr "Acties"
 
-#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml /xml/Includes_MediaMenu.xml /xml/EventLog.xml
+#: /xml/AddonBrowser.xml /xml/DialogPVRChannelManager.xml
+#: /xml/Includes_MediaMenu.xml /xml/EventLog.xml
 msgctxt "#31021"
 msgid "Misc options"
 msgstr "Overige opties"
@@ -147,7 +148,9 @@ msgstr "Kies waardering voor mediabestanden"
 
 #: /xml/DialogFavourites.xml
 msgctxt "#31025"
-msgid "No favourites found. You can add any item from media views to this list by using the context menu."
+msgid ""
+"No favourites found. You can add any item from media views to this list by "
+"using the context menu."
 msgstr ""
 "Geen favorieten gevonden. Je kunt elk item uit media-weergaven toevoegen aan "
 "deze lijst met het contextmenu."
@@ -192,7 +195,8 @@ msgctxt "#31034"
 msgid "Extended info"
 msgstr "Uitgebreide info"
 
-#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
+#: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml
+#: /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
 msgctxt "#31035"
 msgid "Pages"
 msgstr "Pagina's"
@@ -224,7 +228,10 @@ msgstr "Afspeellijstopties"
 
 #: /xml/SmartPlaylistEditor.xml
 msgctxt "#31043"
-msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgid ""
+"Set the type and add rules to create a smart playlist. These playlists are "
+"dynamic and include all media items from your database which apply to your "
+"chosen rules."
 msgstr ""
 "Stel het type in en voeg regels toe om een slimme afspeellijst te maken. "
 "Deze afspeellijsten zijn dynamisch en bevatten alle media-items vanuit je "
@@ -439,7 +446,11 @@ msgstr "Voor hier tekst in..."
 
 #: /xml/Home.xml
 msgctxt "#31104"
-msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgid ""
+"Your library is currently empty. In order to populate it with your personal "
+"media, enter \"Files\" section, add a media source and configure it. After "
+"the source has been added and indexed you will be able to browse your "
+"library."
 msgstr ""
 "Je bibliotheek is momenteel leeg. Om deze te vullen met je eigen media, ga "
 "naar de \"Bestanden\" sectie, voeg een medialocatie toe en configureer deze. "
@@ -447,7 +458,9 @@ msgstr ""
 
 #: /xml/Home.xml
 msgctxt "#31105"
-msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
+msgid ""
+"Add video sources and set the appropriate content type in order to populate "
+"your video libraries."
 msgstr ""
 "Voeg video bronnen toe en stel het juiste contenttype in om je "
 "videobibliotheken te vullen."
@@ -470,7 +483,9 @@ msgstr "Ga naar bestandensectie"
 
 #: /xml/Home.xml
 msgctxt "#31111"
-msgid "View your personal pictures or download one of the many image add-ons from the official repository."
+msgid ""
+"View your personal pictures or download one of the many image add-ons from "
+"the official repository."
 msgstr ""
 "Toon je persoonlijke afbeeldingen of download één van de vele afbeeldingsadd-"
 "ons uit de officiële repository."
@@ -512,14 +527,18 @@ msgstr "Ga naar add-on verkenner"
 
 #: /xml/Home.xml
 msgctxt "#31119"
-msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
+msgid ""
+"You do not have any add-ons installed yet. Visit our add-on browser to "
+"browse through our collection and improve your Kodi experience."
 msgstr ""
 "Je hebt nog geen add-ons geïnstalleerd. Bezoek onze add-on verkenner om door "
 "onze collectie te browsen en je Kodi-beleving te verbeteren."
 
 #: /xml/Home.xml
 msgctxt "#31120"
-msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
+msgid ""
+"You did not set up a weather provider yet. In order to view weather "
+"information, choose a weather provider and set up your location."
 msgstr ""
 "Je hebt nog geen weerprovider ingesteld. Om weerberichten te zien, kies een "
 "weerprovider en stel de locatie in."
@@ -628,7 +647,9 @@ msgstr "Afspeelsnelheid"
 
 #: /xml/Home.xml
 msgctxt "#31143"
-msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgid ""
+"You did not set up PVR yet. In order to use PVR, choose a PVR client addon "
+"and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
 msgstr ""
 "Je hebt nog geen PVR ingesteld. Om gebruik te kunnen maken van PVR, kies een "
 "PVR-cliënt addon en configureer deze. Bezoek https://kodi.wiki/view/PVR om "
@@ -671,7 +692,9 @@ msgstr "Willekeurige muziekvideo's"
 
 #: /xml/Includes.xml
 msgctxt "#31153"
-msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgid ""
+"You do not have any add-ons of this type installed. Enter the add-on browser "
+"to download add-ons created by our community."
 msgstr ""
 "Je hebt nog geen enkele add-on van dit type geïnstalleerd. Bezoek de add-"
 "onverkenner om add-ons te downloaden gecreëerd door onze community."
@@ -718,7 +741,9 @@ msgstr "Numeriek pad"
 
 #: /xml/Home.xml
 msgctxt "#31162"
-msgid "Play your personal games or download one of the many game add-ons from the official repository."
+msgid ""
+"Play your personal games or download one of the many game add-ons from the "
+"official repository."
 msgstr ""
 "Speel je persoonlijke spellen, of download één van de vele speladd-ons uit "
 "de officiële repository."
@@ -740,7 +765,9 @@ msgstr "Voeg media bronnen toe"
 
 #: /xml/Custom_1120_SourcesDialog.xml
 msgctxt "#31202"
-msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
+msgid ""
+"Shortcuts to the \"Files\" sections of each media type. Go there to add "
+"additional sources for your databases."
 msgstr ""
 "Snelkoppelingen naar de secties \"Bestanden\" van elk mediatype. Ga daarheen "
 "om extra bronnen voor uw databases toe te voegen."
@@ -767,7 +794,8 @@ msgstr "Hoofdmenu instellingen resetten"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31207"
-msgid "Are you sure you want to reset display of all menu items back to default ?"
+msgid ""
+"Are you sure you want to reset display of all menu items back to default ?"
 msgstr "Hoofdmenu instellingen terugzetten? Weet u dit zeker?"
 
 #: /xml/SkinSettings.xml
@@ -1592,12 +1620,19 @@ msgstr "Spelbronnen"
 
 #: /xml/Home.xml
 msgctxt "#31373"
-msgid "Your games library is currently empty. In order to populate it with your personal games, add a games source. After the source has been added you will be able to browse your games list. You will also need to install necessary add-ons for games."
+msgid ""
+"Your games library is currently empty. In order to populate it with your "
+"personal games, add a games source. After the source has been added you will "
+"be able to browse your games list. You will also need to install necessary "
+"add-ons for games."
 msgstr "Spelbibliotheek is leeg"
 
 #: /xml/Home.xml
 msgctxt "#31374"
-msgid "Your pictures library is currently empty. In order to populate it with your personal pictures, add a pictures source. After the source has been added you will be able to browse your pictures list."
+msgid ""
+"Your pictures library is currently empty. In order to populate it with your "
+"personal pictures, add a pictures source. After the source has been added "
+"you will be able to browse your pictures list."
 msgstr "Afbeeldingsbibliotheek is leeg"
 
 #: /xml/Home.xml
@@ -1662,7 +1697,9 @@ msgstr "Instellingen laten zien voor snelkoppelingen widgets"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#31398"
-msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
+msgid ""
+"It's necessary to reboot Kodi and '[B]Reset main menu and power menu "
+"settings[/B]' in skin settings after installation of this version."
 msgstr ""
 "Kodi dient opnieuw te worden opgestart. Herstel hoofdmenu en powermenu-"
 "instellingen binnen de skin-instellingen"
@@ -1976,7 +2013,9 @@ msgstr "Thema's activeren (Valentijnsdag, Pasen, Halloween en Kerstmis)"
 
 #: /xml/Home.xml
 msgctxt "#31460"
-msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
+msgid ""
+"Your library is currently empty.[CR]In order to populate it with your "
+"personal media, add  sources and configure them."
 msgstr "Bibliotheek is op het moment leeg"
 
 #: /xml/Variables.xml
@@ -2437,7 +2476,10 @@ msgid "Local Path to animated Poster Folder"
 msgstr "In welke map staan de bewegende posters"
 
 msgctxt "#31599"
-msgid "The folder of the animated Poster Collection was not defined yet. Define a Folder on the local File System containing animated Posters within the Skin Settings."
+msgid ""
+"The folder of the animated Poster Collection was not defined yet. Define a "
+"Folder on the local File System containing animated Posters within the Skin "
+"Settings."
 msgstr ""
 "Folder voor bewegende posters nog niet aangemaakt. Deze dus aanmaken waar de "
 "posters in zitten."
@@ -2539,10 +2581,9 @@ msgstr "Flix Landschap"
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Visualisatie van de PVR- en tv-schermgerelateerde instellingen."
 
-#: - Modified Start -
-#: DialogVideoInfo.xml
+#: - Modified Start DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
 msgstr "Uitgegeven"
@@ -2559,11 +2600,11 @@ msgstr "Foutopsporingsraster"
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Audiotaal weergeven"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Toon ondertiteltaal"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
@@ -2571,11 +2612,11 @@ msgstr "IMDB-beoordeling weergeven"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Toon TMDB-beoordeling"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB-beoordeling weergeven"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
@@ -2595,7 +2636,7 @@ msgstr "Toon mijn beoordeling"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Video-FPS weergeven"
 
 #: SkinSettings.xml
 msgctxt "#31820"
@@ -2609,15 +2650,15 @@ msgstr "Originele titel weergeven"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Toon Schrijver"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Toon land"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Toon Studio"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
@@ -2645,15 +2686,15 @@ msgstr "IMDB-beoordeling weergeven"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Show The Movie DB Rating"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Toon TMDB-beoordeling"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "TVDB-beoordeling weergeven"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
@@ -2673,11 +2714,11 @@ msgstr "Toon set"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Toon slogan"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Datum toegevoegd weergeven"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
@@ -2694,11 +2735,11 @@ msgstr "Uitschakelen weergeven"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Afsluiten weergeven"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Toon Onderbreken"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
@@ -2706,7 +2747,7 @@ msgstr "Slaapstand weergeven"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Uitschakeltimer weergeven"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
@@ -2747,7 +2788,7 @@ msgstr "Feestdagen Thema's"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Aanraakschermvriendelijke bediening"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
@@ -2755,7 +2796,7 @@ msgstr "Kioskmodus vergrendelt weergavewijzigingen"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Indelingsstijl Power Menu"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
