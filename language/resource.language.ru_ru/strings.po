@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-22 18:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2022-09-24 13:35+0000\n"
+"Last-Translator: C4Wiz <c4wiz@live.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/"
-"skin-estuary-modv2/language/ru/>\n"
+"skin-estuary-modv2/glossary/ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -952,107 +952,107 @@ msgstr "Непрозрачность для фанарта в качестве �
 #: /xml/SkinSettings.xml
 msgctxt "#31238"
 msgid "0%"
-msgstr ""
+msgstr "0%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31239"
 msgid "5%"
-msgstr ""
+msgstr "5%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31240"
 msgid "10%"
-msgstr ""
+msgstr "10%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31241"
 msgid "15%"
-msgstr ""
+msgstr "15%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31242"
 msgid "20%"
-msgstr ""
+msgstr "20%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31243"
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31244"
 msgid "30%"
-msgstr ""
+msgstr "30%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31245"
 msgid "35%"
-msgstr ""
+msgstr "35%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31246"
 msgid "40%"
-msgstr ""
+msgstr "40%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31247"
 msgid "45%"
-msgstr ""
+msgstr "45%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31248"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31249"
 msgid "55%"
-msgstr ""
+msgstr "55%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31250"
 msgid "60%"
-msgstr ""
+msgstr "60%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31251"
 msgid "65%"
-msgstr ""
+msgstr "65%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31252"
 msgid "70%"
-msgstr ""
+msgstr "70%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31253"
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31254"
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31255"
 msgid "85%"
-msgstr ""
+msgstr "85%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31256"
 msgid "90%"
-msgstr ""
+msgstr "90%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31257"
 msgid "95%"
-msgstr ""
+msgstr "95%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31258"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31259"
@@ -1934,12 +1934,12 @@ msgstr "Мой рейтинг"
 #: /xml/Variables.xml
 msgctxt "#31434"
 msgid "win"
-msgstr ""
+msgstr "победить"
 
 #: /xml/Variables.xml
 msgctxt "#31435"
 msgid "wins"
-msgstr ""
+msgstr "выигрывает"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31436"
@@ -2145,27 +2145,27 @@ msgstr "Режим области для настройки постоянной
 #: /xml/SkinSettings.xml
 msgctxt "#31475"
 msgid "2:35:1 (1920x817)"
-msgstr ""
+msgstr "2:35:1 (1920x817)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31476"
 msgid "2:40:1 (1920x800)"
-msgstr ""
+msgstr "2:40:1 (1920x800)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31477"
 msgid "1:77:1 (1920x1080)"
-msgstr ""
+msgstr "1:77:1 (1920x1080)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31478"
 msgid "1:85:1 (1920x1038)"
-msgstr ""
+msgstr "1:85:1 (1920x1038)"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31479"
 msgid "2:37:1 (1920x810)"
-msgstr ""
+msgstr "2:37:1 (1920x810)"
 
 #: /xml/Variables.xml
 msgctxt "#31480"
@@ -2417,15 +2417,15 @@ msgstr "Медиа"
 
 msgctxt "#31567"
 msgid "Kodi/Distribution Logo"
-msgstr ""
+msgstr "Коди / Логотип дистрибутива"
 
 msgctxt "#31568"
 msgid "LibreELEC"
-msgstr ""
+msgstr "LibreELEC"
 
 msgctxt "#31569"
 msgid "CoreELEC"
-msgstr ""
+msgstr "CoreELEC"
 
 msgctxt "#31570"
 msgid "Show extended Power Menu"
@@ -2608,275 +2608,277 @@ msgstr "Глубина цвета"
 #: SkinSettings.xml
 msgctxt "#31613"
 msgid "Display Media Time"
-msgstr ""
+msgstr "Отображение времени мультимедиа"
 
 msgctxt "#31614"
 msgid "current Time / total Time"
-msgstr ""
+msgstr "текущее время / общее время"
 
 msgctxt "#31615"
 msgid "Remaining Time"
-msgstr ""
+msgstr "Оставшееся время"
 
 #: SkinSettings.xml
 msgctxt "#31616"
 msgid "Use Background for PVR Channel Icons"
-msgstr ""
+msgstr "Использовать фон для значков каналов PVR"
 
 #: Custom_1127_settingsTVWidgets.xml
 msgctxt "#31617"
 msgid "Saved Search Results"
-msgstr ""
+msgstr "Сохраненные результаты поиска"
 
 #: SkinSettings.xml
 msgctxt "#31618"
 msgid "Use full Height for Channel and Program OSD"
-msgstr ""
+msgstr "Используйте полную высоту для канала и программы OSD"
 
 #: Font.xml
 msgctxt "#31619"
 msgid "Economica based"
-msgstr ""
+msgstr "Экономика на основе"
 
 #. viewtype name
 #: /xml/View_510_Flix.xml
 msgctxt "#31620"
 msgid "Flix Landscape"
-msgstr ""
+msgstr "Фликс Пейзаж"
 
 #: Variables.xml (SkinSettings.xml)
 msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
-msgstr ""
+msgstr "Визуализация настроек, связанных с PVR и экраном телевизора."
 
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"
-msgstr ""
+msgstr "Вышел"
 
 #: SkinSettings.xml
 msgctxt "#31801"
 msgid "Debug Labels"
-msgstr ""
+msgstr "Метки отладки"
 
 msgctxt "#31802"
 msgid "Debug Grid"
-msgstr ""
+msgstr "Отладочная сетка"
 
 #: Custom_1137_SettingsFlags.xml
 msgctxt "#31803"
 msgid "Show Audio Language"
-msgstr ""
+msgstr "Показать язык аудио"
 
 msgctxt "#31804"
 msgid "Show Subtitle Language"
-msgstr ""
+msgstr "Показать язык субтитров"
 
 msgctxt "#31805"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Показать рейтинг IMDB"
 
 msgctxt "#31806"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Показать рейтинг TMDB"
 
 msgctxt "#31807"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Показать рейтинг TVDB"
 
 msgctxt "#31808"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Показать рейтинг Rotten Tomatoes"
 
 msgctxt "#31809"
 msgid "Show Meta Critic Rating"
-msgstr ""
+msgstr "Показать рейтинг метакритиков"
 
 msgctxt "#31810"
 msgid "Show Music Rating"
-msgstr ""
+msgstr "Показать музыкальный рейтинг"
 
 msgctxt "#31811"
 msgid "Show My Rating"
-msgstr ""
+msgstr "Показать мой рейтинг"
 
 msgctxt "#31812"
 msgid "Show Video FPS"
-msgstr ""
+msgstr "Показать видео FPS"
 
 #: SkinSettings.xml
 msgctxt "#31820"
 msgid "Configure InfoDialog Data"
-msgstr ""
+msgstr "Настройка данных InfoDialog"
 
 #: Custom_1145_DialogInfoMetadata.xml
 msgctxt "#31821"
 msgid "Show Original Title"
-msgstr ""
+msgstr "Показать исходное название"
 
 msgctxt "#31822"
 msgid "Show Writer"
-msgstr ""
+msgstr "Писатель шоу"
 
 msgctxt "#31823"
 msgid "Show Country"
-msgstr ""
+msgstr "Показать страну"
 
 msgctxt "#31824"
 msgid "Show Studio"
-msgstr ""
+msgstr "Шоу Студия"
 
 msgctxt "#31825"
 msgid "Show Date Premiered"
-msgstr ""
+msgstr "Дата премьеры шоу"
 
 msgctxt "#31826"
 msgid "Show Date Next Aired"
-msgstr ""
+msgstr "Показать дату следующего эфира"
 
 msgctxt "#31827"
 msgid "Show Date Latest Aired"
-msgstr ""
+msgstr "Показать дату последнего эфира"
 
 msgctxt "#31828"
 msgid "Show Season/Episode"
-msgstr ""
+msgstr "Показать Сезон/Эпизод"
 
 msgctxt "#31829"
 msgid "Show MPAA Rating"
-msgstr ""
+msgstr "Показать рейтинг MPAA"
 
 msgctxt "#31830"
 msgid "Show IMDB Rating"
-msgstr ""
+msgstr "Показать рейтинг IMDB"
 
 msgctxt "#31831"
 msgid "Show The Movie DB Rating"
-msgstr ""
+msgstr "Показать рейтинг БД фильма"
 
 msgctxt "#31832"
 msgid "Show TMDB Rating"
-msgstr ""
+msgstr "Показать рейтинг TMDB"
 
 msgctxt "#31833"
 msgid "Show TVDB Rating"
-msgstr ""
+msgstr "Показать рейтинг TVDB"
 
 msgctxt "#31834"
 msgid "Show MetaCritic Rating"
-msgstr ""
+msgstr "Показать рейтинг MetaCritic"
 
 msgctxt "#31835"
 msgid "Show Rotten Tomatoes Rating"
-msgstr ""
+msgstr "Показать рейтинг Rotten Tomatoes"
 
 msgctxt "#31836"
 msgid "Show Ratings and Votes"
-msgstr ""
+msgstr "Показать рейтинги и голоса"
 
 msgctxt "#31837"
 msgid "Show Set"
-msgstr ""
+msgstr "Показать набор"
 
 msgctxt "#31838"
 msgid "Show Tagline"
-msgstr ""
+msgstr "Показать слоган"
 
 msgctxt "#31839"
 msgid "Show Date Added"
-msgstr ""
+msgstr "Показать дату добавления"
 
 msgctxt "#31840"
 msgid "Show Filename and Path"
-msgstr ""
+msgstr "Показать имя файла и путь"
 
 #: Custom_1146_PowerMenu.xml, SkinSettings.xml
 msgctxt "#31850"
 msgid "Configure Power Menu"
-msgstr ""
+msgstr "Настройка меню питания"
 
 msgctxt "#31851"
 msgid "Show Power Off"
-msgstr ""
+msgstr "Показать выключение питания"
 
 msgctxt "#31852"
 msgid "Show Shutdown"
-msgstr ""
+msgstr "Показать выключение"
 
 msgctxt "#31853"
 msgid "Show Suspend"
-msgstr ""
+msgstr "Показать приостановку"
 
 msgctxt "#31854"
 msgid "Show Hibernate"
-msgstr ""
+msgstr "Показать режим гибернации"
 
 msgctxt "#31855"
 msgid "Show Shutdown Timer"
-msgstr ""
+msgstr "Показать таймер выключения"
 
 msgctxt "#31856"
 msgid "Show Reboot from NAND (EMMC)"
-msgstr ""
+msgstr "Показать перезагрузку из NAND (EMMC)"
 
 msgctxt "#31857"
 msgid "Show Exit"
-msgstr ""
+msgstr "Показать выход"
 
 msgctxt "#31858"
 msgid "Show Reboot"
-msgstr ""
+msgstr "Показать перезагрузку"
 
 msgctxt "#31859"
 msgid "Show Reload Skin"
-msgstr ""
+msgstr "Показать перезагрузить скин"
 
 msgctxt "#31860"
 msgid "Show Restart KODI"
-msgstr ""
+msgstr "Показать перезапуск KODI"
 
 msgctxt "#31861"
 msgid "Show Log Off"
-msgstr ""
+msgstr "Показать выход из системы"
 
 msgctxt "#31862"
 msgid "Show RPM Power Off"
-msgstr ""
+msgstr "Показать RPM Power Off"
 
 msgctxt "#31863"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Перезагрузить скин"
 
 #: Variables.xml (SkinSettingsHelpTextVar)
 msgctxt "#31901"
 msgid "Holidays Themes"
-msgstr ""
+msgstr "Праздники Темы"
 
 msgctxt "#31903"
 msgid "Touch Screen Friendly Controls"
-msgstr ""
+msgstr "Удобное управление с сенсорным экраном"
 
 msgctxt "#31904"
 msgid "Kiosk Mode locks view changes"
-msgstr ""
+msgstr "Режим киоска блокирует изменения просмотра"
 
 msgctxt "#31906"
 msgid "Power Menu Layout Style"
-msgstr ""
+msgstr "Стиль макета меню питания"
 
 msgctxt "#31907"
 msgid "Configure the Power Menu Items to Display"
-msgstr ""
+msgstr "Настройте элементы меню питания для отображения"
 
 msgctxt "#31909"
 msgid "Estuary MODv2 Splash Screen"
-msgstr ""
+msgstr "Эстуарий MODv2 Заставка"
 
 msgctxt "#31910"
 msgid "Debug Labels, show xml and controls (Helpful for Skinning)"
 msgstr ""
+"Отладка меток, отображение xml и элементов управления (полезно для создания "
+"скинов)"
 
 msgctxt "#31911"
 msgid "Grid Overlay (Helpful for Skinning)"
-msgstr ""
+msgstr "Наложение сетки (полезно для скиннинга)"
