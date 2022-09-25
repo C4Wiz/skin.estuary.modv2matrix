@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: Skin MOD - Estuary MOD V2 - KODI 18\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-24 14:59+0000\n"
+"PO-Revision-Date: 2022-09-25 13:44+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: Hebrew (Israel) <https://hosted.weblate.org/projects/skin-"
-"estuary-modv2/glossary/he_IL/>\n"
+"Language-Team: Hebrew (Israel) <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2-modified/languages/he_IL/>\n"
 "Language: he_il\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -579,7 +579,7 @@ msgstr "הוא"
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31126"
 msgid "Press [B]OK[/B] to show plot"
-msgstr "הקש 'אישור' כדי לקרוא את העלילה"
+msgstr "לחץ על [B]OK[/B] כדי להציג את העלילה"
 
 #: /xml/Includes_MediaMenu.xml
 msgctxt "#31127"
@@ -706,7 +706,7 @@ msgid ""
 "You do not have any add-ons of this type installed. Enter the add-on browser "
 "to download add-ons created by our community."
 msgstr ""
-"לא מותקנות הרחבות מהסוג זה. אנא כנס לדפדפן ההרחבות  כדי להוריד הרחבות שנוצרו "
+"אין לך תוספים מסוג זה מותקנים. היכנס לדפדפן התוספים כדי להוריד תוספים שנוצרו "
 "על ידי הקהילה שלנו."
 
 #: /xml/MyWeather.xml
@@ -777,8 +777,8 @@ msgid ""
 "Shortcuts to the \"Files\" sections of each media type. Go there to add "
 "additional sources for your databases."
 msgstr ""
-"קיצורי דרך למחלקת 'קבצים'  לכל סוגי המדיה. עבור לשם כדי להוסיף מקורות נוספים "
-"עבור מסדי הנתונים שלך."
+"קיצורי דרך למקטעים \"קבצים\" של כל סוג מדיה. עבור לשם כדי להוסיף מקורות "
+"נוספים עבור מסדי הנתונים שלך."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31203"
@@ -920,12 +920,12 @@ msgstr "קידוד תוכנה"
 #: /xml/Variables.xml
 msgctxt "#31230"
 msgid "Plot masked to avoid spoilers."
-msgstr "עלילה ממוסכת כדי למנוע ספוילרים"
+msgstr "העלילה מוסווה כדי למנוע ספוילרים."
 
 #: /xml/SkinSettings.xml
 msgctxt "#31231"
 msgid "Hide episodes plots to avoid spoilers"
-msgstr "הסתר פרקים  כדי למנוע ספוילרים"
+msgstr "הסתר עלילות פרקים כדי להימנע מספוילרים"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31233"
@@ -1163,7 +1163,7 @@ msgstr "ווידאו OSD"
 #: /xml/SkinSettings.xml
 msgctxt "#31280"
 msgid "Show music visualisation screen when playing song"
-msgstr "הצג מסך להדמיה של מוזיקה בעת ניגון  שיר"
+msgstr "הצג מסך הדמיית מוזיקה בעת הפעלת שיר"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31281"
@@ -1672,7 +1672,7 @@ msgstr "הצג מילים מונפשות"
 #: /xml/Custom_1132_MoviesSetsInfo.xml
 msgctxt "#31380"
 msgid "Press [B]Up[/B] for extended info"
-msgstr " לחץ [B]למעלה[/B] למידע מורחב"
+msgstr "לחץ על [B]Up[/B] לקבלת מידע מורחב"
 
 #: /xml/addon.xml
 msgctxt "#31381"
@@ -1697,7 +1697,7 @@ msgstr "אפשר את חלונית 'השידור הבא' עבור טלוויזי
 #: /xml/Custom_1134_PVRNextUp.xml
 msgctxt "#31396"
 msgid "Next up"
-msgstr "המשך יבוא..."
+msgstr "הבא בתור"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31397"
