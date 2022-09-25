@@ -1,10 +1,10 @@
 # Skin Estuary MOD V2 for KODI 19 Matrix KN Edition (Modified) #
 
-# ** Please be aware that i am only maintaining the English version, all other translations needed ** #
-
 ## Installation Notes ##
 
-The "Kodinerds Repo", Must be installed manually so the required PVR Artwork Module (If you use the PVR Function) can be installed, and other usefull addons.
+The "Kodinerds Repo", Must be installed manually so the required PVR Artwork Module (If you use the PVR Function) can be installed, and other usefull addons from the Kodi Nerds Repo.
+
+Kodi Nerds Repo is available from my repo.
 Additional Addon's can be used by Installing the "Rector Stuff Repo"
 
 Non Installable Addon's will be hidden in SkinSettings till the Repos are Installed.
