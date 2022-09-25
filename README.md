@@ -55,6 +55,10 @@ supports animated poster only.
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 
+
+- .4
+   * update translations for all languages (thanks for the bunch of work to C4Wiz)
+
 - .3
    * Fix wrong viewtype labels
    * some more improvements on tvshow widgets
