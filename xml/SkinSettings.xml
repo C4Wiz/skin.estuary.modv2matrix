@@ -666,8 +666,12 @@
 					<onclick>Skin.SelectBool(31325, 31099|powermenu_panel, 31428|powermenu_iconlist, 31427|powermenu_list)</onclick>
 					<label2>$VAR[PowerMenuAspectLabel2Var]</label2>
 				</control>
-				<control type="button" id="507">
-					<label>  ∟$LOCALIZE[31850]</label>
+				<control type="radiobutton" id="507">
+					<label>$LOCALIZE[31850]</label>
+					<textureradioonfocus>settings.png</textureradioonfocus>
+					<textureradioonnofocus>settings.png</textureradioonnofocus>
+					<textureradioofffocus>settings.png</textureradioofffocus>
+					<textureradiooffnofocus>settings.png</textureradiooffnofocus>
 					<include>DefaultSettingButton</include>
 					<onclick>ActivateWindow(1146)</onclick>
 				</control>
@@ -1082,8 +1086,12 @@
 					<textcolor>grey</textcolor>
 					<shadowcolor>black</shadowcolor>
 				</control>
-				<control type="button" id="721">
+				<control type="radiobutton" id="721">
 					<label>$LOCALIZE[31820]</label>
+					<textureradioonfocus>settings.png</textureradioonfocus>
+					<textureradioonnofocus>settings.png</textureradioonnofocus>
+					<textureradioofffocus>settings.png</textureradioofffocus>
+					<textureradiooffnofocus>settings.png</textureradiooffnofocus>
 					<include>DefaultSettingButton</include>
 					<onclick>ActivateWindow(1145)</onclick>
 				</control>
