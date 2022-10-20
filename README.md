@@ -55,6 +55,27 @@ supports animated poster only.
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 
+- .8
+  * Hungarian language update
+  * Font fix of Economica font family
+
+- .7
+  * make simplified seek bar optional (skin settings)
+  * improved skin settings
+  * Bugfixes
+
+- .6
+  * Refinements on PVR EPG view
+  * show seek bar only (without OSD parts) while seeking
+  * close power menu on Poweroff (RPM) before rpm addon starts
+  * Introducing audio samplerate flag for lossless audio codecs 
+
+- .5
+  * improved PVR image preview
+  * improved EPG timeline (has now 8 rows)
+  * new designed PVR event icons
+  * visibility of pvr & tv settings depends now on enabled PVR addons
+  * improved skin settings for textual selections (independend from language settings)
 
 - .4
    * update translations for all languages (thanks for the bunch of work to C4Wiz)
@@ -67,7 +88,6 @@ supports animated poster only.
     * custom info on small OSD
     * global record flag (independent of actual channel recording)
 
-
 - .2
   * Fix wrong *elec labels (thanks C4Wiz)
   * Add missing search button on video/audio side blade
@@ -77,14 +97,12 @@ supports animated poster only.
   * improved PVR status display in channel views
   * improved tvshow widgets
   
-
 - .1
   * Transparency of label background of widgets (Flix view) customizable
   * semitransparent Background for plot in video info added
   * Overlay texture in Flix view changed
   * fix wrong behaviour on info button if a movie is paused.
   * reorder language ids above 40xxx to 31xxx and usages to fit within the recommended range for skiins
-
 
 - .0
   * Introducing Flix Landscape View
@@ -144,18 +162,15 @@ supports animated poster only.
   * missing HDR label on Live-TV (PVR) added
   * Record flag added
 
-
 ### 3.4.0+matrix ###
 - .14
   * Settings option for displaying current time/total time and time remaining in small video OSD
   * File view in video widgets added (movie, tvshow)
   
-
 - .13
   * color scheme 'chicken' added
   * UK/MPAA 15 rating added
   
-
 - .12
   * fixed incorrect poster overlays in episode view
   * some icons added
@@ -164,16 +179,13 @@ supports animated poster only.
   * fixed missing content path for movie genres
   * some PVR Radio fixes
 
-
 - .11
   * Missing control 1501 in CoreELEC/LibreELEC Settings Wizard added
   * Condition for Palm Week fixed
 
-
 - .10
   * Russian language updated, thanks to aleksslab
   * Navigation in PVRGuide optimized
-
 
 - .9
   * Player process window in small osd adjusted
@@ -184,13 +196,11 @@ supports animated poster only.
   * Missing language strings (GER) for rating colors added
   * some modifications on holiday themes, Palm Week colors added
 
-
 - .8
   * Remove detection and use of extrafanart folder, as this isn't used by addons anymore
   * Remove fanart section from DialogVideoInfo and DialogMusicInfo
   * small changes to skinshortcut template (loading menues up to 100% faster), many thanks to beatmasterRS
   * add bookmarks button to simplified video osd
-
 
 - .7
   * Remove dependencies of Embuary Helper/Script from addon.xml
@@ -198,17 +208,14 @@ supports animated poster only.
   * Fixes on PVR channel status visibility and media menu in several channel views
   * Player process info extended (thanks to crazyturk who pointed this out)
 
-
 - .6
   * PVR: extended channel list fixed (missing item)
   * Skin errors in logfile fixed
   * missing spaces in some labels (PVR related) inserted (Issue #46)
   * Option for disable/enable PVR channel status symbols (recording/playing/encrypted/etc) added
 
-
 - .5
   * PVR Guide Control quick fix
-
 
 - .4
   * Colored flags updated (thanks again to frodo19)
@@ -216,22 +223,18 @@ supports animated poster only.
   * Guide navigation window added
   * Movieset View fixed
 
- 
-- .3
+ - .3
   * Video OSD: button 'switch to last channel' added
   * new view 'Big List' in PVR channel added
-
 
 - .2
   * Adjustments/Fixes in several views (mainly music section)
   * missing help text on empty libraries and disc menu are back
   * animated artwork on movie sets are now visible
 
-
 - .1
   * Missing addon dependencies in skin settings added
   * Infolabels for SIG/SNR changed (PVR)
-
 
 - .0  
   * PVR Artwork context menu removed
@@ -241,11 +244,9 @@ supports animated poster only.
   * new audio-, subtitle and PVR flags
   * minor modification of small OSD menu
 
-
 ### 3.3.1+matrix ###
 - .4  
   * shortfix for MPAA detection and displaying
-
 
 - .3
   * improved MPAA detection and handling
@@ -253,13 +254,11 @@ supports animated poster only.
   * minor fixes
   * several language file updates (thanks to all contributors)
 
-
 - .2 
   * Bug fixed for deleting animated artwork of TV Shows
   * Reimplemented Home button for DVD/BR menus in Video OSD
   * Audio toggle button in OSD video menu implemented
   * Introducing simplyfied OSD menu (Netflix style)
-
 
 - .1
   * Hungarian language updated
@@ -270,10 +269,8 @@ supports animated poster only.
   * Support for Rotten Tomatoes/MetaCritc added (mediaflags)
   * some smaller fixes/changes
 
-
 - .0 
   * Contextmenu entry and associated script for (re)assigning animated posters of movies added
-
 
 ### 3.3.0+matrix ###
 - .15
@@ -281,24 +278,20 @@ supports animated poster only.
   * optimized breadcrumbs in list views, visibility is now switchable/costumable 
   * Seasonal themes for 2022 updated (Valentine: 14.02, Easter: 14-18.04, Halloween: 31.10, Christmas: 27.11 - 26.12)
 
-
 - .14
   * Recognition for Dolby Vision extended (.dovu., .dolbyvision.) 
   * Coloured media flags added, thanks again to frodo19 
   * Hungarian language added, many thanks to frodo19
   * Recognition of 3D Files partial changed
 
-
 - .13
   * add missing HDR/HDR+/DV labels in video OSD
   * add item counter in list view / extended list view
   * split 3D Labels into 3D.mvc, 3D.sbs and 3D.tab (needs file name tagging like: 3d.mvc, 3d.sbs, 3d.tab, 3d)
   
-
 - .12
   * expand label size of options label (was cutted)
   * seasonal colored buttons for video-/audio OSD implemented
-
 
 - .11
   * another Bug in PVR artwork service fixed
@@ -309,55 +302,44 @@ supports animated poster only.
   * missing language strings in german language file added, unused strings removed
   * make rewind/forward button of player controls visible if a stream is seekable
 
-
 - .10
   * Bug in PVR artwork service fixed
-
 
 - .9
   * Missing mono font added (thanks dshoreman)
   * NL language updated (thanks freaktabnl)
   * services script revised, PVR Artwork Module (script.module.pvr.artwork) version > 1.0.17 needed
 
-
 - .8
   * Including PVR archive & reminder icons (thanks berkhornet)
-
 
 - .7
   * Introducing SACD (DSD) audio flag
   * minor improvements
-
 
 - .6
   * Parental controls removed (use profiles and lock mechanism instead)
   * Fix conditional behaviours on movie/tvshow widgets
   * minor adjustments in various dialogs and views
 
-
 - .5
   * optional display of channel logo/number in epg grid implemented
   * Changes in picture widget reversed
-
 
 - .4
   * Costum settings widgets views revised
   * Selection for default action on movie and TV show widgets implemented
   * smaller fixes and enhancements
 
-
 - .3
   * Autoclose OSD Fix
-
 
 - .2
   * Code cleanups and small fixes
   * Date Aired Flag added (Movies/TV Shows)
 
-
 - .1
   * Fix some issues when starting movie trailers from Embuary Info
-
 
 - .0  
   * Fix in Shutdown Menu: correct distribution logo was not shown
@@ -365,44 +347,35 @@ supports animated poster only.
   * Improvements on widget info visibility (PVR)
   * Video OSD with adjustable timing on auto close
 
-
 ### 3.2.0+matrix ###
 - .8
   * Fix in Shutdown Menu: correct distribution logo was not shown
 
-
 - .7
   * Fix in List View (Posters was not shown)
-
 
 - .6
   * Introducing media flags for video color depths like HDR (10bit), HDR+ (12bit) and Dolby Vision        by identifying special parts within filenames (.hdr., .10bit., .hdrplus., .12bit., .dv.)
   * Better implementation of embuary info script in Video Info Window and OSD Info
  
-
 - .5
   * Bugfix: MPAA rating not showing in movie collections
   * Minor bugfixes
 
-
 - .4
   * Reimplementation of extended info button in video OSD and native call to embuary info script
-
 
 - .3
   * Introducing MPAA/TV media flags
   * Bug fixed in music visualization (PVR radio)
 
-
 - .2
   * Improved Addon settings window (thanks @realvito from kodinerds)
-
 
 - .1
   * Revert some cleanups of includes
   * Texture updates, PVR category improvements part #2
   * Improvements/Bugfix in PVR artwork section
-
 
 - .0
   * Extended Info (embuary helper) in tvshow and movie info window added
@@ -417,16 +390,13 @@ supports animated poster only.
   * Reimplementation of studio icons in PVR info view (studio icons white required)
   * Some smaller fixes
 
-
 - .6
   * Fix missing semitransparent backgrounds on some PVR related windows
   * Fix missing action of info button in PVR OSD menu
 
-
 - .5
   * Busy spinner for PVR artwork in several PVR views added
   * NL language file updated
-
 
 - .4
   * Selection between fanart/poster view in EPG preview window, busy spinner added
@@ -434,21 +404,17 @@ supports animated poster only.
   * NL language strings updated
   * Dependency of TV show next aired addon removed from addon list and code
 
-
 - .3
   * Introduction and Bugfix of normal/extended Power Menu
   * further improvements of PVR artwork functions
 
-
 - .2
   * Improvements/Bugfixes of PVR artwork functions and info window
-
 
 - .1
   * show distribution/standard logo in top left corner
   * modification/rearranging of date/time info
   
-
 - .0
   * Implementation and introduction of PVR artwork using the "PVR Artwork Module"
   * show date in top bar (optional)
@@ -468,25 +434,20 @@ supports animated poster only.
   * Addon-Id info added (Addon Information window)
   * PVR NextUp notification fixed
   
-
 - .6
   * 'Kodi restart' button implemented (Power menu)
   * Shift View for pictures fixed
   
-
 - .5  
   * Background images for power menu, settings menu and search menu reimplemented
   * Rules of background images redefined
   
-
 - .4 
   * "Up Next" double strings notifications fixed, many thanks to hawkeyexp
   * viewswitcher script temporarily deactivated as this cause some issues  
 
-
 - .3
   * Some language strings updated
-
 
 - .2
   * Relaunch weather fanart on main screen and selected weather widget
@@ -496,12 +457,10 @@ supports animated poster only.
   * Some conditions of selecting artworks on music visualization changed (experimental)
   * Minor fixes
   
-  
 - .1
   * Display of publication year of movies/videos/tv shows in titles is now switchable
   * Dutch translation added, thanks to "theghostnl" from Kodi forum
   
-
 - .0
   * "Add" Button in Default Dialog Select Window reimplemented
 
@@ -513,11 +472,9 @@ Note: In my opinion, the adaptation to Kodi 19 is complete. Future changes will 
   * Bugfix: missing settings window of skin shortcuts addon reimplemented
   * Addon dependencies updated
 
-  
 - .15 
   * Portuguese (Brazil) translation added, many thanks to Fábio Vieitas Marques
   * Visibility of border and border color of radio and stream covers now dependend to border settings in skin setup, this allows shaped station logos
-
 
 - .14
   * Media selection for splash screen removed (causes crashes on startup sometimes)
@@ -525,42 +482,34 @@ Note: In my opinion, the adaptation to Kodi 19 is complete. Future changes will 
   * Fix of banner and artist clearart positions in music views if they both enabled at same time
   * Clearlogo on main music views removed (when overlapping other items)
   
-
 - .13
   * Rewrite of function "Jump to letter"
   * Option for API key management in settings removed
   * Behavior of widelist animation fixed if online content was requested
   
-
 - .12
   * last added episodes widget fixed if no thumbnail is available
   * Expression for easter theme updated (2.04 - 5.04), missing runtime values in info views added
-  
   
 - .11
   * Library editor changed against Metadata editor (settings window)
   * Backup/Restore items from settings removed (use Backup Tools instead)
   * Some graphics changed
     
-
 - .10
   * Dependencies of script.artwork.helper removed
   * Rework of animated background (Fanart)
 
-    
 - .9
   * Clearlogo from home screen and several main views removed (when overlays other items)
   * Settings window updated (required and optional addons)
   * Artwork Dump instead of Artwork Helper (n.a. for Matrix) implemented
 
-
 - .8
   * Triple list fixed
 
-
 - .7        
   * Mosaic view fixed, next unseen episodes reimplemented, start implementation of embuary helper
-
 
 - .5
   * Dependencies of script.skinhelper service completely removed

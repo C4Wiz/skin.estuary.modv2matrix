@@ -2589,6 +2589,36 @@ msgctxt "#31621"
 msgid "Visualization of the PVR and TV screen related settings."
 msgstr "Vizualizace nastavení souvisejících s PVR a TV obrazovkou."
 
+#: /xml/SkinSettings.xml
+
+msgctxt "#31622"
+msgid "Disabled timers"
+msgstr ""
+
+msgctxt "#31623"
+msgid "Default Action on 'Timer' Widgets"
+msgstr ""
+
+msgctxt "#31624"
+msgid "Show Timer Settings"
+msgstr ""
+
+msgctxt "#31625"
+msgid "Show Broadcast Information"
+msgstr ""
+
+msgctxt "#31627"
+msgid "Video and Audio OSD"
+msgstr ""
+
+msgctxt "#31628"
+msgid "OSD Artwork"
+msgstr ""
+
+msgctxt "#31630"
+msgid "Use simple Seekbar on Chapter and Time Seeking"
+msgstr ""
+
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"
