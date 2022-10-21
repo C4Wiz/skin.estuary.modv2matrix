@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-25 13:01+0000\n"
+"PO-Revision-Date: 2022-10-21 13:57+0000\n"
 "Last-Translator: C4Wiz <c4wiz@live.com>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/skin-"
-"estuary-modv2/glossary/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"skin-estuary-modv2-modified/languages/pt_BR/>\n"
 "Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: /xml/Home.xml /xml/DialogSeekBar.xml
 msgctxt "#31000"
@@ -2620,34 +2620,33 @@ msgid "Visualization of the PVR and TV screen related settings."
 msgstr "Visualização das configurações relacionadas ao PVR e à tela da TV."
 
 #: /xml/SkinSettings.xml
-
 msgctxt "#31622"
 msgid "Disabled timers"
-msgstr ""
+msgstr "Temporizadores desativados"
 
 msgctxt "#31623"
 msgid "Default Action on 'Timer' Widgets"
-msgstr ""
+msgstr "Ação padrão em widgets 'Timer'"
 
 msgctxt "#31624"
 msgid "Show Timer Settings"
-msgstr ""
+msgstr "Mostrar configurações do temporizador"
 
 msgctxt "#31625"
 msgid "Show Broadcast Information"
-msgstr ""
+msgstr "Mostrar informações de transmissão"
 
 msgctxt "#31627"
 msgid "Video and Audio OSD"
-msgstr ""
+msgstr "OSD de vídeo e áudio"
 
 msgctxt "#31628"
 msgid "OSD Artwork"
-msgstr ""
+msgstr "Arte OSD"
 
 msgctxt "#31630"
 msgid "Use simple Seekbar on Chapter and Time Seeking"
-msgstr ""
+msgstr "Use a barra de busca simples na busca de capítulo e tempo"
 
 #: - Modified Start -
 #: DialogVideoInfo.xml
