@@ -2534,6 +2534,26 @@ msgctxt "#31630"
 msgid "Use simple Seekbar on Chapter and Time Seeking"
 msgstr "Verwenden Sie die einfache Suchleiste für die Kapitel- und Zeitsuche"
 
+msgctxt "#31631"
+msgid "Action on 'last channel switch' OSD Button"
+msgstr "Aktion für 'letzter Kanal' OSD Button"
+
+msgctxt "#31632"
+msgid "Switch to last Channel directly"
+msgstr "Schalte direkt auf letzten Kanal"
+
+msgctxt "#31633"
+msgid "Show last five Channels"
+msgstr "Zeige die letzten fünf Kanäle"
+
+msgctxt "#31634"
+msgid "Last watched"
+msgstr "Zuletzt gesehen"
+
+msgctxt "#31635"
+msgid "Play Trailer"
+msgstr "Trailer abspielen"
+
 #: - Modified Start -
 #: DialogVideoInfo.xml
 msgctxt "#31800"

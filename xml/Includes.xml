@@ -2651,22 +2651,50 @@
 				<texturefocus />
 				<texturenofocus />
 			</control>
-			<control type="radiobutton">
+			<control type="group">
 				<right>10</right>
 				<top>11</top>
 				<width>48</width>
 				<height>48</height>
-				<radiowidth>48</radiowidth>
-				<radioheight>48</radioheight>
-				<texturefocus />
-				<texturenofocus />
-				<label/>
-				<textureradioofffocus colordiffuse="EEFFFFFF">dialogs/close.png</textureradioofffocus>
-				<textureradiooffnofocus colordiffuse="EEFFFFFF">icons/logo.png</textureradiooffnofocus>
-				<textureradioonfocus colordiffuse="EEFFFFFF">dialogs/close.png</textureradioonfocus>
-				<textureradioonnofocus colordiffuse="EEFFFFFF">icons/logo.png</textureradioonnofocus>
-				<onclick>Action(close)</onclick>
-				<visible>!Skin.HasSetting(touchmode)</visible>
+				<control type="radiobutton">
+ 					<radiowidth>48</radiowidth>
+ 					<radioheight>48</radioheight>
+ 					<texturefocus />
+ 					<texturenofocus />
+ 					<label/>
+ 					<textureradioofffocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioofffocus>
+ 					<textureradiooffnofocus colordiffuse="CCFFFFFF">icons/logo.png</textureradiooffnofocus>
+ 					<textureradioonfocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioonfocus>
+ 					<textureradioonnofocus colordiffuse="CCFFFFFF">icons/logo.png</textureradioonnofocus>
+ 					<onclick>Action(close)</onclick>
+ 					<visible>!Skin.HasSetting(touchmode) + !Skin.HasSetting(MenuLogoLE) + !Skin.HasSetting(MenuLogoCE)</visible>
+ 				</control>
+ 				<control type="radiobutton">
+ 					<radiowidth>48</radiowidth>
+ 					<radioheight>48</radioheight>
+ 					<texturefocus />
+ 					<texturenofocus />
+ 					<label/>
+ 					<textureradioofffocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioofffocus>
+ 					<textureradiooffnofocus colordiffuse="CCFFFFFF">icons/le-logo-white.png</textureradiooffnofocus>
+ 					<textureradioonfocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioonfocus>
+ 					<textureradioonnofocus colordiffuse="CCFFFFFF">icons/le-logo-white.png</textureradioonnofocus>
+ 					<onclick>Action(close)</onclick>
+ 					<visible>!Skin.HasSetting(touchmode) + Skin.HasSetting(MenuLogoLE)</visible>
+ 				</control>
+ 				<control type="radiobutton">
+ 					<radiowidth>48</radiowidth>
+ 					<radioheight>48</radioheight>
+ 					<texturefocus />
+ 					<texturenofocus />
+ 					<label/>
+ 					<textureradioofffocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioofffocus>
+ 					<textureradiooffnofocus colordiffuse="CCFFFFFF">icons/ce-logo-white.png</textureradiooffnofocus>
+ 					<textureradioonfocus colordiffuse="CCFFFFFF">dialogs/close.png</textureradioonfocus>
+ 					<textureradioonnofocus colordiffuse="CCFFFFFF">icons/ce-logo-white.png</textureradioonnofocus>
+ 					<onclick>Action(close)</onclick>
+ 					<visible>!Skin.HasSetting(touchmode) + Skin.HasSetting(MenuLogoCE)</visible>
+ 				</control>
 			</control>
 			<control type="button">
 				<right>10</right>
@@ -3044,7 +3072,7 @@
 						<imagepath background="true" colordiffuse="$VAR[Background_Opacity]">$VAR[MediaFanartVar]</imagepath>
 						<timeperimage>3000</timeperimage>
 						<randomize>true</randomize>
-						<animation effect="slide" end="-10000,-10000" time="0" condition="Control.IsVisible(502) + !$EXP[infodialog_active]">Conditional</animation>
+						<animation effect="slide" end="-10000,-10000" time="0" condition="[Control.IsVisible(502) | Control.IsVisible(510)] + !$EXP[infodialog_active]">Conditional</animation>
 						<visible>!Window.IsVisible(Home.xml)</visible>
 						<visible>![Control.IsVisible(55) + [Container.Content(years) | Container.Content(countries) | Container.Content(directors) | Container.Content(studios) | Container.Content(tags) | Container.Content(actors) | Container.Content(playlists) | Container.Content(files)]] + ![Control.IsVisible(52) + [Container.Content(years) | Container.Content(countries) | Container.Content(directors) | Container.Content(studios) | Container.Content(tags) | Container.Content(actors) | Container.Content(playlists) | Container.Content(files)]]</visible>
 					</control>
@@ -3317,9 +3345,10 @@
 		<param name="height">120%</param>
 		<param name="flipx">false</param>
 		<param name="visible">true</param>
+		<param name="colordiffuse">EDFFFFFF</param>
 		<definition>
 			<control type="image">
-				<texture flipx="$PARAM[flipx]" colordiffuse="EDFFFFFF">lists/panel.png</texture>
+				<texture flipx="$PARAM[flipx]" colordiffuse="$PARAM[colordiffuse]">lists/panel.png</texture
 				<bordertexture border="21">overlays/shadow.png</bordertexture>
 				<bordersize>20</bordersize>
 				<width>$PARAM[width]</width>
@@ -3672,46 +3701,6 @@
  				<onleft>StepBack</onleft>
  				<onclick condition="Player.Forwarding | Player.Rewinding">PlayerControl(Play)</onclick>
  			</control>
- 			<control type="slider">
- 				<top>-5</top>
- 				<height>20</height>
- 				<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
- 				<textureslidernib>osd/progress/nub_leftright.png</textureslidernib>
- 				<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
- 				<info>Player.Progress</info>
- 				<action>seek</action>
- 				<visible>!Control.HasFocus(87) + !VideoPlayer.Content(LiveTV)</visible>
- 			</control>
- 			<control type="slider">
- 				<top>-5</top>
- 				<height>20</height>
- 				<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
- 				<textureslidernib colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernib>
- 				<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
- 				<info>Player.Progress</info>
- 				<action>seek</action>
- 				<visible>Control.HasFocus(87) + !VideoPlayer.Content(LiveTV)</visible>
- 			</control>
- 			<control type="slider">
- 				<top>-5</top>
- 				<height>20</height>
- 				<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
- 				<textureslidernib>osd/progress/nub_leftright.png</textureslidernib>
- 				<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
- 				<info>PVR.TimeshiftProgressPlayPos</info>
- 				<action>pvr.seek</action>
- 				<visible>!Control.HasFocus(87) + VideoPlayer.Content(LiveTV)</visible>
- 			</control>
- 			<control type="slider">
- 				<top>-5</top>
- 				<height>20</height>
- 				<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
- 				<textureslidernib colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernib>
- 				<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
- 				<info>PVR.TimeshiftProgressPlayPos</info>
- 				<action>pvr.seek</action>
- 				<visible>Control.HasFocus(87) + VideoPlayer.Content(LiveTV)</visible>
- 			</control>
  			<control type="ranges">
  				<height>10</height>
  				<colordiffuse>$VAR[SkinColorVar]</colordiffuse>
@@ -3728,6 +3717,50 @@
  				<texturebg border="3" colordiffuse="00FFFFFF">colors/white.png</texturebg>
  				<righttexture>colors/white.png</righttexture>
  				<info>Player.Chapters</info>
+ 			</control>
+ 			<control type="group">
+ 				<visible>![Player.Seeking | Player.DisplayAfterSeek]</visible>
+ 				<include>Visible_Fade</include>
+ 				<control type="slider">
+ 					<top>-5</top>
+ 					<height>20</height>
+ 					<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
+ 					<textureslidernib>osd/progress/nub_leftright.png</textureslidernib>
+ 					<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
+ 					<info>Player.Progress</info>
+ 					<action>seek</action>
+ 					<visible>!Control.HasFocus(87) + !VideoPlayer.Content(LiveTV)</visible>
+ 				</control>
+ 				<control type="slider">
+ 					<top>-5</top>
+ 					<height>20</height>
+ 					<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
+ 					<textureslidernib colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernib>
+ 					<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
+ 					<info>Player.Progress</info>
+ 					<action>seek</action>
+ 					<visible>Control.HasFocus(87) + !VideoPlayer.Content(LiveTV)</visible>
+ 				</control>
+ 				<control type="slider">
+ 					<top>-5</top>
+ 					<height>20</height>
+ 					<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
+ 					<textureslidernib>osd/progress/nub_leftright.png</textureslidernib>
+ 					<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
+ 					<info>PVR.TimeshiftProgressPlayPos</info>
+ 					<action>pvr.seek</action>
+ 					<visible>!Control.HasFocus(87) + VideoPlayer.Content(LiveTV)</visible>
+ 				</control>
+ 				<control type="slider">
+ 					<top>-5</top>
+ 					<height>20</height>
+ 					<texturesliderbar colordiffuse="00FFFFFF">osd/progress/nub_leftright.png</texturesliderbar>
+ 					<textureslidernib colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernib>
+ 					<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">osd/progress/nub_leftright.png</textureslidernibfocus>
+ 					<info>PVR.TimeshiftProgressPlayPos</info>
+ 					<action>pvr.seek</action>
+ 					<visible>Control.HasFocus(87) + VideoPlayer.Content(LiveTV)</visible>
+ 				</control>
  			</control>
  		</control>
  	</include>
@@ -3828,6 +3861,7 @@
  					<textureslidernibfocus colordiffuse="$VAR[SkinColorVar]">colors/white.png</textureslidernibfocus>
  					<visible>Player.SeekEnabled + VideoPlayer.HasEpg + !Player.ChannelPreviewActive</visible>
  				</control>
+ 				<include content="SeekBarProgress" condition="![Window.IsVisible(videoosd) | Window.IsVisible(musicosd)]"/>
  				<control type="label">
  					<bottom>105</bottom>
  					<height>30</height>

@@ -55,9 +55,20 @@ supports animated poster only.
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 
+- .9
+   * add "play trailer" to contextmenu
+   * fix unmatched parentheses in Home.xml
+   * fix doubled background in flex view
+   * fix position and size of context menu in flix view
+   * last seen movie template added (reset/modify main menu required)
+   * seek bar components modified
+
 - .8
   * Hungarian language update
   * Font fix of Economica font family
+  * PVR OSD: Introducing last five channel switch (optional)
+  * smaller fixes
+  * add missing studio logos on several widget layouts
 
 - .7
   * make simplified seek bar optional (skin settings)
