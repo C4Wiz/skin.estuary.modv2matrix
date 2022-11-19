@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary.modv2" version="3.4.2+matrix.10_1.3-modified" name="Estuary MOD V2 Matrix" provider-name="Guilouz, K19 branch by PvD, Modified by C4Wiz">
+<addon id="skin.estuary.modv2" version="3.4.2+matrix.11_1.3-modified" name="Estuary MOD V2 Matrix" provider-name="Guilouz, K19 branch by PvD, Modified by C4Wiz">
 	<requires>
 	    <import addon="xbmc.python" version="3.0.0"/>
 	    <import addon="xbmc.gui" version="5.15.0"/>
