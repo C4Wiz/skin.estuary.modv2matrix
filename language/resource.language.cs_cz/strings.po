@@ -2619,6 +2619,7 @@ msgid "Use simple Seekbar on Chapter and Time Seeking"
 msgstr "Použijte jednoduchý Seekbar na hledání kapitol a času"
 
 #: - Modified Start -
+
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"

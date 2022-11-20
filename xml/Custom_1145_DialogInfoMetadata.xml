@@ -132,8 +132,8 @@
 					<control type="radiobutton" id="12128">
 						<label>$LOCALIZE[31838]</label>
 						<include>DefaultSettingButton</include>
-						<selected>!Skin.HasSetting(show_infodialogtagline)</selected>
-						<onclick>Skin.ToggleSetting(show_infodialogtagline)</onclick>
+						<selected>!Skin.HasSetting(show_infodialogtag)</selected>
+						<onclick>Skin.ToggleSetting(show_infodialogtag)</onclick>
 					</control>
 					<control type="radiobutton" id="12129">
 						<label>$LOCALIZE[31839]</label>

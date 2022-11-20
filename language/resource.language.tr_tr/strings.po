@@ -2616,6 +2616,7 @@ msgid "Use simple Seekbar on Chapter and Time Seeking"
 msgstr "Bölüm ve Zaman Aramada basit Arama Çubuğunu kullanın"
 
 #: - Modified Start -
+
 #: DialogVideoInfo.xml
 msgctxt "#31800"
 msgid "Released"

@@ -158,7 +158,7 @@
 					<height>50</height>
 					<aligny>bottom</aligny>
 					<textoffsety>10</textoffsety>
-					<label>$LOCALIZE[31031] :</label>
+					<!--label>$LOCALIZE[31031] :</label-->
 					<shadowcolor>black</shadowcolor>
 					<font>font25_title</font>
 				</control>

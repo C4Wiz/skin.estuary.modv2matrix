@@ -598,7 +598,7 @@
 				<include content="InfoDialogMetadata">
 					<param name="control_id" value="164" />
 					<param name="label" value="$LOCALIZE[20459] : [COLOR white]$INFO[ListItem.Tag][/COLOR]" />
-					<param name="visible" value="!Skin.HasSetting(show_infodialogtagline) + !String.IsEmpty(ListItem.Tag)" />
+					<param name="visible" value="!Skin.HasSetting(show_infodialogtag) + !String.IsEmpty(ListItem.Tag)" />
 					<param name="textcolor" value="$VAR[SkinColorVar]" />
 					<param name="font" value="fontplot" />
 				</include>
