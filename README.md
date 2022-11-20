@@ -57,6 +57,7 @@ supports animated poster only.
 
 - .11
    * update playlist view
+   * extend setting 'Show Fanart' to all video views (affected earlier only to home widgets)
 
 - .10
    * include 'Jump to Letter' in Flix view
