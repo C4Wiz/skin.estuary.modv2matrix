@@ -52,7 +52,7 @@ supports animated poster only.
   * ALL Power Menu Options can be toggled
   * Added Descriptive labels to SkinSettings Extras tab
   * Extra Addons will be Hidden till the Required Repos are Installed
-  * Changed SettingsSystemIfo.xml to original Estuary layout and matched font to MODv2 Style
+  * Changed SettingsSystemIfo.xml to original Estuary layout and made more readable
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 
