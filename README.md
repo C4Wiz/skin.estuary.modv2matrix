@@ -33,7 +33,7 @@ supports animated poster only.
 
 ![](resources/setup_ap.png)
 
-### Mods Added to this Release ###
+### Mods Added to this Skin ###
 -------------------------------------------------------------------------------------------
   * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings (Once the Repo is Installed)
   * Added Flag Visibility for Filename and Path Labeling:
@@ -59,6 +59,9 @@ supports animated poster only.
 - .11
    * update playlist view
    * extend setting 'Show Fanart' to all video views (affected earlier only to home widgets)
+   * fix missing channel logo in PVR info views
+   * fix wrong used mediaflag of endtime and endtime resume with appendix AM/PM
+   * fix wrong position of channel group infolabel in PVR channel OSD
 
 - .10
    * include 'Jump to Letter' in Flix view
