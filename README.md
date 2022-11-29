@@ -62,7 +62,10 @@ supports animated poster only.
    * fix missing channel logo in Guide and Video OSD
    * link subtitles/audio OSD buttons to subtitles/audio settings for more flexibility (simplified OSD)
    * new more uniformed resolution flags (thanks again to frodo19)
-
+   * modify conditional visibility for 'Jump to Letter'
+   * fix playing Live TV while (fullscreen) video info becomes active
+   * avoid stuttering if skin setting 'Play video in background' isn't set
+   
 - .11
    * update playlist view
    * extend setting 'Show Fanart' to all video views (affected earlier only to home widgets)
