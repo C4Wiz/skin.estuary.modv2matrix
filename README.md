@@ -65,6 +65,7 @@ supports animated poster only.
    * modify conditional visibility for 'Jump to Letter'
    * fix playing Live TV while (fullscreen) video info becomes active
    * avoid stuttering if skin setting 'Play video in background' isn't set
+   * modifications on 'telecast offers' info window
    
 - .11
    * update playlist view
