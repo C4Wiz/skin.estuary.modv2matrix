@@ -53,7 +53,6 @@ supports animated poster only.
   * Added Descriptive labels to SkinSettings Extras tab
   * Extra Addons will be Hidden till the Required Repos are Installed
   * Changed SettingsSystemIfo.xml to original Estuary layout and made more readable
-  * Changed Skin name to skin.estuary.modv2.0
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 - .13
