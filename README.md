@@ -56,6 +56,10 @@ supports animated poster only.
   * Changed Skin name to skin.estuary.modv2.0
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .13
+   * smaller fixes and textures updates
+   * fix conditional visibility for label 'Jump to letter'
+   * fix incorrectly resolved condition while showing seekbar, when 'use small OSD' was not set
 
 - .12
   * Textures.xbt updated (av1 flag added)
