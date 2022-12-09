@@ -35,6 +35,7 @@ supports animated poster only.
 
 ### Mods Added to this Skin ###
 -------------------------------------------------------------------------------------------
+- _1.5 Modified
   * Removed the PVR Plugin as a Manditory to install the skin, its now a clickable option in SkinSettings (Once the Repo is Installed)
   * Added Flag Visibility for Filename and Path Labeling:
     * 2160P and 1080P will trigger the blu-ray logo 
@@ -46,13 +47,13 @@ supports animated poster only.
   * ALL DialogInfo metadata can be toggled
   * Reformatted Duration from HH:h,MM to HH:h,MM:m (1h33 to 1h33m)
   * Reformatted chapter display from Chapter 01 : 01/16 to Chapter : 01/16
-  * Removed PLOT header from clickable plot
   * Added Debug Labels and Debug grid to skinsettings (useful while skinning)
   * Added missing Mpeg-2 Varient of the Mpeg-2 Flag
   * ALL Power Menu Options can be toggled
   * Added Descriptive labels to SkinSettings Extras tab
   * Extra Addons will be Hidden till the Required Repos are Installed
   * Changed SettingsSystemIfo.xml to original Estuary layout and made more readable
+  * Replaced word PLOT with actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 - .13
