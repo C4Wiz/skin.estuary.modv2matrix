@@ -1668,13 +1668,11 @@ msgstr "Aktuelle Playlist"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31379"
-msgid "Show animated lyrics"
-msgstr "Animierte Liedertexte anzeigen"
+msgid "animate lyrics"
+msgstr "Liedertexte animieren"
 
 #: /xml/Custom_1132_MoviesSetsInfo.xml
 msgctxt "#31380"
-msgid "Press [B]Up[/B] for extended info"
-msgstr "[B]Hoch[/B] für erweiterte Informationen drücken"
 
 #: /xml/addon.xml
 msgctxt "#31381"
@@ -2557,6 +2555,10 @@ msgstr "Trailer abspielen"
 msgctxt "#31636"
 msgid "Show 'Play Trailer' in Context Menu"
 msgstr "Zeige 'Trailer abspielen' im Kontext Menü"
+
+msgctxt "#31637"
+msgid "Show Lyrics"
+msgstr "Zeige Liedtexte"
 
 #: - Modified Start -
 
