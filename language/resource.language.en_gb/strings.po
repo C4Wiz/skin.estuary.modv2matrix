@@ -1621,7 +1621,7 @@ msgctxt "#31378"
 msgid "Current playlist"
 msgstr ""
 
-/xml/SkinSettings.xml
+#: /xml/SkinSettings.xml
 msgctxt "#31379"
 msgid "animate lyrics"
 msgstr ""
