@@ -53,16 +53,17 @@ supports animated poster only.
   * Added Descriptive labels to SkinSettings Extras tab
   * Extra Addons will be Hidden till the Required Repos are Installed
   * Changed SettingsSystemIfo.xml to original Estuary layout and made more readable
-  * Replaced word PLOT with actual Title Name for full screen plot
+  * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
 - .13
-   * smaller fixes and textures updates
-   * fix conditional visibility for label 'Jump to letter'
-   * fix incorrectly resolved condition while showing seekbar, when 'use small OSD' was not set
-   * add Flix view to music videos
-   * set info dialog metadata to invisible if trailer is playing
-   * set power/settings/search/fullscreen menu buttons to vertical orientation if smaller main menu is set
+  * smaller fixes and textures updates
+  * fix cond visibility for label 'Jump to letter'
+  * fix incorrectly resolved condition while showing seekbar, when 'use small OSD' was not set
+  * add Flix view to music videos
+  * set info dialog metadata to invisible if trailer is playing
+  * set power/settings/search/fullscreen menu buttons to vertical orientation if smaller main menu is set
+  * add missing video info window if fullscreen video info is not set
 
 - .12
   * Textures.xbt updated (av1 flag added)

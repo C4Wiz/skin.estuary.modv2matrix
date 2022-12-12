@@ -2560,6 +2560,10 @@ msgctxt "#31637"
 msgid "Show Lyrics"
 msgstr "Zeige Liedtexte"
 
+msgctxt "#31638"
+msgid "Minimized Options Menu"
+msgstr "Verkleinertes Optionsmenü"
+
 #: - Modified Start -
 
 #: DialogVideoInfo.xml
