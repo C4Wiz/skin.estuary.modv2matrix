@@ -56,6 +56,9 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .15
+   * another behaviour of video info window fixed when fullscreen info is set and PVR is playing live TV
+
 - .14
    * fixes on video info window
 
