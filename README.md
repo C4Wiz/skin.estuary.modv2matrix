@@ -56,17 +56,20 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .14
+   * fixes on video info window
+
 - .13
-  * smaller fixes and textures updates
-  * fix cond visibility for label 'Jump to letter'
-  * fix incorrectly resolved condition while showing seekbar, when 'use small OSD' was not set
-  * add Flix view to music videos
-  * set info dialog metadata to invisible if trailer is playing
-  * set power/settings/search/fullscreen menu buttons to vertical orientation if smaller main menu is set
-  * add missing video info window if fullscreen video info is not set
+   * smaller fixes and textures updates
+   * fix cond visibility for label 'Jump to letter'
+   * fix incorrectly resolved condition while showing seekbar, when 'use small OSD' was not set
+   * add Flix view to music videos
+   * set info dialog metadata to invisible if trailer is playing
+   * set power/settings/search/fullscreen menu buttons to vertical orientation if smaller main menu is set
+   * add missing video info window if fullscreen video info is not set
 
 - .12
-  * Textures.xbt updated (av1 flag added)
+   * Textures.xbt updated (av1 flag added)
    * coloured flags updated (thanks to frodo19) 
    * fix missing channel logo in Guide and Video OSD
    * link subtitles/audio OSD buttons to subtitles/audio settings for more flexibility (simplified OSD)
