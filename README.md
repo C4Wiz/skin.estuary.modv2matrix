@@ -56,6 +56,12 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .16
+   * add missing preview for musicvideos on view selection window (1131) 
+   * add selection for default action on PVR widgets
+   * prepare dates for special themes 2023
+   * add PVR recording expiration date info
+
 - .15
    * another behaviour of video info window fixed when fullscreen info is set and PVR is playing live TV
 
