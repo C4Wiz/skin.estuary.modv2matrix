@@ -56,6 +56,10 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .17
+   * fix race condition in PVR next up that kodi causes to crash (issue #104)
+   * add season/episode labels to pvr widget
+
 - .16
    * add missing preview for musicvideos on view selection window (1131) 
    * add selection for default action on PVR widgets
