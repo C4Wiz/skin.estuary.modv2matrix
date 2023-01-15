@@ -2722,6 +2722,43 @@ msgctxt "#31630"
 msgid "Use simple Seekbar on Chapter and Time Seeking"
 msgstr "Используйте простую панель поиска для поиска глав и времени"
 
+msgctxt "#31631"
+msgid "Action on 'last channel switch' OSD Button"
+msgstr ""
+
+msgctxt "#31632"
+msgid "Switch to last Channel directly"
+msgstr ""
+
+msgctxt "#31633"
+msgid "Show last five Channels"
+msgstr ""
+
+msgctxt "#31634"
+msgid "Last watched"
+msgstr ""
+
+msgctxt "#31635"
+msgid "Play Trailer"
+msgstr ""
+
+msgctxt "#31636"
+msgid "Show 'Play Trailer' in Context Menu"
+msgstr ""
+
+#: Skinsettings.xml
+msgctxt "#31637"
+msgid "Show Lyrics"
+msgstr ""
+
+msgctxt "#31638"
+msgid "Minimized Options Menu"
+msgstr ""
+
+msgctxt "#31639"
+msgid "Default Action on 'PVR' Widgets"
+msgstr ""
+
 #: - Modified Start -
 
 #: DialogVideoInfo.xml
