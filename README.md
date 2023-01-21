@@ -58,6 +58,7 @@ supports animated poster only.
 ### 3.4.2+matrix ###
 - .19
    * Listview bugfix
+   * Fix doubled label of 'in progress tv shows'
 
 - .18
    * hungarian language updated
