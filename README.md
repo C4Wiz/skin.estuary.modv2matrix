@@ -56,6 +56,9 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .19
+   * Listview bugfix
+
 - .18
    * hungarian language updated
    * flixview improvements (background for sets, movie sets poster)
