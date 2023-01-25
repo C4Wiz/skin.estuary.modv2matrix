@@ -100,7 +100,7 @@
 					<item>
 						<label>$LOCALIZE[13012]</label>
 						<icon>special://skin/extras/icons/Power menu/exit.png</icon> 
-						<onclick>Quit</onclick>
+						<onclick>Quit()</onclick>
 						<visible>System.ShowExitButton + !Skin.HasSetting(show_pmexit)</visible>
 					</item>
 					<item>
@@ -137,9 +137,9 @@
 					<item>
 						<label>$LOCALIZE[31556]</label>
 						<onclick>System.ExecWait("/usr/sbin/rebootfromnand")</onclick>
-						<onclick>Reboot</onclick>
+						<onclick>Reboot()</onclick>
 						<visible>System.CanReboot</visible>
-						<visible>System.PathExist("/dev/system")</visible>
+						<visible>System.PathExist("/dev/system")| System.PathExist("/dev/userdata")</visible>
 						<visible>!Skin.HasSetting(show_pmrebootfromemmc)</visible>
 					</item>
 					<item>
@@ -327,7 +327,7 @@
 					<item>
 						<label>$LOCALIZE[13012]</label>
 						<icon>special://skin/extras/icons/Power menu/exit.png</icon> 
-						<onclick>Quit</onclick>
+						<onclick>Quit()</onclick>
 						<visible>System.ShowExitButton + !Skin.HasSetting(show_pmexit)</visible>
 					</item>
 					<item>
@@ -364,9 +364,9 @@
 					<item>
 						<label>$LOCALIZE[31556]</label>
 						<onclick>System.ExecWait("/usr/sbin/rebootfromnand")</onclick>
-						<onclick>Reboot</onclick>
+						<onclick>Reboot()</onclick>
 						<visible>System.CanReboot</visible>
-						<visible>System.PathExist("/dev/system")</visible>
+						<visible>System.PathExist("/dev/system")| System.PathExist("/dev/userdata")</visible>
 						<visible>!Skin.HasSetting(show_pmrebootfromemmc)</visible>
 					</item>
 					<item>
@@ -473,7 +473,7 @@
 					<item>
 						<label>$LOCALIZE[13012]</label>
 						<icon>special://skin/extras/icons/Power menu/exit.png</icon> 
-						<onclick>Quit</onclick>
+						<onclick>Quit()</onclick>
 						<visible>System.ShowExitButton + !Skin.HasSetting(show_pmexit)</visible>
 					</item>
 					<item>
@@ -510,9 +510,9 @@
 					<item>
 						<label>$LOCALIZE[31556]</label>
 						<onclick>System.ExecWait("/usr/sbin/rebootfromnand")</onclick>
-						<onclick>Reboot</onclick>
+						<onclick>Reboot()</onclick>
 						<visible>System.CanReboot</visible>
-						<visible>System.PathExist("/dev/system")</visible>
+						<visible>System.PathExist("/dev/system")| System.PathExist("/dev/userdata")</visible>
 						<visible>!Skin.HasSetting(show_pmrebootfromemmc)</visible>
 					</item>
 					<item>
