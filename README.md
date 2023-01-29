@@ -56,6 +56,9 @@ supports animated poster only.
   * Replaced the word PLOT with the actual Title Name for full screen plot
 --------------------------------------------------------------------------------------------
 ### 3.4.2+matrix ###
+- .20
+  * extend power menu property "reboot from eMMC/NAND"
+
 - .19
   * Listview bugfix
   * Fix doubled label of 'in progress tv shows'
