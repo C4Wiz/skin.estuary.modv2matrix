@@ -1123,6 +1123,7 @@
 						<param name="visible_3" value="System.HasMediaAudioCD"/>
 					</include>
 				</control>
+				<!-- Home screen Info Overlay -->
 				<control type="group" id="18000">
 					<animation effect="slide" end="502,0" time="300" tween="sine" easing="inout" condition="Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 					<animation effect="slide" end="135,0" time="300" tween="sine" easing="inout" condition="Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
@@ -1181,7 +1182,7 @@
 								<left>20</left>
 								<right>20</right>
 								<shadowcolor>text_shadow</shadowcolor>
-								<label>$LOCALIZE[166] Estuary MOD V2 Matrix • $INFO[System.AddonVersion(skin.estuary.modv2matrix),$LOCALIZE[24051] ]</label>
+								<label>Estuary MOD V2 Matrix • $INFO[System.AddonVersion(skin.estuary.modv2matrix),$LOCALIZE[24051] ]</label>
 								<scroll>true</scroll>
 								<animation effect="slide" end="-250,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 								<animation effect="slide" end="-67,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
@@ -1194,7 +1195,7 @@
 								<left>20</left>
 								<right>20</right>
 								<shadowcolor>text_shadow</shadowcolor>
-								<label>$INFO[System.KernelVersion]</label>
+								<label>$INFO[System.OSVersionInfo]</label>
 								<scroll>true</scroll>
 								<animation effect="slide" end="-250,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 								<animation effect="slide" end="-67,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
