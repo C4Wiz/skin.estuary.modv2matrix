@@ -38,7 +38,7 @@
 		<disclaimer lang="en_GB">Please Install the Kodinerds Repo if you wish to use the PVR Function, Available from my Repo.</disclaimer>
 		<platform>all</platform>
 		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
-		<source>https://github.com/C4Wiz/skin.estuary.modv2</source>
+		<source>https://github.com/C4Wiz/skin.estuary.modv2matrix</source>
 		<assets>
 		     <icon>resources/icon.png</icon>
 		     <fanart>resources/fanart.jpg</fanart>
