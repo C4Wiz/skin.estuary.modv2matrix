@@ -1181,7 +1181,7 @@
 								<left>20</left>
 								<right>20</right>
 								<shadowcolor>text_shadow</shadowcolor>
-								<label>$LOCALIZE[166] Estuary MOD V2 • $INFO[System.AddonVersion(skin.estuary.modv2),$LOCALIZE[24051] ]</label>
+								<label>$LOCALIZE[166] Estuary MOD V2 Matrix • $INFO[System.AddonVersion(skin.estuary.modv2matrix),$LOCALIZE[24051] ]</label>
 								<scroll>true</scroll>
 								<animation effect="slide" end="-250,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 								<animation effect="slide" end="-67,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
@@ -1240,7 +1240,7 @@
 								<animation effect="slide" end="-250,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 								<animation effect="slide" end="-67,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 							</control>
-							<control type="label">
+							<!--control type="label">
 								<top>490</top>
 								<align>center</align>
 								<height>30</height>
@@ -1252,7 +1252,7 @@
 								<scroll>true</scroll>
 								<animation effect="slide" end="-250,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + !Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
 								<animation effect="slide" end="-67,0" time="300" tween="sine" easing="out" condition="[Control.HasFocus(9000) | ControlGroup(700).HasFocus] + Skin.HasSetting(HideMainMenuWithWidgets) + Skin.HasSetting(MinimizeMainMenu)">Conditional</animation>
-							</control>
+							</control-->
 							<control type="label">
 								<top>530</top>
 								<align>center</align>
