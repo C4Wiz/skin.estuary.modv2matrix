@@ -1406,17 +1406,12 @@
 		<value condition="String.Contains(ListItem.Filenameandpath,web-dl) | String.Contains(ListItem.Filenameandpath,webdl)">flags/webdl.png</value>
 		<value condition="String.Contains(ListItem.Filenameandpath,dvd)">flags/dvd.png</value>
 		<value condition="String.Contains(ListItem.Filenameandpath,.iso)">flags/iso.png</value>
-		<value condition="String.Contains(ListItem.Filenameandpath,1080P) | String.Contains(ListItem.Filenameandpath,blu-ray) | String.Contains(ListItem.Filenameandpath,2160P)">flags/bluray.png</value>
+		<value condition="String.Contains(ListItem.Filenameandpath,1080P) | String.Contains(ListItem.Filenameandpath,2160P) | String.Contains(ListItem.Filenameandpath,bluray) | String.Contains(ListItem.Filenameandpath,blu-ray) | String.Contains(ListItem.Filenameandpath,bdrip)">flags/bluray.png</value>
 	</variable>
+	<!-- ALL HDR type recognition by FileName -->
 	<variable name="HdrTypeVar">
-		<value condition="!String.IsEmpty(ListItem.HdrType)">$INFO[ListItem.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(VideoPlayer.HdrType)">$INFO[VideoPlayer.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(Container.ListItem.HdrType)">$INFO[ListItem.Container.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(Container(60).ListItem.HdrType)">$INFO[Container(60).ListItem.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(Container(5083).ListItem.HdrType)">$INFO[Container(5083).ListItem.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(Container(5084).ListItem.HdrType)">$INFO[Container(5084).ListItem.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="!String.IsEmpty(Container(5094).ListItem.HdrType)">$INFO[Container(5094).ListItem.HdrType,flags/videoresolution/,.png]</value>
-		<value condition="String.Contains(Player.Filenameandpath,.HDR10.) | String.Contains(ListItem.Filenameandpath,.10bit.)">flags/videoresolution/hdr10.png</value>
+		<value condition="String.Contains(ListItem.Filenameandpath,.HDR10.) | String.Contains(ListItem.Filenameandpath,.10bit.)">flags/videoresolution/hdr10.png</value>
+		<value condition="String.Contains(Player.Filenameandpath,.HDR10.)">flags/videoresolution/hdr10.png</value>
 		<value condition="String.Contains(Container.ListItem.Filenameandpath,.HDR10.)">flags/videoresolution/hdr10.png</value>
 		<value condition="[String.Contains(Container(60).ListItem.Filenameandpath,.HDR10.) + Window.IsVisible(Custom_1132_MoviesSetsInfo.xml)]">flags/videoresolution/hdr10.png</value>
 		<value condition="String.Contains(Container(5083).ListItem.Filenameandpath,.HDR10.)">flags/videoresolution/hdr10.png</value>
