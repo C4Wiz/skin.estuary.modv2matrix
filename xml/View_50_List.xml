@@ -271,9 +271,9 @@
 				</include>
 				<control type="image">
 					<left>50</left>
- 					<top>170</top>
- 					<width>495</width>
- 					<height>440</height>
+					<top>170</top>
+					<width>495</width>
+					<height>440</height>
 					<aspectratio aligny="bottom">keep</aspectratio>
 					<fadetime>300</fadetime>
 					<texture background="true" fallback="DefaultVideo.png">$VAR[IconWallPosterVar]</texture>
@@ -295,7 +295,7 @@
 					<visible>Skin.HasSetting(enable_LibraryDiscArt)</visible>
 					<visible>!String.IsEmpty(ListItem.Art(discart)) + !String.IsEqual(ListItem.DbType,album) + !String.IsEqual(ListItem.DbType,song) + !ListItem.IsCollection</visible>
 					<animation effect="slide" start="0,0" end="360,0" time="300" tween="cubic" easing="out">VisibleChange</animation>
- 					<animation effect="fade" start="100" end="0" time="200" condition="String.IsEmpty(ListItem.Art(discart))">Conditional</animation>
+					<animation effect="fade" start="100" end="0" time="200" condition="String.IsEmpty(ListItem.Art(discart))">Conditional</animation>
 					<control type="image">
 						<left>0</left>
 						<top>0</top>
@@ -588,17 +588,6 @@
 						<visible>String.IsEmpty(ListItem.Plot)</visible>
 					</control>
 					<control type="textbox">
-						<top>0</top>
-						<width>535</width>
-						<bottom>244</bottom>
-						<left>10</left>
-						<align>justify</align>
-						<autoscroll time="5000" delay="5000" repeat="5000">!System.HasModalDialog + Skin.HasSetting(AutoScroll)</autoscroll>
-						<label>[B]$VAR[CollectionNumberVar][/B][CR][COLOR white]$INFO[Window(Home).Property(SkinHelper.ListItem.Plot)][/COLOR]</label>
-						<textcolor>$VAR[SkinColorVar]</textcolor>
-						<visible>String.IsEqual(Skin.Font, Arial) + String.IsEmpty(ListItem.Plot)</visible>
-					</control>
-					<control type="textbox">
 						<top>41</top>
 						<width>535</width>
 						<bottom>276</bottom>
@@ -666,7 +655,7 @@
 						<visible>!String.IsEmpty(ListItem.DBID)</visible>
 						<include content="InfoList">
 							<param name="list_id" value="42000" />
-							<param name="bottom" value="100" />
+							<param name="bottom" value="120" />
 							<param name="width" value="540" />
 							<param name="sortby" value="year" />
 							<param name="sortorder" value="descending" />
@@ -676,7 +665,7 @@
 						</include>
 						<include content="InfoList">
 							<param name="list_id" value="43000" />
-							<param name="bottom" value="100" />
+							<param name="bottom" value="120" />
 							<param name="width" value="540" />
 							<param name="sortby" value="track" />
 							<param name="sortorder" value="ascending" />

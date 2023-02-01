@@ -1314,7 +1314,7 @@
 			<linespacing>.8</linespacing>
 		</font>
 		<font>
-		<name>Font-Disc2</name>
+		    <name>Font-Disc2</name>
 			<filename>PermanentMarker.ttf</filename>
 			<size>26</size>
 			<linespacing>.8</linespacing>

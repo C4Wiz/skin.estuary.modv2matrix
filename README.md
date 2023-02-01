@@ -58,6 +58,9 @@ supports animated poster only.
 ### 3.4.2+matrix ###
 - .20
   * extend power menu property "reboot from eMMC/NAND"
+  * Add title list to album view pt.1
+  * Add additional info to album view pt.2
+  * Fix MPAA rating "Rated M"
 
 - .19
   * Listview bugfix
